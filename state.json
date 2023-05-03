@@ -1,0 +1,2504 @@
+{
+  "cookies": [
+    {
+      "name": "JSESSIONID",
+      "value": "zXj3-ZlyObL2eeQN-zgbp4rzCVi9hOHMOhYXpH-G.peplap02874",
+      "domain": "secure.mypepsico.com",
+      "path": "/associatesso",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09AN7OPSN1W-slDhYz_dweb3BmtsLJ094BmnV5UGKAwhz9v-bTcNtkiAOpfHU5MWovmZHbAFxWmCpd0j6rTH2DFb4",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1698685090.702818,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "a6rt52RSeDEw8hzmAzEQAg==",
+      "domain": "louren.co.in",
+      "path": "/",
+      "expires": 1717686321.386934,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.678293992.1683126322",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1690902321,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.2.1683126321874.269947607",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1690907926,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1482760352.1683126322",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1683218324,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.586636744.1683126364",
+      "domain": ".mueveloconpepsi.com",
+      "path": "/",
+      "expires": 1683219279,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.239377977.1683126406",
+      "domain": ".promopepsi.com.ar",
+      "path": "/",
+      "expires": 1717686406.108733,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "cunivd4h45ipmwakodvfel2o",
+      "domain": "doritos.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__RequestVerificationToken",
+      "value": "WttSBKoflkhmlDzg88lZdbLnjCtRPIub7Er6NbzcJGr7NgglkPaKAwDQaDNhwoxKYJ6xTOsJb1RRt7-u2y95cJalL_zO4PoPPFAZwHCg2lM1",
+      "domain": "doritos.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1169749231.1683126448",
+      "domain": ".doritos.com.br",
+      "path": "/",
+      "expires": 1690902448,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1820962939.1683126448",
+      "domain": ".doritos.com.br",
+      "path": "/",
+      "expires": 1683219278,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.2.1683126448414.1790343183",
+      "domain": ".doritos.com.br",
+      "path": "/",
+      "expires": 1690908879,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CLID",
+      "value": "000dfba811dd46fbab283b6a5ef9935b.20230503.20240502",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1714662449.514456,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "1pzlzqo|1|fba|0",
+      "domain": ".doritos.com.br",
+      "path": "/",
+      "expires": 1714662448,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "personalization_id",
+      "value": "\"v1_dlun1i4lyF/m1ETQNrorpg==\"",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1717686448.581647,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "muc_ads",
+      "value": "8116816c-7a26-4502-98de-7c4d6a094143",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1717686448.646678,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUkcKaQVP9Go5AxsqmZ1UGDPrGA8PjFNkikeyezEn5GibRZXhb5js56g-9ba",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1717686448.685083,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ttp",
+      "value": "2PHuhdoO96NRaBbXMZ0UpDF4xEV",
+      "domain": ".tiktok.com",
+      "path": "/",
+      "expires": 1716828879.267288,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_tt_enable_cookie",
+      "value": "1",
+      "domain": ".doritos.com.br",
+      "path": "/",
+      "expires": 1716822448,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ttp",
+      "value": "4MZF__he_0QmkmPiuTFboUfgr6e",
+      "domain": ".doritos.com.br",
+      "path": "/",
+      "expires": 1716822448,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "A3",
+      "value": "d=AQABBLF4UmQCEIMMDb4ofnmu_JfLNbwtnHAFEgEBAQHKU2RcZB6kxyMA_eMAAA&S=AQAAAiNKmg_Is40CDpG3zZDhnUk",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1714690531.277967,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "26D7750CF28866AC3411660AF39C67BD",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1716822450.428587,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1683731250.428688,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "26D7750CF28866AC3411660AF39C67BD",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1716822450.428718,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "26D7750CF28866AC3411660AF39C67BD",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1716822451.553329,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1683731251.553378,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.869099950.1683126871",
+      "domain": ".lays.com.br",
+      "path": "/",
+      "expires": 1690902870,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.938315190.1683126871",
+      "domain": ".lays.com.br",
+      "path": "/",
+      "expires": 1683219278,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clck",
+      "value": "8nwux|1|fba|0",
+      "domain": ".lays.com.br",
+      "path": "/",
+      "expires": 1714662871,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_tt_enable_cookie",
+      "value": "1",
+      "domain": ".lays.com.br",
+      "path": "/",
+      "expires": 1716822871,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ttp",
+      "value": "Gpd3T04tMukPj2vPAt1wycap5dY",
+      "domain": ".lays.com.br",
+      "path": "/",
+      "expires": 1716822871,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.2.1683126871318.1536734367",
+      "domain": ".lays.com.br",
+      "path": "/",
+      "expires": 1690908880,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__RequestVerificationToken",
+      "value": "hBbui0uk5IXKyEqdquV7h1Syyc9x-S_HDQKKMqZx9rXMA_QE13q_9VUIicKnCDBAAbd9nSH1W6E03hrtR_nsBxEnJxINxlSr0tkWl0-B2n01",
+      "domain": "gatorade.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "et1hyvjnsq0lifruqh3o14c1",
+      "domain": "gatorade.com.br",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1222470258.1683126903",
+      "domain": ".tussnacksfavoritos.com",
+      "path": "/",
+      "expires": 1717692878.939508,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1748183432.1683126903",
+      "domain": ".tussnacksfavoritos.com",
+      "path": "/",
+      "expires": 1683219278,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1683126902840.296953084",
+      "domain": ".tussnacksfavoritos.com",
+      "path": "/",
+      "expires": 1690908881,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.742592627.1683128619",
+      "domain": ".fritolaysnacks.com.pe",
+      "path": "/",
+      "expires": 1717692880.950986,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1710979564.1683128619",
+      "domain": ".fritolaysnacks.com.pe",
+      "path": "/",
+      "expires": 1683219280,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "h2as3pokljcdz1iqlggeputp",
+      "domain": "pepsi.at",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.2.1683128619558.935598159",
+      "domain": ".fritolaysnacks.com.pe",
+      "path": "/",
+      "expires": 1690908883,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "implied,eu",
+      "domain": ".pepsi.at",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_preferences",
+      "value": "2:",
+      "domain": ".pepsi.at",
+      "path": "/",
+      "expires": 1698680623,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_gdpr_prefs",
+      "value": "0,1,2::implied,eu",
+      "domain": ".pepsi.at",
+      "path": "/",
+      "expires": 1698680623,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cmapi_gtm_bl",
+      "value": "",
+      "domain": ".pepsi.at",
+      "path": "/",
+      "expires": 1698680623,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cmapi_cookie_privacy",
+      "value": "permit 1,2,3",
+      "domain": ".pepsi.at",
+      "path": "/",
+      "expires": 1698680623,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "none",
+      "domain": ".pepsicoicecek.com.tr",
+      "path": "/",
+      "expires": 1698684903,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "none",
+      "domain": ".7up.fr",
+      "path": "/",
+      "expires": 1698684902,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "none",
+      "domain": ".alvalle.fr",
+      "path": "/",
+      "expires": 1698684904,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cc_cookie_demo2",
+      "value": "{\"categories\":[\"necessary\",\"analytics\",\"ads\",\"necessary\",\"analytics\",\"ads\"],\"level\":[\"necessary\",\"analytics\",\"ads\",\"necessary\",\"analytics\",\"ads\"],\"revision\":1,\"data\":null,\"rfc_cookie\":false,\"consent_date\":\"2023-05-03T15:44:12.551Z\",\"consent_uuid\":\"89293dcb-6651-45ba-a0cb-c77ec140713e\",\"last_consent_update\":\"2023-05-03T15:44:12.551Z\"}",
+      "domain": ".fruko.com.tr",
+      "path": "/",
+      "expires": 1714664652,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "none",
+      "domain": ".fruko.com.tr",
+      "path": "/",
+      "expires": 1698684904,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cc_cookie_demo2",
+      "value": "{\"categories\":[\"necessary\",\"analytics\",\"ads\",\"necessary\",\"analytics\",\"ads\"],\"level\":[\"necessary\",\"analytics\",\"ads\",\"necessary\",\"analytics\",\"ads\"],\"revision\":1,\"data\":null,\"rfc_cookie\":false,\"consent_date\":\"2023-05-03T15:44:16.230Z\",\"consent_uuid\":\"78c57b0b-f16a-4790-ac28-281f29634ef6\",\"last_consent_update\":\"2023-05-03T15:44:16.230Z\"}",
+      "domain": ".pepsicoicecek.com.tr",
+      "path": "/",
+      "expires": 1714664656,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "none",
+      "domain": ".lays.hu",
+      "path": "/",
+      "expires": 1698684903,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cookies",
+      "value": "1",
+      "domain": "lays.it",
+      "path": "/",
+      "expires": 1717688667.744041,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSELBAuthSessionCookie-0",
+      "value": "\"7d4c1ec8feafc93e\"",
+      "domain": "lays.it",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "none",
+      "domain": ".lays.it",
+      "path": "/",
+      "expires": 1698684903,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1600140491.1683128890",
+      "domain": ".quaker.fr",
+      "path": "/",
+      "expires": 1690904890,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1683128890177.1822105089",
+      "domain": ".quaker.fr",
+      "path": "/",
+      "expires": 1690908925,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "none",
+      "domain": ".pepsi.fr",
+      "path": "/",
+      "expires": 1698684909,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "none",
+      "domain": ".quaker.fr",
+      "path": "/",
+      "expires": 1698684925,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "YSC",
+      "value": "yNX4iiT8SgI",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "VISITOR_INFO1_LIVE",
+      "value": "4GjtkUXSt7M",
+      "domain": ".youtube.com",
+      "path": "/",
+      "expires": 1698680890.680996,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pepsi",
+      "value": "6660c7a2ff1ec925af152071ca3827b6",
+      "domain": "lipton-probier-mich.de",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "implied,eu",
+      "domain": ".lipton-probier-mich.de",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_preferences",
+      "value": "2:",
+      "domain": ".lipton-probier-mich.de",
+      "path": "/",
+      "expires": 1698680897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_gdpr_prefs",
+      "value": "0,1,2::implied,eu",
+      "domain": ".lipton-probier-mich.de",
+      "path": "/",
+      "expires": 1698680897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cmapi_gtm_bl",
+      "value": "",
+      "domain": ".lipton-probier-mich.de",
+      "path": "/",
+      "expires": 1698680897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cmapi_cookie_privacy",
+      "value": "permit 1,2,3",
+      "domain": ".lipton-probier-mich.de",
+      "path": "/",
+      "expires": 1698680897,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1489437689.1683128898",
+      "domain": ".lipton-probier-mich.de",
+      "path": "/",
+      "expires": 1683219327,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uuid",
+      "value": "d70c6452-8242-4600-8694-aacb8116dfd2",
+      "domain": ".mathtag.com",
+      "path": "/",
+      "expires": 1717084098.885872,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mt_misc",
+      "value": "mt_bt:1683128908",
+      "domain": ".mathtag.com",
+      "path": "/",
+      "expires": 1685720908.366294,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSELBAuthSessionCookie-0",
+      "value": "\"41d1473b5c373d8a\"",
+      "domain": "lays-images.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "98557c1c559d451f4eb617435316db93",
+      "domain": "lays-images.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "uvqiuzapjwcnoud2ue5qhcbc",
+      "domain": "pepsi.si",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.494411615.1683128914",
+      "domain": ".pepsi.si",
+      "path": "/",
+      "expires": 1717692926.838062,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.309876845.1683128914",
+      "domain": ".pepsi.si",
+      "path": "/",
+      "expires": 1683219326,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "implied,eu",
+      "domain": ".pepsi.si",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_behavior",
+      "value": "none",
+      "domain": ".pepsimax.it",
+      "path": "/",
+      "expires": 1698684927,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visited",
+      "value": "true",
+      "domain": "simba.co.za",
+      "path": "/",
+      "expires": 1714668929,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.736726688.1683128918",
+      "domain": ".simba.co.za",
+      "path": "/",
+      "expires": 1683219329,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "notice_preferences",
+      "value": "2:",
+      "domain": ".pepsi.si",
+      "path": "/",
+      "expires": 1698680924,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notice_gdpr_prefs",
+      "value": "0,1,2::implied,eu",
+      "domain": ".pepsi.si",
+      "path": "/",
+      "expires": 1698680924,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1172358975.1683129057",
+      "domain": ".pepsimax.com.au",
+      "path": "/",
+      "expires": 1683219460,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "token",
+      "value": "null",
+      "domain": "cms.dothedewsaudi.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1002764202.1683129060",
+      "domain": ".liquifruit.co.za",
+      "path": "/",
+      "expires": 1683219463,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmc",
+      "value": "204328848",
+      "domain": ".quaker.com.my",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmz",
+      "value": "204328848.1683129080.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)",
+      "domain": ".quaker.com.my",
+      "path": "/",
+      "expires": 1698901061,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "id",
+      "value": "10594858867560989393",
+      "domain": ".mookie1.com",
+      "path": "/",
+      "expires": 1717261062.796159,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mdata",
+      "value": "1|10594858867560989393|1683129080841",
+      "domain": ".mookie1.com",
+      "path": "/",
+      "expires": 1717261062.796193,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ov",
+      "value": "c1b3231de169fcfdcad2ddcf0969e127",
+      "domain": ".mookie1.com",
+      "path": "/",
+      "expires": 1717261062.796205,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.279996973.1683129082",
+      "domain": ".pepsico.com.pk",
+      "path": "/",
+      "expires": 1683219461,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.1129911852.1683129104",
+      "domain": ".moirs.co.za",
+      "path": "/",
+      "expires": 1683219461,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1102761059.1683129107",
+      "domain": ".khouseofpepsi.com",
+      "path": "/",
+      "expires": 1717693061.71466,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.2107351738.1683129107",
+      "domain": ".khouseofpepsi.com",
+      "path": "/",
+      "expires": 1683219461,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_TOKEN",
+      "value": "%24NOT_FOUND",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1683135061,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TAsessionID",
+      "value": "54b1eb15-5e67-4564-9ea7-202dbb35dbc4|EXISTING",
+      "domain": ".pepsi.at",
+      "path": "/",
+      "expires": 1683133292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TAsessionID",
+      "value": "b256da40-0f6e-4639-b97c-5ef6842619f2|EXISTING",
+      "domain": ".lipton-probier-mich.de",
+      "path": "/",
+      "expires": 1683133354,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TAsessionID",
+      "value": "fef5d5b4-4b16-427a-8ac8-4ac8ae1f8024|EXISTING",
+      "domain": ".pepsi.si",
+      "path": "/",
+      "expires": 1683133358,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1962317769.1683126322",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1717691924.819188,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_LFXQKSQZY1",
+      "value": "GS1.1.1683131460.2.1.1683131936.0.0.0",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1717691936.315847,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GTM_SessionEngagementTime",
+      "value": "30%7C32675",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1683133736,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6IjViMml1K2RFZ21XVHJ4ZVFjMlNzT2c9PSIsInZhbHVlIjoiTFEySk1BY2d3ek5nQmFRSnFQbmlldXB0ek5sUHdGTlUyVnFOcjZZZ0hqL3hjNWV3a3dMclc2OGd6MVdDcTV6eWZaeDVSMWttRmJ6V1ZrMEhQKzd6bzQxWUxpUzdIcEF0eTRXYzBjakRhTytvVEs2YnR4bGZZUk8yTTdHQy9lMkQiLCJtYWMiOiIyOWQ4ZWEwNzdiZmUyOTVjYzJkZDNiMzJhMWZmZDI5NjE0ODU0NzM3NjkyZTExMGZmZDEwZmU5YjQ4ODQ5ODU0In0%3D",
+      "domain": "campoaopacote.lays.com.br",
+      "path": "/",
+      "expires": 1683140078.344867,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lays_rustica_session",
+      "value": "eyJpdiI6IlF1MEUvcEVYOXRxTXNZcFFXTXBYS3c9PSIsInZhbHVlIjoidDB4TGlRanJRTWlzME9qYWZnWDhaRXUydmIvNGl4K21yWDR1OW9hZThPbmh3REdQZm5jczlLazlidDA2aC8rcDJZaUZPNlY0MlZmOE9yZ0NzRE8wZW1mc3c4ckdrcFYvaFJ0ZkFJclJNTkQzL0tPRjN6S0ZZRDB0N2VHemVJaDQiLCJtYWMiOiJhOGNiNDY2MGI4NmFlNGFlYThjZjI0ZjRkMTZlMGE0OTE0MmVlNjIwOGE5NzFkNmE3YmU3MTdmMjJlMmUwNDZjIn0%3D",
+      "domain": "campoaopacote.lays.com.br",
+      "path": "/",
+      "expires": 1683140078.344917,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1134097483.1683126871",
+      "domain": ".lays.com.br",
+      "path": "/",
+      "expires": 1717692879.045351,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1292577705.1683126364",
+      "domain": ".mueveloconpepsi.com",
+      "path": "/",
+      "expires": 1717692879.176889,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.527579117.1683126448",
+      "domain": ".doritos.com.br",
+      "path": "/",
+      "expires": 1717692879.240303,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "1g13l3c|1683132879487|3|1|p.clarity.ms/collect",
+      "domain": ".lays.com.br",
+      "path": "/",
+      "expires": 1683219279,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "1j1dsqf|1683132879620|3|1|p.clarity.ms/collect",
+      "domain": ".doritos.com.br",
+      "path": "/",
+      "expires": 1683219279,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_6LEJVNGDRP",
+      "value": "GS1.1.1683131483.2.1.1683132899.0.0.0",
+      "domain": ".lays.com.br",
+      "path": "/",
+      "expires": 1717692899.731937,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_9JFBQVTB60",
+      "value": "GS1.1.1683131460.2.1.1683132899.0.0.0",
+      "domain": ".promopepsi.com.ar",
+      "path": "/",
+      "expires": 1717692899.767654,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_6N8BJM8118",
+      "value": "GS1.1.1683131460.2.1.1683132899.0.0.0",
+      "domain": ".mueveloconpepsi.com",
+      "path": "/",
+      "expires": 1717692899.809816,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_HPFHKFTD8H",
+      "value": "GS1.1.1683131460.2.1.1683132899.0.0.0",
+      "domain": ".doritos.com.br",
+      "path": "/",
+      "expires": 1717692899.908128,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lay_v2_session",
+      "value": "9%2F7To3WlIiGwtI2jNi%2F43NNMlVOaY6NbxFRAoWqzb44WEZuCZ3yenz661TvwrsRheNowRU6mTnZ6dVnL4LV3NgX8cI4nsYkK%2BCgP8aNCbMzVL0a5NDJh%2B6RuBdWWK0%2BR1USclIj4ljEtpbOb2%2Fk%3D--q42%2BeCDnEhkwPeHv--OnIOUapfcPCKFrcQbN0zBw%3D%3D",
+      "domain": "lays.it",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AreCookiesEnabled",
+      "value": "543",
+      "domain": "lays-images.com",
+      "path": "/",
+      "expires": 1683219327,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.882525342.1683128898",
+      "domain": ".lipton-probier-mich.de",
+      "path": "/",
+      "expires": 1717692927.933663,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "khaos",
+      "value": "LH7XVZMM-I-9NDI",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1714668928.865457,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit",
+      "value": "1|8nOV19dTtjuE84p1Qa/+hGAdU1gIWsrfTUpGQiYO7I1D8VO3opl666+V9LUQt0XoaGGV/f8hXlaM1KxoLazIt98W4jbW+JY1umJCsqOj6/+YPC6YlFITO4u2ut7sqXurYKZ+/LSRf+aJvmENvLQqeC3Djj0NXe3nuoMAqkBoC3Eb5m9l8WlLTlNbZSLV7tz+pmvllXEtYN4=",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1714668928.86549,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1703581257.1683128918",
+      "domain": ".simba.co.za",
+      "path": "/",
+      "expires": 1717692929.45156,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bku",
+      "value": "ROW999vuDZulRWR1",
+      "domain": ".bluekai.com",
+      "path": "/",
+      "expires": 1699030530.404574,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bkpa",
+      "value": "KJy91QeBd02pSUHknpx6BeQdSVx2jezyRpR6BE/+me/61i66BM9ynEQtmEx+RVaMRMQh1EjAjZx09yOul96x",
+      "domain": ".bluekai.com",
+      "path": "/",
+      "expires": 1699030530.404621,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tluid",
+      "value": "4393238919707850760347",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1690908930.588884,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_rxuuid",
+      "value": "%7B%22rx_uuid%22%3A%22RX-c8128785-a257-4c9b-88ab-1b5774aa791d-005%22%7D",
+      "domain": ".1rx.io",
+      "path": "/",
+      "expires": 1714668930.556804,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid2",
+      "value": "3600919586925205291",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1690909062.65355,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "4a114878-dfed-4ac9-8ebb-7bae8291afb0",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1714668930.748063,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1683132930",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1714668930.613962,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1683132930",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1714668930.748091,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "HAPLB8S",
+      "value": "s85123|ZFKSB",
+      "domain": ".go.sonobi.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "c11f5547-a5b1-44ee-acc6-a8eaa625fece",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1690908930.739433,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1683132930",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1690908930.739467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1683132930684",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1688316930.878617,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "08d506f0-4052-4262-baa8-35d994564f97",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1688316930.878662,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_27",
+      "value": "16735-uid:d70c6452-8242-4600-8694-aacb8116dfd2&KRTB&16736-uid:d70c6452-8242-4600-8694-aacb8116dfd2&KRTB&23019-uid:d70c6452-8242-4600-8694-aacb8116dfd2&KRTB&23114-uid:d70c6452-8242-4600-8694-aacb8116dfd2",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1690908930.823243,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "value": "1683132929",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1685724930.82329,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMID",
+      "value": "ZFKSAtJDCqLAit9P71xagAAA",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1714668931.030961,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPS",
+      "value": "1707",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1690908931.031,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CMPRO",
+      "value": "1707",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1690908931.031008,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1688316930.878676,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "um",
+      "value": "!5,YS95ulROgllucaTrSkenpDfcVEZpnwBAnersNPnIHl7.0ISn4HxClfLUx28AX-Pd2-A,1690908930",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1690908930.889379,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "umeh",
+      "value": "!5,0,1745340930,-1",
+      "domain": ".360yield.com",
+      "path": "/",
+      "expires": 1690908930.889418,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "i",
+      "value": "52567c53-3a59-4fc0-ab36-955858d303fd|1683132930",
+      "domain": ".openx.net",
+      "path": "/",
+      "expires": 1714668931.055342,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_rxuuid",
+      "value": "%7B%22rx_uuid%22%3A%22RX-c8128785-a257-4c9b-88ab-1b5774aa791d-005%22%7D",
+      "domain": ".targeting.unrulymedia.com",
+      "path": "/",
+      "expires": 1714668931.173971,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDSYNC",
+      "value": "175u~2bfs",
+      "domain": ".analytics.yahoo.com",
+      "path": "/",
+      "expires": 1714668931.27793,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gtm_usr",
+      "value": "8ab53002-8c80-4cdb-af1e-394f4001678e",
+      "domain": ".colossusssp.com",
+      "path": "/",
+      "expires": 1714668933.94628,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audience",
+      "value": "5050637b-e9d3-11ed-8c8d-170248310201",
+      "domain": ".spotxchange.com",
+      "path": "/",
+      "expires": 1685552131.557617,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid-bp-529",
+      "value": "d70c6452-8242-4600-8694-aacb8116dfd2",
+      "domain": ".ads.stickyadstv.com",
+      "path": "/",
+      "expires": 1688316932.025653,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UID",
+      "value": "25d5e3ca5e32d9767345ec023f526d3",
+      "domain": ".ads.stickyadstv.com",
+      "path": "/",
+      "expires": 1685724932.025709,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yieldmo_id",
+      "value": "g62c5dacb45e2ddc4126%7C1683132931960%7C0%7C",
+      "domain": ".yieldmo.com",
+      "path": "/",
+      "expires": 1714668932.078793,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bito",
+      "value": "AABZ4U7IpSQAACApL5yvEA",
+      "domain": ".bidr.io",
+      "path": "/",
+      "expires": 1717246533.008179,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bitoIsSecure",
+      "value": "ok",
+      "domain": ".bidr.io",
+      "path": "/",
+      "expires": 1717246533.008225,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lmg_r",
+      "value": "3|58|67",
+      "domain": ".colossusssp.com",
+      "path": "/",
+      "expires": 1714668933.946344,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "V",
+      "value": "wx793uzJWrSo",
+      "domain": ".contextweb.com",
+      "path": "/",
+      "expires": 1714236933.770876,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pb_rtb_ev",
+      "value": "3-1kdn|89b.0.1",
+      "domain": ".contextweb.com",
+      "path": "/",
+      "expires": 1714668933.770901,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "INGRESSCOOKIE",
+      "value": "92370508e11c6f58",
+      "domain": "bh.contextweb.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mt_mop",
+      "value": "4:1683131487|21:1683131487|10011:1683131487|10010:1683131487|42:1683131487|74:1683131487|44:1683131487|10017:1683131487|10074:1683131487|9:1683131487|15:1683131487|51:1683131487|10054:1683131487|10072:1683131487|3:1683131487|46:1683131487|30:1683131487|13:1683131487|276:1683131487|5:1683131487",
+      "domain": ".mathtag.com",
+      "path": "/",
+      "expires": 1685724937.246506,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_BGKTNL9S3B",
+      "value": "GS1.1.1683131554.2.1.1683132947.0.0.0",
+      "domain": ".lipton-probier-mich.de",
+      "path": "/",
+      "expires": 1717692947.063102,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_DSNSN16THG",
+      "value": "GS1.1.1683131563.2.1.1683132950.0.0.0",
+      "domain": ".simba.co.za",
+      "path": "/",
+      "expires": 1717692950.381273,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_KBGTSF5R4W",
+      "value": "GS1.1.1683131563.2.1.1683132950.0.0.0",
+      "domain": ".simba.co.za",
+      "path": "/",
+      "expires": 1717692950.385717,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1428690479.1683129057",
+      "domain": ".pepsimax.com.au",
+      "path": "/",
+      "expires": 1717693060.647301,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2073163766.1683129104",
+      "domain": ".moirs.co.za",
+      "path": "/",
+      "expires": 1717693061.486403,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utma",
+      "value": "204328848.1958024644.1683129080.1683129080.1683133062.2",
+      "domain": ".quaker.com.my",
+      "path": "/",
+      "expires": 1717693061.577347,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmt",
+      "value": "1",
+      "domain": ".quaker.com.my",
+      "path": "/",
+      "expires": 1683133661,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmb",
+      "value": "204328848.1.10.1683133062",
+      "domain": ".quaker.com.my",
+      "path": "/",
+      "expires": 1683134861,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.385450335.1683129082",
+      "domain": ".pepsico.com.pk",
+      "path": "/",
+      "expires": 1717693062.063466,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "xdm",
+      "value": "true",
+      "domain": ".mookie1.com",
+      "path": "/",
+      "expires": 1685725062,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "f2a2e25b-8075-4099-bcfa-93901f845bdf",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1714755462.193338,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESFQoGbW9va2llEgsIjI_3rLGA5jsQBRgFOAFCBCICCAE.",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1714755462.193392,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ab",
+      "value": "0001%3AtBfv%2BQeGpvqZtH5DbNLR5evWcCII2KLN",
+      "domain": ".agkn.com",
+      "path": "/",
+      "expires": 1714669062.308628,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "syncdata_TTD",
+      "value": "1",
+      "domain": ".mookie1.com",
+      "path": "/",
+      "expires": 1683997062.3325,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "syncdata_DBC",
+      "value": "1",
+      "domain": ".mookie1.com",
+      "path": "/",
+      "expires": 1683997062.523527,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "jvxsync",
+      "value": "tDdkNJZTOLv3",
+      "domain": ".jivox.com",
+      "path": "/",
+      "expires": 1690909062.593219,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "anj",
+      "value": "dTM7k!M4/8CxrEQF']wIg2HaOG@FFu!@wnf-Te9(>wL5L!!'6a$YXRS",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1690909062.609644,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.486110577.1683129060",
+      "domain": ".liquifruit.co.za",
+      "path": "/",
+      "expires": 1717693063.734356,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_EBL39WGCVG",
+      "value": "GS1.1.1683133060.2.1.1683133081.0.0.0",
+      "domain": ".pepsimax.com.au",
+      "path": "/",
+      "expires": 1717693081.41557,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_D8V186Q20P",
+      "value": "GS1.1.1683133061.2.1.1683133083.0.0.0",
+      "domain": ".pepsico.com.pk",
+      "path": "/",
+      "expires": 1717693083.013084,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_MHHN0DV1LY",
+      "value": "GS1.1.1683133061.2.1.1683133083.0.0.0",
+      "domain": ".moirs.co.za",
+      "path": "/",
+      "expires": 1717693083.354183,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6ImtTMXdMMGJ1OTV3L0drb2tSVlNuZXc9PSIsInZhbHVlIjoicS9lNGpITFNnNU1PZDhFRFZDL3psb2ZyZ2QvNEQ0SzRja2RsZUFKSFpjMGdOcGNrcStvVm5tWnBsR3hEUkxOeElkZkd4MXVCT2YySndXR21tSFozZ1FCMVh3SU50Q0ZHbi9IbFVTWExSSXNMOGJGanF4NVVyUjBlakQ3RXZNa1ciLCJtYWMiOiI3MGFlZmE5YjAzODU4NzgyMDVlYThkNTdlMzA0MWFiYTNmYjVmMjQxNGIyNTQyZjY2NmM1NTYyN2YwMWU0MDA5IiwidGFnIjoiIn0%3D",
+      "domain": "dothedewsaudi.com",
+      "path": "/",
+      "expires": 1683140283.532963,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "md_session",
+      "value": "eyJpdiI6IitCaVpkZGFEc0d0b29SWEV0QmZoZWc9PSIsInZhbHVlIjoidlZocG80bnk1MTU2Qkx5TE5HWjlKY0hDNzdNZklkTE1QNTNXL0hhZTZFei9Qa2JCOGhMTERhYm8xZmRMbVRkZFJRc3JKVW9Jb3JnVlYvUWRuaEpaWHdIRFVzcnBvSkxiMHBxMnRRQ2RBUzlxbTduMkw2OE1yeGtxTU5rdm50NkQiLCJtYWMiOiI3MjY0ZWMwN2ViODI4ZmUxNWMyZmY4MDNkOTZiZDY5MTZkYjQ3NGZjYTY5MGJkMzVlOTI0NDViODBiOGNmOGExIiwidGFnIjoiIn0%3D",
+      "domain": "dothedewsaudi.com",
+      "path": "/",
+      "expires": 1683140283.532995,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.55422698.1683133084",
+      "domain": ".dothedewsaudi.com",
+      "path": "/",
+      "expires": 1717693084.03299,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_PC99412GHW",
+      "value": "GS1.1.1683133063.2.1.1683133084.0.0.0",
+      "domain": ".liquifruit.co.za",
+      "path": "/",
+      "expires": 1717693084.521172,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "connect.sid",
+      "value": "s%3AIuIHBXN4b49c00MD-D4h58r1lm-SaLMS.kDGlvQUcdHadaKpB1f0D2aaqfB%2Bl8BxQGq7JqfbwQWQ",
+      "domain": "websitecontrolcenter.pepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6IktOTHpNSjVkQ01MWDZtR1Rob2s4Smc9PSIsInZhbHVlIjoiRmZBWDlrSkRVdTU2VjZrN1UxYnNFVDEwM2srZXB5TzBaRG1GWmpqY1NjdDI5cHV4ck05d0FERlVQWVdaN3dQMHNTTXdTV2hmMnVJNmRFaFBsTlFvR1czazZTZThOb2xBUlVNeVZQSWpwXC9YVzgyclZKakFMS2FUR1NMTEltd1Y5IiwibWFjIjoiZmRhMjM0YjY4NzMxMjNjOWFhMzg3NGUxYjg1ZjU4MWQ3Y2U0ZDI4YjM1N2Y2OGQxYWNhNmYyYmZjMWIzZjcwNCJ9",
+      "domain": "api.brasil3kmpepsi.com",
+      "path": "/",
+      "expires": 1683140285.28179,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "kmcapacitacao_session",
+      "value": "eyJpdiI6InZsTjh6aEY1c0M5aFFheTA4UTZGOXc9PSIsInZhbHVlIjoiVlBsdkRtV21Zelc5V0pHSEZRXC80emZ6VUNySG9qVkw3b1dBdEZzTnhcL3IyZUtUOVBsbExiU0FFTDN1QVB0dEdNY1dscnR4SEhFc3FOUHhnYVNGdWE3Y0JDRGVHdGhBcm02SHBzVENWQVFYdm9qUlRXWjlvMnpudUFwekFSNFJNcyIsIm1hYyI6ImUzOTRlMWU2MmYwZTRhY2VjOGExOTNmMTM3Zjc3OTM4NzVmN2VlMzRmZTE4MzgzOTJmYzk0YjNmYTc0YjNkMjMifQ%3D%3D",
+      "domain": "api.brasil3kmpepsi.com",
+      "path": "/",
+      "expires": 1683140285.281822,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1417177840.1683133086",
+      "domain": ".pocavietnam.com",
+      "path": "/",
+      "expires": 1717693085.574296,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1683133085691.320329278",
+      "domain": ".pocavietnam.com",
+      "path": "/",
+      "expires": 1690909086,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6InlLblpBQW1nTFF0RXRNellaNnUvVVE9PSIsInZhbHVlIjoiMGJscXQwbVh5TkJDSWw4cW9iN2NtSURSUWJZNm5GRHArU0hVdVBlWWZGWDVTQ2FKZE1BSFFXV0FuaVZ5ZDZoa1doeEpqa0MxTmpBNEdqeW9lSkc0V0xzMGdBKzJGRk1jc2Yvb0lSR3lJUVAyV1hFc1pzb1lmVURLK3QxeUZwdDQiLCJtYWMiOiIyNmQxMDA2Njg4MTI4ZWMyOWUyZWIxNjUzNTYyOGE4OWFiNjUzNTI3NDQ3MDU2MGZlYmRmNjEzYmRlOGUwMmQzIiwidGFnIjoiIn0%3D",
+      "domain": "api.3kmpepsi.com",
+      "path": "/",
+      "expires": 1683140285.898615,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "kmcapacitacion_session",
+      "value": "eyJpdiI6ImpFUERVQmlYZlVmdGVRNXB1eko4SUE9PSIsInZhbHVlIjoicG5tamlicTh4SFVBNlJhUGVUbFVNS08vZU1UVXZ2QXd6clEwWXV0T0oyVWRVV2dEcVJNT2RpQjhUd3Y4ekI2SmplRkc5MzdZUWsxYjVQTkRSMFdRaEQ2UC84b01EandoOWZiV09PMmJYRmx2N3BkZmJVcDJjVW1aTFRyblVwKzEiLCJtYWMiOiJlNTVhZWY0ZWMyYTE0NzgyZmMxNGQ5MzczOWVlN2FlMjhjNGFjMTY0OTVlZWY5Y2U3OGVjYTNkYjM1NzBiZTFmIiwidGFnIjoiIn0%3D",
+      "domain": "api.3kmpepsi.com",
+      "path": "/",
+      "expires": 1683140285.898632,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "okta-oauth-redirect-params",
+      "value": "{%22responseType%22:%22code%22%2C%22state%22:%22pKAKiPo05jfNt7Q9KrbOyDDL0sqxYgevSdsPh29Ipe3vcPhbuQGQcfvIKnYMh60k%22%2C%22nonce%22:%22juu1TW92yDvjnOGL7zpiboauTNPRzbytN99EspacyD3zKzE9TKgv0TMENGMevWgZ%22%2C%22scopes%22:[%22email%22%2C%22openid%22%2C%22profile%22%2C%22wsp-scope%22%2C%22address%22%2C%22phone%22%2C%22offline_access%22%2C%22pepappwspdashboardroles%22]%2C%22clientId%22:%220oa1n3xpen9l5J2YE0h8%22%2C%22urls%22:{%22issuer%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8%22%2C%22authorizeUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/authorize%22%2C%22userinfoUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/userinfo%22%2C%22tokenUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/token%22%2C%22revokeUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/revoke%22%2C%22logoutUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/logout%22}%2C%22ignoreSignature%22:false}",
+      "domain": "websitecontrolcenter.pepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "okta-oauth-nonce",
+      "value": "juu1TW92yDvjnOGL7zpiboauTNPRzbytN99EspacyD3zKzE9TKgv0TMENGMevWgZ",
+      "domain": "websitecontrolcenter.pepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "okta-oauth-state",
+      "value": "pKAKiPo05jfNt7Q9KrbOyDDL0sqxYgevSdsPh29Ipe3vcPhbuQGQcfvIKnYMh60k",
+      "domain": "websitecontrolcenter.pepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t",
+      "value": "default",
+      "domain": "secure.pepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "DT",
+      "value": "DI1FkBOSYikS8-ls49PAMqD3w",
+      "domain": "secure.pepsico.com",
+      "path": "/",
+      "expires": 1717693086.430462,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "username",
+      "value": "",
+      "domain": "secure.pepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "4FD1F8E59EE94FFECD057AEDC3DF8DB2",
+      "domain": "secure.pepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "appsecure-webapp",
+      "value": "!f0FsHLRPDK5SkcdDRjYdLmNzUcaeqkKdJi2ZIbwJP5HDj0v42WiD5s3OBhrRXydFX8GymNuSGbV0MR4=",
+      "domain": "secure.mypepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "visid_incap_2832534",
+      "value": "logKGtwEQlmGDomsLOgS1J6SUmQAAAAAQUIPAAAAAAA4wBQanTXu7MTDFmgA/Jbp",
+      "domain": ".mypepsico.com",
+      "path": "/",
+      "expires": 1714631934.897996,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "nlbi_2832534",
+      "value": "lEGfMZTrigf/3NSJRR+RtgAAAACfY4bUsrOXNLVTKL5kD5Bd",
+      "domain": ".mypepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "incap_ses_980_2832534",
+      "value": "LweQe75uQwNDt5H7D6mZDZ+SUmQAAAAAnVW8tMl/cF1bwq92r7F2KA==",
+      "domain": ".mypepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PEPSICO-ON-PACK-CSRF",
+      "value": "lEYL0hWMFnMNLRpNNcMulf8ssnS6O5riA",
+      "domain": ".smithstasteicons.com.au",
+      "path": "/",
+      "expires": 1683140289.233458,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "165739f6fd6",
+      "value": "1",
+      "domain": ".smithstasteicons.com.au",
+      "path": "/",
+      "expires": 1683140289.233506,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.919359061.1683133090",
+      "domain": ".smithstasteicons.com.au",
+      "path": "/",
+      "expires": 1683219490,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_gtag_UA_209052686_9",
+      "value": "1",
+      "domain": ".smithstasteicons.com.au",
+      "path": "/",
+      "expires": 1683133150,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1429005097.1683133090",
+      "domain": ".smithstasteicons.com.au",
+      "path": "/",
+      "expires": 1717693090.473793,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1935689035.1683133101",
+      "domain": ".pepsicr.com",
+      "path": "/",
+      "expires": 1717693101.347833,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1683133101380.47161308",
+      "domain": ".pepsicr.com",
+      "path": "/",
+      "expires": 1690909102,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_KCV6N35R2C",
+      "value": "GS1.1.1683133084.1.1.1683133105.0.0.0",
+      "domain": ".dothedewsaudi.com",
+      "path": "/",
+      "expires": 1717693105.117724,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_X57G4FH9T2",
+      "value": "GS1.1.1683133085.1.1.1683133106.0.0.0",
+      "domain": ".pocavietnam.com",
+      "path": "/",
+      "expires": 1717693106.466519,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1318686142.1683133108",
+      "domain": ".mialmacenero.cl",
+      "path": "/",
+      "expires": 1690909108,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.2025721708.1683133108",
+      "domain": ".mialmacenero.cl",
+      "path": "/",
+      "expires": 1717693108.130787,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1624454660.1683133108",
+      "domain": ".mialmacenero.cl",
+      "path": "/",
+      "expires": 1683219508,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-167974108-1",
+      "value": "1",
+      "domain": ".mialmacenero.cl",
+      "path": "/",
+      "expires": 1683133168,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1683133108349.122409992",
+      "domain": ".mialmacenero.cl",
+      "path": "/",
+      "expires": 1690909108,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gssi_de_ciencias_del_deporte_gatorade_session",
+      "value": "eyJpdiI6IlwvZG1kMGJTeWp5ZjEraHZodEI1SHJRPT0iLCJ2YWx1ZSI6IlZBNFc0bjdiQjR5NjI4WUk0dXVPaThERjVlUGlFSERrenRYcFAwNUJwNndObWRlamwybHdOTFFNQ2d0SmF1bm5sZ0VTQ0ZMYjFpbmEzMVRmY003dTBpTFwvaVJXdlc3TEd1ZFNaSitNWEVcL3E3ZVN2ZG5jbFJmWmRlYWNqK2VFTFYiLCJtYWMiOiI1MmRhNjgzN2U0ZmJiNzkxYzFmMTc0MDFiOWJkMjMyMzI0NzZhZGE0ZDIxMjY4MDgwNTkyYzFmNGIyOGMwYzVjIn0%3D",
+      "domain": "gssilatam.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1219539894.1683133109",
+      "domain": ".gssilatam.org",
+      "path": "/",
+      "expires": 1683219509,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-64637422-7",
+      "value": "1",
+      "domain": ".gssilatam.org",
+      "path": "/",
+      "expires": 1683133169,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.807733021.1683133110",
+      "domain": ".gssilatam.org",
+      "path": "/",
+      "expires": 1690909109,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-145358542-3",
+      "value": "1",
+      "domain": ".gssilatam.org",
+      "path": "/",
+      "expires": 1683133169,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1634744031.1683133109",
+      "domain": ".gssilatam.org",
+      "path": "/",
+      "expires": 1717693109.725467,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1683133109769.952812035",
+      "domain": ".gssilatam.org",
+      "path": "/",
+      "expires": 1690909125,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_V353KBL50G",
+      "value": "GS1.1.1683133090.1.1.1683133111.0.0.0",
+      "domain": ".smithstasteicons.com.au",
+      "path": "/",
+      "expires": 1717693111.431738,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_JMK7F3S9DH",
+      "value": "GS1.1.1683133101.1.1.1683133122.0.0.0",
+      "domain": ".pepsicr.com",
+      "path": "/",
+      "expires": 1717693122.717723,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "laravel_cookie_consent",
+      "value": "1",
+      "domain": ".gssilatam.org",
+      "path": "/",
+      "expires": 1717693125.057596,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_Z1P6ENCMSK",
+      "value": "GS1.1.1683133109.1.0.1683133131.0.0.0",
+      "domain": ".gssilatam.org",
+      "path": "/",
+      "expires": 1717693131.33129,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_F5C933V37B",
+      "value": "GS1.1.1683133109.1.0.1683133131.0.0.0",
+      "domain": ".gssilatam.org",
+      "path": "/",
+      "expires": 1717693131.335238,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://louren.co.in",
+      "localStorage": [
+        {
+          "name": "gtm_monitor",
+          "value": "{\"timestamp\":1683126839419,\"tags\":[{\"tagName\":\"Meta - InitiateCheckout\",\"fired\":true},{\"tagName\":\"All Pages - Timer - GA4 -- Library Session Engagement Time\",\"fired\":true},{\"tagName\":\"All Pages - Initialization - Infra -- Library Error Wrapper\",\"fired\":true},{\"tagName\":\"Meta - ViewContent\",\"fired\":true},{\"tagName\":\"Conversion Linker\",\"fired\":true},{\"tagName\":\"GA4 -- Config G-LFXQKSQZY1 louren.co.in\",\"fired\":true},{\"tagName\":\"All Pages - Load - Infra -- Hijack dataLayer.push -- Patches and Enrich with dataContext\",\"fired\":true},{\"tagName\":\"Google Ads Remarketing\",\"fired\":true},{\"tagName\":\"Inject Libraries\",\"fired\":true},{\"tagName\":\"All Pages - Load - Infra -- Create GTM Listeners\",\"fired\":true},{\"tagName\":\"Meta - Base\",\"fired\":true},{\"tagName\":\"Meta - PageView\",\"fired\":true},{\"tagName\":\"All Pages - Load - Infra -- Library Session Engagement Time\",\"fired\":true},{\"tagName\":\"GA -- Pageview\",\"fired\":true}]}"
+        }
+      ]
+    },
+    {
+      "origin": "https://mueveloconpepsi.com",
+      "localStorage": [
+        {
+          "name": "player-doNotDisturb",
+          "value": "false"
+        },
+        {
+          "name": "player-camera",
+          "value": "3rd"
+        },
+        {
+          "name": "pepsi-dance-player-showNav",
+          "value": "false"
+        },
+        {
+          "name": "tutorials",
+          "value": "true"
+        },
+        {
+          "name": "partyOverlayshowVideos",
+          "value": "true"
+        },
+        {
+          "name": "playerModel",
+          "value": "{\"uid\":\"uid_1683126363892\",\"image\":\"assets/images/avatar/default.jpg\",\"location\":\"Brazil\",\"name\":\"Barueri, Brazil\",\"gcmedia_mute_audio\":false,\"gcmedia_mute_video\":false,\"isVR\":false,\"DefaultAvatarVis_accessory\":null,\"DefaultAvatar_uAccessory\":[0.8666666666666667,0.8666666666666667,0.8666666666666667],\"DefaultAvatar_uColor\":[0.8666666666666667,0.8666666666666667,0.8666666666666667]}"
+        },
+        {
+          "name": "player-locale",
+          "value": "en"
+        },
+        {
+          "name": "firebase:host:pepsidance-default-rtdb.firebaseio.com",
+          "value": "\"s-usc1b-nss-2166.firebaseio.com\""
+        },
+        {
+          "name": "player-volumeVideo",
+          "value": "1"
+        },
+        {
+          "name": "player-notifications",
+          "value": "true"
+        },
+        {
+          "name": "player-accessoryColor",
+          "value": "#dddddd"
+        },
+        {
+          "name": "player-options",
+          "value": "[{\"id\":\"locale\",\"label\":\"settingsLocale\",\"type\":\"select\",\"values\":[{\"label\":\"en\",\"value\":\"en\"}]},{\"id\":\"theme\",\"label\":\"settingsTheme\",\"type\":\"toggle\",\"values\":[{\"label\":\"settingsAutoTheme\",\"value\":\"auto\"},{\"label\":\"settingsLightTheme\",\"value\":\"light\"},{\"label\":\"settingsDarkTheme\",\"value\":\"dark\"}]},{\"id\":\"camera\",\"label\":\"settingsCamera\",\"type\":\"toggle\",\"values\":[{\"icon\":\"core-pov-3rd\",\"label\":\"settingsCamera3rd\",\"value\":\"3rd\"},{\"icon\":\"core-pov-1st\",\"label\":\"settingsCamera1st\",\"value\":\"1st\"},{\"icon\":\"core-pov-aerial\",\"label\":\"settingsCameraAerial\",\"value\":\"aerial\"}]},{\"id\":\"doNotDisturb\",\"label\":\"settingsDisturb\",\"type\":\"boolean\",\"values\":[{\"label\":\"settingsDisturbOn\",\"value\":true},{\"label\":\"settingsDisturbOff\",\"value\":false}]},{\"id\":\"notifications\",\"label\":\"settingsNotifications\",\"type\":\"boolean\",\"values\":[{\"label\":\"settingsNotificationsOn\",\"value\":true},{\"label\":\"settingsNotificationsOff\",\"value\":false}]},{\"id\":\"motion\",\"label\":\"settingsMotion\",\"type\":\"boolean\",\"values\":[{\"label\":\"settingsMotionOn\",\"value\":true},{\"label\":\"settingsMotionOff\",\"value\":false}]},{\"id\":\"volumeVideo\",\"label\":\"settingsVideoVolume\",\"type\":\"range\",\"config\":{\"min\":0,\"max\":1,\"step\":0.01}},{\"id\":\"volumeSFX\",\"label\":\"settingsSFXVol\",\"type\":\"range\",\"config\":{\"min\":0,\"max\":1,\"step\":0.01}},{\"id\":\"volumeChat\",\"label\":\"settingsChatVolume\",\"type\":\"range\",\"config\":{\"min\":0,\"max\":100,\"step\":1}},{\"id\":\"videovolume\",\"label\":\"settingsVideoVolume\",\"type\":\"boolean\",\"values\":[{\"label\":\"settingsVideoVolumeOn\",\"value\":true},{\"label\":\"settingsVideoVolumeOff\",\"value\":false}]},{\"id\":\"sfx\",\"label\":\"settingsSFX\",\"type\":\"boolean\",\"values\":[{\"label\":\"settingsSFXOn\",\"value\":true},{\"label\":\"settingsSFXOff\",\"value\":false}]},{\"id\":\"image\",\"label\":\"pfp\",\"type\":\"toggle\",\"values\":[{\"label\":\"Happy\",\"value\":\"~assets/images/avatar/11.png\"},{\"label\":\"Confused\",\"value\":\"~assets/images/avatar/2.png\"},{\"label\":\"Tongue Out\",\"value\":\"~assets/images/avatar/3.png\"},{\"label\":\"Laugh\",\"value\":\"~assets/images/avatar/4.png\"},{\"label\":\"Love Eyes\",\"value\":\"~assets/images/avatar/5.png\"},{\"label\":\"Star Eyes\",\"value\":\"~assets/images/avatar/6.png\"},{\"label\":\"Smiley\",\"value\":\"~assets/images/avatar/7.png\"},{\"label\":\"Kiss\",\"value\":\"~assets/images/avatar/8.png\"},{\"label\":\"Wink\",\"value\":\"~assets/images/avatar/9.png\"},{\"label\":\"Joyful\",\"vlue\":\"~assets/images/avatar/10.png\"},{\"label\":\"Cheese\",\"value\":\"~assets/images/avatar/12.png\"},{\"label\":\"Smug\",\"value\":\"~assets/images/avatar/1.png\"}]}]"
+        },
+        {
+          "name": "player-skin",
+          "value": "0"
+        },
+        {
+          "name": "player-volumeSFX",
+          "value": "1"
+        },
+        {
+          "name": "player-body",
+          "value": "DefaultAvatar"
+        },
+        {
+          "name": "player-motion",
+          "value": "true"
+        },
+        {
+          "name": "player-color",
+          "value": "#dddddd"
+        },
+        {
+          "name": "player-theme",
+          "value": "auto"
+        },
+        {
+          "name": "partyOverlayminimized",
+          "value": "false"
+        },
+        {
+          "name": "player-sfx",
+          "value": "true"
+        },
+        {
+          "name": "player-videovolume",
+          "value": "true"
+        },
+        {
+          "name": "dreamwave_reporter_analytics_id",
+          "value": "0489ad57-8e9b-4c7a-9240-826b055fa03a"
+        },
+        {
+          "name": "player-emote",
+          "value": "0"
+        },
+        {
+          "name": "player-volumeChat",
+          "value": "100"
+        },
+        {
+          "name": "partyOverlayautoSort",
+          "value": "true"
+        },
+        {
+          "name": "player-image",
+          "value": "assets/images/avatar/default.jpg"
+        },
+        {
+          "name": "pepsi-dance-player-showCCs",
+          "value": "false"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MWw1anU1ajF3cDVjaGE="
+        }
+      ]
+    },
+    {
+      "origin": "https://pepsi.at",
+      "localStorage": [
+        {
+          "name": "truste.eu.cookie.cmapi_cookie_privacy",
+          "value": "{\"name\":\"truste.eu.cookie.cmapi_cookie_privacy\",\"value\":\"permit 1,2,3\",\"path\":\"/\",\"expires\":1698691423229}"
+        },
+        {
+          "name": "truste.eu.cookie.notice_preferences",
+          "value": "{\"name\":\"truste.eu.cookie.notice_preferences\",\"value\":\"2:\",\"path\":\"/\",\"expires\":1698691423219}"
+        },
+        {
+          "name": "truste.eu.cookie.notice_gdpr_prefs",
+          "value": "{\"name\":\"truste.eu.cookie.notice_gdpr_prefs\",\"value\":\"0,1,2::implied,eu\",\"path\":\"/\",\"expires\":1698691423221}"
+        },
+        {
+          "name": "truste.eu.cookie.cmapi_gtm_bl",
+          "value": "{\"name\":\"truste.eu.cookie.cmapi_gtm_bl\",\"value\":\"\",\"path\":\"/\",\"expires\":1698691423229}"
+        }
+      ]
+    },
+    {
+      "origin": "https://rankeatedoritos.com",
+      "localStorage": [
+        {
+          "name": "elementor",
+          "value": "{\"__expiration\":{},\"pageViews\":4,\"sessions\":4}"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.youtube.com",
+      "localStorage": [
+        {
+          "name": "yt-remote-device-id",
+          "value": "{\"data\":\"8d00cee7-bf0f-46e9-b85d-9ab5474c1b27\",\"expiration\":1714665107030,\"creation\":1683129107030}"
+        },
+        {
+          "name": "yt-remote-connected-devices",
+          "value": "{\"data\":\"[]\",\"expiration\":1683219462911,\"creation\":1683133062911}"
+        },
+        {
+          "name": "ytidb::LAST_RESULT_ENTRY_KEY",
+          "value": "{\"data\":{\"hasSucceededOnce\":true},\"expiration\":1685725074091,\"creation\":1683133074091}"
+        }
+      ]
+    },
+    {
+      "origin": "https://lipton-probier-mich.de",
+      "localStorage": [
+        {
+          "name": "truste.eu.cookie.cmapi_cookie_privacy",
+          "value": "{\"name\":\"truste.eu.cookie.cmapi_cookie_privacy\",\"value\":\"permit 1,2,3\",\"path\":\"/\",\"expires\":1698691697670}"
+        },
+        {
+          "name": "truste.eu.cookie.notice_preferences",
+          "value": "{\"name\":\"truste.eu.cookie.notice_preferences\",\"value\":\"2:\",\"path\":\"/\",\"expires\":1698691697621}"
+        },
+        {
+          "name": "truste.eu.cookie.notice_gdpr_prefs",
+          "value": "{\"name\":\"truste.eu.cookie.notice_gdpr_prefs\",\"value\":\"0,1,2::implied,eu\",\"path\":\"/\",\"expires\":1698691697621}"
+        },
+        {
+          "name": "truste.eu.cookie.cmapi_gtm_bl",
+          "value": "{\"name\":\"truste.eu.cookie.cmapi_gtm_bl\",\"value\":\"\",\"path\":\"/\",\"expires\":1698691697670}"
+        }
+      ]
+    },
+    {
+      "origin": "https://pepsi.si",
+      "localStorage": [
+        {
+          "name": "truste.eu.cookie.notice_gdpr_prefs",
+          "value": "{\"name\":\"truste.eu.cookie.notice_gdpr_prefs\",\"value\":\"0,1,2::implied,eu\",\"path\":\"/\",\"expires\":1698691724507}"
+        },
+        {
+          "name": "truste.eu.cookie.notice_preferences",
+          "value": "{\"name\":\"truste.eu.cookie.notice_preferences\",\"value\":\"2:\",\"path\":\"/\",\"expires\":1698691724506}"
+        }
+      ]
+    },
+    {
+      "origin": "https://khouseofpepsi.com",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "ko"
+        }
+      ]
+    },
+    {
+      "origin": "https://websitecontrolcenter.pepsico.com",
+      "localStorage": [
+        {
+          "name": "okta-cache-storage",
+          "value": "{\"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/.well-known/openid-configuration\":{\"expiresAt\":1683219485,\"response\":{\"issuer\":\"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8\",\"authorization_endpoint\":\"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/authorize\",\"token_endpoint\":\"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/token\",\"userinfo_endpoint\":\"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/userinfo\",\"registration_endpoint\":\"https://secure.pepsico.com/oauth2/v1/clients\",\"jwks_uri\":\"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/keys\",\"response_types_supported\":[\"code\",\"id_token\",\"code id_token\",\"code token\",\"id_token token\",\"code id_token token\"],\"response_modes_supported\":[\"query\",\"fragment\",\"form_post\",\"okta_post_message\"],\"grant_types_supported\":[\"authorization_code\",\"implicit\",\"refresh_token\",\"password\",\"urn:ietf:params:oauth:grant-type:device_code\"],\"subject_types_supported\":[\"public\"],\"id_token_signing_alg_values_supported\":[\"RS256\"],\"scopes_supported\":[\"okta.myAccount.email.manage\",\"okta.myAccount.email.read\",\"okta.myAccount.manage\",\"okta.myAccount.phone.manage\",\"okta.myAccount.phone.read\",\"okta.myAccount.profile.manage\",\"okta.myAccount.profile.read\",\"okta.myAccount.read\",\"Savvy\",\"openid\",\"profile\",\"email\",\"address\",\"phone\",\"offline_access\",\"device_sso\"],\"token_endpoint_auth_methods_supported\":[\"client_secret_basic\",\"client_secret_post\",\"client_secret_jwt\",\"private_key_jwt\",\"none\"],\"claims_supported\":[\"iss\",\"ver\",\"sub\",\"aud\",\"iat\",\"exp\",\"jti\",\"auth_time\",\"amr\",\"idp\",\"nonce\",\"name\",\"nickname\",\"preferred_username\",\"given_name\",\"middle_name\",\"family_name\",\"email\",\"email_verified\",\"profile\",\"zoneinfo\",\"locale\",\"address\",\"phone_number\",\"picture\",\"website\",\"gender\",\"birthdate\",\"updated_at\",\"at_hash\",\"c_hash\"],\"code_challenge_methods_supported\":[\"S256\"],\"introspection_endpoint\":\"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/introspect\",\"introspection_endpoint_auth_methods_supported\":[\"client_secret_basic\",\"client_secret_post\",\"client_secret_jwt\",\"private_key_jwt\",\"none\"],\"revocation_endpoint\":\"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/revoke\",\"revocation_endpoint_auth_methods_supported\":[\"client_secret_basic\",\"client_secret_post\",\"client_secret_jwt\",\"private_key_jwt\",\"none\"],\"end_session_endpoint\":\"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/logout\",\"request_parameter_supported\":true,\"request_object_signing_alg_values_supported\":[\"HS256\",\"HS384\",\"HS512\",\"RS256\",\"RS384\",\"RS512\",\"ES256\",\"ES384\",\"ES512\"],\"device_authorization_endpoint\":\"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/device/authorize\",\"pushed_authorization_request_endpoint\":\"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/par\",\"headers\":{\"cache-control\":\"max-age=86400, must-revalidate\",\"content-type\":\"application/json\",\"expires\":\"Thu, 04 May 2023 16:57:57 GMT\"}}}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://smithstasteicons.com.au",
+      "localStorage": [
+        {
+          "name": "_grecaptcha",
+          "value": "09AN7OPSMqsdaZkHB2mjNmCzIhK4AeAcncIDfAEbHLYxT_uZOsh5PlIb12U1r4f1DuJ4RTYjuttv39Hj0DHYT82g0DbQqQnIo-k_zPqQ"
+        }
+      ]
+    },
+    {
+      "origin": "https://gssilatam.org",
+      "localStorage": [
+        {
+          "name": "deleteAllCookies",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}
