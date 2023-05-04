@@ -9,6 +9,7 @@ export interface Site {
   lastGaTime?: number;
   error?: string;
   visited?: boolean;
+  redirects?: string[];
 }
 
 // Sites que por algum motivo precisam aguardar mais para carregar o GTM
