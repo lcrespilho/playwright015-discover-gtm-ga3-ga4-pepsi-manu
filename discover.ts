@@ -682,7 +682,6 @@ if (process.env.REFAZER) {
           } finally {
             site.visited = true;
             site.redirects = [...new Set(site.redirects)]; // deduplicar
-            console.log(`>> [${site.url}] redirects:`, site.redirects);
             done(); // sinaliza que a task terminou
           }
         })
