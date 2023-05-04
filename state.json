@@ -102,7 +102,7 @@
     },
     {
       "name": "JSESSIONID",
-      "value": "aDFCtbjLs3pdwjsJ1GFSbq0M0DLTdSW6-guJVYon.peplap03771",
+      "value": "45i0YithADaJRXS0xlQZB4P7Iab4vyWe7uNxredK.peplap03772",
       "domain": "secure.mypepsico.com",
       "path": "/associatesso",
       "expires": -1,
@@ -195,7 +195,7 @@
       "value": "fb.2.1683126321874.269947607",
       "domain": ".louren.co.in",
       "path": "/",
-      "expires": 1690948234,
+      "expires": 1690985367,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -205,7 +205,7 @@
       "value": "GA1.3.1482760352.1683126322",
       "domain": ".louren.co.in",
       "path": "/",
-      "expires": 1683258633,
+      "expires": 1683295765,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -215,7 +215,7 @@
       "value": "GA1.2.586636744.1683126364",
       "domain": ".mueveloconpepsi.com",
       "path": "/",
-      "expires": 1683283732,
+      "expires": 1683294034,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -585,7 +585,7 @@
       "value": "none",
       "domain": ".pepsicoicecek.com.tr",
       "path": "/",
-      "expires": 1698730118,
+      "expires": 1698751459,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -625,7 +625,7 @@
       "value": "none",
       "domain": ".fruko.com.tr",
       "path": "/",
-      "expires": 1698730118,
+      "expires": 1698751461,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -1601,31 +1601,11 @@
       "sameSite": "None"
     },
     {
-      "name": "_ga",
-      "value": "GA1.3.1962317769.1683126322",
-      "domain": ".louren.co.in",
-      "path": "/",
-      "expires": 1717732233.262125,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
       "name": "_ga_HPFHKFTD8H",
       "value": "GS1.1.1683172232.3.0.1683172233.0.0.0",
       "domain": ".doritos.com.br",
       "path": "/",
       "expires": 1717732233.523771,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_ga_LFXQKSQZY1",
-      "value": "GS1.1.1683172232.3.0.1683172234.0.0.0",
-      "domain": ".louren.co.in",
-      "path": "/",
-      "expires": 1717732234.459192,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -14961,56 +14941,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "_ga",
-      "value": "GA1.1.1292577705.1683126364",
-      "domain": ".mueveloconpepsi.com",
-      "path": "/",
-      "expires": 1717757332.955741,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_ga_6N8BJM8118",
-      "value": "GS1.1.1683197332.6.0.1683197332.0.0.0",
-      "domain": ".mueveloconpepsi.com",
-      "path": "/",
-      "expires": 1717757332.968995,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "TAsessionID",
-      "value": "c79b220a-80cb-4b3f-8b94-322ed69d97d6|EXISTING",
-      "domain": ".pepsi.at",
-      "path": "/",
-      "expires": 1683199133,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "_ga_9JFBQVTB60",
-      "value": "GS1.1.1683197332.6.0.1683197334.0.0.0",
-      "domain": ".promopepsi.com.ar",
-      "path": "/",
-      "expires": 1717757334.417368,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "TAsessionID",
-      "value": "386a69db-cd94-494a-a05f-a05eecdda324|EXISTING",
-      "domain": ".lipton-probier-mich.de",
-      "path": "/",
-      "expires": 1683199141,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
       "name": "_ga_EBL39WGCVG",
       "value": "GS1.1.1683197341.6.0.1683197341.0.0.0",
       "domain": ".pepsimax.com.au",
@@ -15019,16 +14949,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "TAsessionID",
-      "value": "e01130c6-e9b3-411b-978d-5a2dd7fe7960|EXISTING",
-      "domain": ".pepsi.si",
-      "path": "/",
-      "expires": 1683199142,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "AreCookiesEnabled",
@@ -15086,26 +15006,6 @@
       "domain": ".quaker.com.my",
       "path": "/",
       "expires": 1717757344.074519,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__utmt",
-      "value": "1",
-      "domain": ".quaker.com.my",
-      "path": "/",
-      "expires": 1683197944,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__utmb",
-      "value": "204328848.1.10.1683197344",
-      "domain": ".quaker.com.my",
-      "path": "/",
-      "expires": 1683199144,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -15181,26 +15081,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6InBxaFQzeCtXNmQ0emdHMHJ2V1c2Unc9PSIsInZhbHVlIjoiSzNUK3F3alpDbkRpbFRUSTRSblRNdk1KR3EyZ3luSkMxOXZQeSs5TmRDR2crbC9WQUZKMDFTSStWbCtQVUdjQkd6Q3F6dnBHcHg5aUhjSVcyZmhVL2krV1Fycmw1eUErSU9qc0dhWTIveEdRRy9jbjdaVXhRLzJXWTBSRUxlRmQiLCJtYWMiOiI4MGJhY2NjYmVhNGQyMzQ4YzA1ZmUyYjA5NzY3MzYzZmU1YmY3NzBkNzEyYmM3ZWE0YjUxY2YxYjYzNDA4NWM0IiwidGFnIjoiIn0%3D",
-      "domain": "dothedewsaudi.com",
-      "path": "/",
-      "expires": 1683204549.179025,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "md_session",
-      "value": "eyJpdiI6InhGdlBzbkFzZkRJYTJlWktteGNoblE9PSIsInZhbHVlIjoiWkd3bmtnVXFvNXdsL0N5VlRVaEdTN3ZaVFd0d3g0dTFaUVA2YjdSWWIzUGh3S0poSTVGOFdzYW5oNTIyL1JGMFhiMHMvczZWL3N1QmdlbkxFWHVFa01YSU44bVVhT0NUQ0ZRRmNYT2RLTkZqdDNLS3NkaUoxdnZIZGZwMzNpdHIiLCJtYWMiOiI3YTlhMjYxZjQwOWM2YTU1NjQ2YTUxZGJlMGQxZDU3ZWJiNjU1ZjRkNjA1MGJkNzkxZDAwZDlmNmJlY2IyOWM0IiwidGFnIjoiIn0%3D",
-      "domain": "dothedewsaudi.com",
-      "path": "/",
-      "expires": 1683204549.179054,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "_ga_KCV6N35R2C",
       "value": "GS1.1.1683197349.5.0.1683197349.0.0.0",
       "domain": ".dothedewsaudi.com",
@@ -15217,96 +15097,6 @@
       "path": "/",
       "expires": 1717757351.165331,
       "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "okta-oauth-redirect-params",
-      "value": "{%22responseType%22:%22code%22%2C%22state%22:%22yxA5zQIn8L2ubC7RfrFhB4fV3cd5ujsZBUeTrqu5xnDsxv4t25NGNPHNClAguDgL%22%2C%22nonce%22:%22AwApOyVIYeuXVLvZhxAG8qqNst23PrnVMGFMqbjOuIYzByI4EEUgHzoGJUwiDVb2%22%2C%22scopes%22:[%22email%22%2C%22openid%22%2C%22profile%22%2C%22wsp-scope%22%2C%22address%22%2C%22phone%22%2C%22offline_access%22%2C%22pepappwspdashboardroles%22]%2C%22clientId%22:%220oa1n3xpen9l5J2YE0h8%22%2C%22urls%22:{%22issuer%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8%22%2C%22authorizeUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/authorize%22%2C%22userinfoUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/userinfo%22%2C%22tokenUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/token%22%2C%22revokeUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/revoke%22%2C%22logoutUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/logout%22}%2C%22ignoreSignature%22:false}",
-      "domain": "websitecontrolcenter.pepsico.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "okta-oauth-nonce",
-      "value": "AwApOyVIYeuXVLvZhxAG8qqNst23PrnVMGFMqbjOuIYzByI4EEUgHzoGJUwiDVb2",
-      "domain": "websitecontrolcenter.pepsico.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "okta-oauth-state",
-      "value": "yxA5zQIn8L2ubC7RfrFhB4fV3cd5ujsZBUeTrqu5xnDsxv4t25NGNPHNClAguDgL",
-      "domain": "websitecontrolcenter.pepsico.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6IjJmRjlkeDU2WitiWkc0NTJHVHljelE9PSIsInZhbHVlIjoiNE11cUIxQ2hMTDFcLzZ4SHRXVytyRzRlZjhqRmxXanZZa04zUXdwTHpHSnlQdzlrc3ZFTjJlTjI1QzM0VTk0d2YzeW9hTW1mV0dWWW9lUkFycm5qclpTQ293Yjk0eVROMzY2aFZ0SlJYR0ZSMUlqYmRuS2hoYTZqWFhjZ0JuV3VEIiwibWFjIjoiY2U5NGNkYjM0ODQxMTRlNWUyMjcwNzM0NDdkMGUzMWE4YzMyYTM4MTk4MmRmNDVkODJmYTVhMTc2NDM3M2U4NiJ9",
-      "domain": "api.brasil3kmpepsi.com",
-      "path": "/",
-      "expires": 1683204551.836705,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "kmcapacitacao_session",
-      "value": "eyJpdiI6Ijk0b3R0enduN1o5MlpwVG1YXC9PMHNBPT0iLCJ2YWx1ZSI6InVLSUJOZmpKXC9CUFJxNkwwdlp4bFg4UU1xbHVQYVU2eDBjdlFXOGVMK3RlT2M4WHpPWFZ3UlpFQjgwYW1XQ3EwWm1qVVB4ckt0aThtaXBLemhzY1pGcjVKYnNYeWdhSDJNeEwxbU00YVVwWEpZWXVFS1hwVzVURit6ejU1K2RINCIsIm1hYyI6ImI4YTc5NTg5Njk4MjFkODljZGUxZDdhYzkyMjg2OGEwNWNiZDY1YjYxNzczZTkxYmZmY2E3MDdiYzJjMjMwMjIifQ%3D%3D",
-      "domain": "api.brasil3kmpepsi.com",
-      "path": "/",
-      "expires": 1683204551.836731,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6ImRudXZaNFQvaG1GVXpCN2Q0RHQzWnc9PSIsInZhbHVlIjoicWQ3L0NpZTBpNnBQNUFnSzhxQmhuK3Rqd1dpT1h6Y2lKSkpRVUs5Um5OOWVWZWJ2UFl5b3B0dEtXSlAzUVlublprN1FJWXJYazhjeTJCbzZhcEttZEdIK3Y0cUQ0bG1oTlUvS2Q2ZEd1VDVQcGJzZTBJTDYreGFSVGhxalBUTGgiLCJtYWMiOiIxZDRjNjZlYjg1MzliZDk5NGU0ZjRmOWNhOTlmNjM2N2M1ZTBjMDMwMmQzMjk5ZGJlMjFmN2I0YTA3NGUyYTE5IiwidGFnIjoiIn0%3D",
-      "domain": "api.3kmpepsi.com",
-      "path": "/",
-      "expires": 1683204552.726694,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "kmcapacitacion_session",
-      "value": "eyJpdiI6ImszS2JuZ1hmR0tDZnJabXRMcWE4NXc9PSIsInZhbHVlIjoiKytqdkdRdTZKT1BrMHVBTFc4bEZTZmprNkVsMmtFQ25uaHRiUlZkL3Y1R3duTUhuZlMyMGQzandJMkI5YUFJTHIxQU9xRVZjalFVckM1WUw0Rm53alF2QTlmS0xNa1J5NDR3YU1OZVVmdjIvT2hmZ2Zla2lwQ2s2b2xJcUZhZnAiLCJtYWMiOiIyNTM4OGNjMjM1YzI5OTFmYmE2YWUxY2Q5NTZiOTE1N2NlM2MwMDA4ZjkzMjE5NGU1NWZmMGY5NmRiMDI5ODA3IiwidGFnIjoiIn0%3D",
-      "domain": "api.3kmpepsi.com",
-      "path": "/",
-      "expires": 1683204552.726728,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "PEPSICO-ON-PACK-CSRF",
-      "value": "nwZLQdPwd1jBURJzpU6P5SSIqp6%2FNVBZX",
-      "domain": ".smithstasteicons.com.au",
-      "path": "/",
-      "expires": 1683204552.757598,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "cbebd8505d3",
-      "value": "1",
-      "domain": ".smithstasteicons.com.au",
-      "path": "/",
-      "expires": 1683204552.757628,
-      "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
     },
@@ -15431,26 +15221,6 @@
       "sameSite": "Strict"
     },
     {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6IkNld0ZndTl3WlVhUEE1aVlpZEc3Nnc9PSIsInZhbHVlIjoiOEpHWUpYWTQ1RlpDY3d0d050REdnVnduRndXdzNlRjE3WUNEbnVyWnBzWXE2c2pTMjRSKzBST2tpeUxIY1BicXFkUW1iUEhJUW02VmZlVFFmUkhlQ1Y5cFVlUW9DblhCYWk3ZTcySmxhblgwVmFDRlVPRWhSbG9KTlM1QlNiV1kiLCJtYWMiOiI0ZmZhZDMxZTYyY2Y2MWJmNGU4MzEyM2U5MTljOGI5ODg5YzQ3MTQ0MjYwOTIxZTJkODg0NmU2ZTkxYmMxYjhmIiwidGFnIjoiIn0%3D",
-      "domain": "pepsigoldengiveaway.com",
-      "path": "/",
-      "expires": 1683204565.779566,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "pepsi_golden_give_away_jamaica_session",
-      "value": "eyJpdiI6InY3QXRBZy9VdVM4bjRBcHF1dEg5U3c9PSIsInZhbHVlIjoiUStESGYvaWlMVTMrb3NHa0hDaGlMUEJhVGRubnlpc252RVJVamRHYTVTLzhUdkVDUThJbEx1dnZrZ3hYeVdxSm1GMXNsMWFFMXkrMjhlS3FldDJKSzc2TTFJdTNnVnBBMHRUbEVBQmc4KzJycTRPc0t1ckMveklDckNKcGtnWFYiLCJtYWMiOiI4OGVjYzA2NTEzOWM5Y2E4NzA3MDcyOWUzMjI5YWVhYTdkNWY5ZDA4NTQxNzlmZjZhYTkyMzNjNmYyYzlhNTA4IiwidGFnIjoiIn0%3D",
-      "domain": "pepsigoldengiveaway.com",
-      "path": "/",
-      "expires": 1683204565.779594,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "cookie_consent_level",
       "value": "%7B%22strictly-necessary%22%3Atrue%2C%22functionality%22%3Atrue%2C%22tracking%22%3Atrue%2C%22targeting%22%3Atrue%7D",
       "domain": "pepsigoldengiveaway.com",
@@ -15459,16 +15229,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Strict"
-    },
-    {
-      "name": "__cf_bm",
-      "value": "Wxl0WAW713JqY5wOFSBQFrNYhdGY_OK2nO6xla8.Qn4-1683197366-0-Aeb03o26RpkjTAdMQcM24zAdyF8eQ7uwUlUu9xnv/AdiVWautZt9DPz1WVkGpuGOPMocR6M7Mq/pqwd0rc0fMwRpmN/paKF060VnL0YjSgATgSmqWDJdnXteA0iJYTbP2Q==",
-      "domain": ".liptonicedteaday.com",
-      "path": "/",
-      "expires": 1683199166.669114,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "incap_ses_1616_1642741",
@@ -15531,36 +15291,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "BVBRANDSID",
-      "value": "bce1fee2-d5d7-492e-96ab-7f62ae829d97",
-      "domain": ".gatorade.com",
-      "path": "/",
-      "expires": 1683199168,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6ImFCY1VxTTVKZ0MwRHB3b2dKYkE1Q2c9PSIsInZhbHVlIjoibmI0ZGtVaEZKMUJUZys0bmxYOTA3WUtzOWFzZkVPWU9VSklEZytyZlhCUW1JUDBRaGhQVDFUZm5JTG1tb2xMRjExcEhoK3M2bzBad3RhNDU0RGJneEJIeElOSnFHSXh5S2VuVHRTbW5BYTdiVThtWGdYS3M5d25pWFk1aEw0eUsiLCJtYWMiOiI4ZDI2NDk4ZjAxZmU4YjQ4MDY5NDAxZDgzMzA1NDIyZmRkZTJmY2E5MzQyZDc1OTc2MzYzYmYwODE0MTJkZmQzIiwidGFnIjoiIn0%3D",
-      "domain": "www.dewventure.com",
-      "path": "/",
-      "expires": 1683204569.304852,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "mtndew_session",
-      "value": "eyJpdiI6ImkvTXlpaENCWkJVWExLdHEzbkhNQnc9PSIsInZhbHVlIjoiLy9oaUgybHcwVCtxSC9udStsbGxoSnpsSmxnRVRXRzRpM3EwWEcxeXR2WWJFUnJJMzJjcjk2eDlhaE5WbHFjQkZZUlIvcXJHUk5kdTJJeGVlblRPRm15aGdnT2JYZHNIUUdzbGJaTFluVTdZZ0grMmc1WEkxdjlISm52dVQ2UEMiLCJtYWMiOiIxNjc4OGVlN2Y4MWZkYzkwN2Q2M2I2OTJkZDk5MGUwYmUyNGQzYmJjZDY2YmY2NWVlYmQ3YjA0MWNmYzZlOTdjIiwidGFnIjoiIn0%3D",
-      "domain": "www.dewventure.com",
-      "path": "/",
-      "expires": 1683204569.30488,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "cto_bundle",
       "value": "8eHFU19tYXoxUjdHVklpTGxRcCUyRmlFVG13JTJGMDhZV2huY0xMM2lIOVQ1ZU9mRnE5SUdTWVBxN2tsczR2WnBkWDdreVZaam1xdjBqa3VLJTJGZmVaNE1mZ1pUUWloT2FHSndvSUFvJTJGU2NWNTVHbkdHSDFndldCSjNmYmE4M3ZDZHJVWTl5N3hWajVIcE0lMkZVZzRlQUhpNzFqbWVWck5Fdk9yQjBoZ1VaelRodkI0NUJUUjgyN0lJJTJCbUdodmF4WG5odXpLbnFacENUaiUyRmhyUUhBcXdOJTJGcUp5NHp3Z0VQdyUzRCUzRA",
       "domain": ".gatorade.com",
@@ -15611,61 +15341,11 @@
       "sameSite": "Lax"
     },
     {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6IlpTZUVIWlRGbHZvQlQxZmNRZ2dTZXc9PSIsInZhbHVlIjoiQUZjdWx1RGFtSUZqQ2k4VTFDZXpCZ1lZU0NrTTgvblBjZ2NMZ0pWTnZEVDI4b0ZwUTl4d2xVaFZyVjljWm14NWt3UkdLRkhudEROWmZ4UmsyS0Y4a0Ivbkw2bW1jRXFvUDRPbVhMNWpoSTJDWktLZ3ZQKzA3WlNMZXNvTXZUaWEiLCJtYWMiOiJjODE3NThiNGJlN2UyNjU3Mjg5MGJjZWNiMTlkMWVhMTkyZjMwMzljZGRjYjk0MjU1ZTQxMWFlMTM3NmI1MGUwIn0%3D",
-      "domain": "pepsi.brandmovers.co",
-      "path": "/",
-      "expires": 1683204573.506579,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Strict"
-    },
-    {
-      "name": "__Secure-brandmovers_loyalty_platform_session",
-      "value": "eyJpdiI6Ik5xWnB2bklCNmFmMTdXZVVYWW8yTmc9PSIsInZhbHVlIjoidWxkSjVGS3NOaEdWWUExeEtIanhYZ0xOUUpRcEtpS0Q3YmM1d3pDN0R0QUNDOHRPdlZOWFhXN3FYRHJCdkx0M2RPYjRPNUFHbTc3bTFXWHB1MDdBV1JEMXBGbWJEYWgzZTVFUzY5QmxIK3huK0RBVi82cGtRM0lXSnA2V0J0QmUiLCJtYWMiOiI5MWU3N2I1ODRmNDJhMzY0YjA1Y2Y4Mzk5YmUzNGI5MTBiOGVhZjcyNDhjZDczMGE5ZDU1MGQxZDQ0YmQ4YzdiIn0%3D",
-      "domain": "pepsi.brandmovers.co",
-      "path": "/",
-      "expires": 1683204573.506605,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Strict"
-    },
-    {
       "name": "_ga_PYCL5J64TJ",
       "value": "GS1.1.1683197368.3.0.1683197375.53.0.0",
       "domain": ".gatorade.com",
       "path": "/",
       "expires": 1717757375.889874,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "ezoadgid_451569",
-      "value": "-1",
-      "domain": ".upgradeyourstrength.com",
-      "path": "/",
-      "expires": 1683199175.251397,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "ezoref_451569",
-      "value": "",
-      "domain": ".upgradeyourstrength.com",
-      "path": "/",
-      "expires": 1683204575.251437,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "ezoab_451569",
-      "value": "mod47-c",
-      "domain": ".upgradeyourstrength.com",
-      "path": "/",
-      "expires": 1683204575.251473,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -15681,92 +15361,12 @@
       "sameSite": "Lax"
     },
     {
-      "name": "ezovab_451569",
-      "value": "vmod1",
-      "domain": ".upgradeyourstrength.com",
-      "path": "/",
-      "expires": 1683204575.251511,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "ezopvc_451569",
-      "value": "1",
-      "domain": ".upgradeyourstrength.com",
-      "path": "/",
-      "expires": 1683199176.251523,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "ezovid_451569",
-      "value": "1102177429",
-      "domain": ".upgradeyourstrength.com",
-      "path": "/",
-      "expires": 1683199176.251551,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "lp_451569",
-      "value": "https://upgradeyourstrength.com/",
-      "domain": ".upgradeyourstrength.com",
-      "path": "/",
-      "expires": 1683199176.251567,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "ezovuuidtime_451569",
       "value": "1683197376",
       "domain": ".upgradeyourstrength.com",
       "path": "/",
       "expires": 1683370176.251579,
       "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "ezovuuid_451569",
-      "value": "73ff8e3d-b1af-4a6e-70fd-8b7399928ede",
-      "domain": ".upgradeyourstrength.com",
-      "path": "/",
-      "expires": 1683199176.251592,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_pk_ses.1.6029",
-      "value": "1",
-      "domain": "upgradeyourstrength.com",
-      "path": "/",
-      "expires": 1683199176,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6IlVHdE5palZIdG93dEI3Z0xXS29hUEE9PSIsInZhbHVlIjoiN0Vkb3pOTGZNSTYxTFpFYXJQbElQdTR4bHJLL2x1WklqcFFoWEpwUWl5dUZ4ODJ0MHpoS2s4WFMvakp1V00yNVlyK2trMi93TVppM1VaU0VHcnNZd3NrSU5TSU9DN0FlekY5a0ZVcklKZkg5MFdsTVAyNGFTZUx6TlU4YUFESnEiLCJtYWMiOiJkNWU4YmFhOThhYmYyZTkzMjg5YmJhOTFlZGRjNDI3MWUzZTg3OWI2MDM3OWFiYzA3ZjA0YzhjN2NjMDZkMGRiIiwidGFnIjoiIn0%3D",
-      "domain": "gatorade5v5.com",
-      "path": "/",
-      "expires": 1683204575.906731,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "gatorade_5v5_session",
-      "value": "eyJpdiI6Ik5ESTI5UG5mUzZFYmV5QzFyVkphcmc9PSIsInZhbHVlIjoiWG13OVEwTWUvcUh5LzRUbHgwQXJzYnJLWEdZaHowMnU5NGQwSEhEVHBPNnlYalJWWXp3Ui91M3lEUXEvNkNRUHVIbmpESmxvWlhoNERqOTFYSWg5TElwQ2NTcjJtZzlQemdRRFplL3Njb1hUWnV2ejdzdHVGTXBGSWRwTDNVMVMiLCJtYWMiOiIzMDhkMDllYjQyOTgyYTJkYzQ4YjI2ZmMzNDFiNzVhZjQ5NDE0ZmUwYWNlODQ1Mjc4MzlkZmNhOGJmYzI4MTBkIiwidGFnIjoiIn0%3D",
-      "domain": "gatorade5v5.com",
-      "path": "/",
-      "expires": 1683204575.906767,
-      "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
     },
@@ -15839,16 +15439,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "__cf_bm",
-      "value": "vIGFUYbWzVzibpO5QRIlWVwkjtVb_U0EqDZg1EhLOJE-1683197378-0-AUiGf33u7chKQ+CiCd1UwE/dapsVTMtj6j3L4EKd7pGJUYzJKmHQYpJKXdugO5LVSG4lYH4fMHRqYYllvZdzBSQyIMiEAMrnKH/7p7oazh3V+bWHuWKGuPSb7Dw+Qrknqw==",
-      "domain": ".pepsipayzero.com",
-      "path": "/",
-      "expires": 1683199178.238805,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "_ga_5CGQ2CCB96",
@@ -15937,16 +15527,6 @@
       "path": "/",
       "expires": 1685825382.638296,
       "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "__cf_bm",
-      "value": "js6XrlnhtD24MpDF7UL6Wd07Z_VXJxf3Q73w9Vz2C3I-1683197382-0-AVsBLQrU6pbYjTl2BsYiJUZzhUkwKwNzbxJIvEq3YilLYLWUghr8ZAkIl1c2eiRXWGWlEHyukh1WG4vkDs69nKc=",
-      "domain": ".vimeo.com",
-      "path": "/",
-      "expires": 1683199182.680364,
-      "httpOnly": true,
       "secure": true,
       "sameSite": "None"
     },
@@ -16101,16 +15681,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "__cf_bm",
-      "value": "n6Uf8mh4V2YHGgp9n9OyRdRBpcaKpEDAvoEVz7GUSu8-1683197387-0-AdADk7l09p41aOxmmbcD6VDlQiuJKRlc/XV88OD0r1wFuO5QqNmEtKo0zDR5JtKOrMuojzYU4zuB6QwL8CxwutE=",
-      "domain": ".myfonts.net",
-      "path": "/",
-      "expires": 1683199187.056574,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
       "name": "_ga_13BK587HRT",
       "value": "GS1.1.1683197386.4.0.1683197388.0.0.0",
       "domain": ".pepsiborninthecarolinas.com",
@@ -16141,16 +15711,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "__atuvs",
-      "value": "64538dcc383c84ef000",
-      "domain": "copellafruitjuice.co.uk",
-      "path": "/",
-      "expires": 1683199188,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "uvc",
       "value": "5%7C18",
       "domain": ".addthis.com",
@@ -16169,16 +15729,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "__cf_bm",
-      "value": "V6Gf24t97m.DUECbjxt8nt_Wg1iOTB5NNh9FOL00th0-1683197390-0-ASaOifXw13JVhX9BUweJPdRjoZxp71Zmpiu/ECXkFVRe5YUa1kOWq82vtA27WrAl/pa83i/S13/snUu35wF83K8=",
-      "domain": ".fonts.net",
-      "path": "/",
-      "expires": 1683199190.213956,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "_ga_NNHNDERDX5",
@@ -16229,16 +15779,6 @@
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
-    },
-    {
-      "name": "october_session",
-      "value": "eyJpdiI6ImgvWE8rNkFxY1Q3eW5tdytTT0VRK2c9PSIsInZhbHVlIjoiODlNQ3AvcWFDYnJOc0FVNzNXbE1SOFEwZ3dsQlJGSFQrcVhYcTh3U1hpYUp3bTVUT0dNM2IvcWRZdUZIOGVNNnlQbThkOVRvNGZWMVJabFFEYkJaNDdXRm1PVTZwNWlCVVRINE5FbDNORit6Z3FsRkdYdW1EZ3UrR3pqdlR5M0ciLCJtYWMiOiIyYmQ0NmEwNDQ0MmRhNTRlNWI5MGVjNjBlMjkzOTU2NGU5NDgwM2NiNzE0ZjU3ODI1Y2E3ZTI2N2RlMjQ2MjdmIiwidGFnIjoiIn0%3D",
-      "domain": "nakedjuice.co.uk",
-      "path": "/",
-      "expires": 1683204596.209092,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
     },
     {
       "name": "_ga_V9P89B99P7",
@@ -16341,36 +15881,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "GPS",
-      "value": "1",
-      "domain": ".youtube.com",
-      "path": "/",
-      "expires": 1683199212.00266,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "bSession",
-      "value": "111a5afd-f610-47d7-89de-01a14d12453b|1",
-      "domain": ".www.gruporaices.cl",
-      "path": "/",
-      "expires": 1683199214,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "bSession",
-      "value": "111a5afd-f610-47d7-89de-01a14d12453b|1",
-      "domain": ".engage.wixapps.net",
-      "path": "/",
-      "expires": 1683199214,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
       "name": "incap_ses_1616_2116721",
       "value": "CZEZc09TDC8j+q8Fry9tFueNU2QAAAAA9gwCsl/pPAqCXKrVx1MouQ==",
       "domain": ".musclemilk.com",
@@ -16399,26 +15909,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "bf-xdomain-session-uuid",
-      "value": "4f3267c0-d967-41ff-8a46-3fac8c2f9454",
-      "domain": ".complex.com",
-      "path": "/",
-      "expires": 1683199223,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "bf-xdomain-session-uuid",
-      "value": "4f3267c0-d967-41ff-8a46-3fac8c2f9454",
-      "domain": "www.buzzfeed.com",
-      "path": "/",
-      "expires": 1683199223,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "lidc",
@@ -16518,16 +16008,6 @@
       "expires": 1714733424,
       "httpOnly": false,
       "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "AKA_A2",
-      "value": "A",
-      "domain": ".univision.com",
-      "path": "/",
-      "expires": 1683201024.695215,
-      "httpOnly": true,
-      "secure": true,
       "sameSite": "Lax"
     },
     {
@@ -16631,16 +16111,6 @@
       "sameSite": "None"
     },
     {
-      "name": "_t_tests",
-      "value": "eyJzUmhPc3drdDQ0TWtJIjp7ImNob3NlblZhcmlhbnQiOiJBIiwic3BlY2lmaWNMb2NhdGlvbiI6WyIyQ2k1SiJdfSwibGlmdF9leHAiOiJtIn0=",
-      "domain": ".univision.com",
-      "path": "/",
-      "expires": 1683201026,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "__gpi",
       "value": "UID=0000057b00e01b7a:T=1683172401:RT=1683197426:S=ALNI_MZy4o9agL5nyjEoX62Cf4ObWbw8yg",
       "domain": ".univision.com",
@@ -16656,16 +16126,6 @@
       "domain": ".univision.com",
       "path": "/",
       "expires": 1717325426,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_cb_svref",
-      "value": "null",
-      "domain": ".univision.com",
-      "path": "/",
-      "expires": 1683199226,
       "httpOnly": false,
       "secure": true,
       "sameSite": "Lax"
@@ -16691,16 +16151,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "AMP_TOKEN",
-      "value": "%24NOT_FOUND",
-      "domain": ".univision.com",
-      "path": "/",
-      "expires": 1683201027,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "_ga",
       "value": "GA1.2.1736573405.1683172401",
       "domain": ".univision.com",
@@ -16709,66 +16159,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "bounceClientVisit5628c",
-      "value": "%7B%22vid%22%3A1683197427238414%2C%22did%22%3A%221184942453763684599%22%7D",
-      "domain": ".bounceexchange.com",
-      "path": "/",
-      "expires": 1683199227.128909,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "bounceClientVisit5628v",
-      "value": "N4IgNgDiBcIBYBcEQM4FIDMBBNAmAYnvgO6kB0ArgHYCWAbjSjQPZVkDGzAtkSADQgATjBD8QjAPoBzZhJQBTFE1YwAZgEMwCgZKkQ5i5VTWaFAXyA",
-      "domain": ".univision.com",
-      "path": "/",
-      "expires": 1683199227,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "AKA_A2",
-      "value": "A",
-      "domain": ".starbucks.com",
-      "path": "/",
-      "expires": 1683201027.199483,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "traffic",
-      "value": "",
-      "domain": ".dan.com",
-      "path": "/",
-      "expires": 1683198627,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "pathway",
-      "value": "ed433d2a-8277-5edf-ae04-489fec30007b",
-      "domain": ".dan.com",
-      "path": "/",
-      "expires": 1683198627,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "fb_sessiontraffic",
-      "value": "C_TOUCH=2023-05-04T10:50:27.311Z&pathway=ed433d2a-8277-5edf-ae04-489fec30007b&V_DATE=2023-05-04T10:50:27.309Z&pc=1",
-      "domain": ".dan.com",
-      "path": "/",
-      "expires": 1683198627,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "OPTOUTMULTI",
@@ -16821,16 +16211,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "AKA_A2",
-      "value": "A",
-      "domain": ".lipton.com",
-      "path": "/",
-      "expires": 1683201028.015438,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "ASP.NET_SessionId",
       "value": "5lpce2qv0ehh5loypnheoilb",
       "domain": "www.quakeroats.com",
@@ -16848,36 +16228,6 @@
       "expires": -1,
       "httpOnly": false,
       "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_lr_retry_request",
-      "value": "true",
-      "domain": "www.complex.com",
-      "path": "/",
-      "expires": 1683201029,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "TAsessionID",
-      "value": "6a307aa6-0863-4a11-a1eb-a66e06d59038|EXISTING",
-      "domain": ".starbucks.com",
-      "path": "/",
-      "expires": 1683199229,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "BVBRANDSID",
-      "value": "ca574767-5749-4a25-a7ff-d80ef0d3c94b",
-      "domain": ".lipton.com",
-      "path": "/",
-      "expires": 1683199229,
-      "httpOnly": false,
-      "secure": true,
       "sameSite": "Lax"
     },
     {
@@ -16901,16 +16251,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "BVBRANDSID",
-      "value": "4d4d18a4-950e-4072-beb9-7c60a1bdecb6",
-      "domain": ".quakeroats.com",
-      "path": "/",
-      "expires": 1683199230,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "",
       "value": "XL9Sm5pY",
       "domain": "www.starbucks.com",
@@ -16919,16 +16259,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "TAsessionID",
-      "value": "cc63b5ac-d45e-4546-b9c7-e3eae9221514|EXISTING",
-      "domain": ".quakeroats.com",
-      "path": "/",
-      "expires": 1683199230,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "_uetsid",
@@ -17021,46 +16351,6 @@
       "sameSite": "None"
     },
     {
-      "name": "form_key",
-      "value": "OkNjwMWSfIrku4h5",
-      "domain": ".www.dollargeneral.com",
-      "path": "/",
-      "expires": 1683199236,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "gad_sessionID",
-      "value": "R19805149",
-      "domain": ".www.dollargeneral.com",
-      "path": "/",
-      "expires": 1683199236,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "gad_sessionID_Launch",
-      "value": "R19805149",
-      "domain": ".www.dollargeneral.com",
-      "path": "/",
-      "expires": 1683199236,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "gad_pageNumber_Launch",
-      "value": "1",
-      "domain": ".www.dollargeneral.com",
-      "path": "/",
-      "expires": 1683199236,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "OptanonConsent",
       "value": "isGpcEnabled=0&datestamp=Thu+May+04+2023+07%3A50%3A36+GMT-0300+(Brasilia+Standard+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=4e693487-fc6a-4b91-9228-1ba9eb27817b&interactionCount=0&landingPath=https%3A%2F%2Fwww.dollargeneral.com%2F&groups=C0001%3A1%2CC0003%3A1%2CC0002%3A1%2CC0004%3A1",
       "domain": ".dollargeneral.com",
@@ -17121,16 +16411,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "gpv_pn",
-      "value": "dg%20homepage",
-      "domain": ".dollargeneral.com",
-      "path": "/",
-      "expires": 1683199237,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "incap_ses_1616_1972119",
       "value": "dXJmU1h3CTO+FrAFry9tFv+NU2QAAAAAhG6DIxK2O5BybwxGyA19bw==",
       "domain": ".tastyrewards.com",
@@ -17139,26 +16419,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "igodigitalst_100024307",
-      "value": "82ebcfba-ea69-11ed-bc05-da7136b61e09",
-      "domain": ".igodigital.com",
-      "path": "/",
-      "expires": 1683201040.645215,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "igodigitalstdomain",
-      "value": "2000007405",
-      "domain": ".igodigital.com",
-      "path": "/",
-      "expires": 1683201040.645228,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "AWSALB",
@@ -17301,16 +16561,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "TAsessionID",
-      "value": "e42fb48a-fd60-47a7-935a-891ee247acb5|EXISTING",
-      "domain": ".dolejuice.com",
-      "path": "/",
-      "expires": 1683199281,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
       "name": "incap_ses_1616_2729230",
       "value": "T0nQHj0b+lKmSrAFry9tFiqOU2QAAAAARhyX7wCpp+Pzc6Bv8Vgu0w==",
       "domain": ".flaminhot.com",
@@ -17361,61 +16611,11 @@
       "sameSite": "Lax"
     },
     {
-      "name": "_s",
-      "value": "48aae019-a028-4a4e-a290-6ba3a0db61ce",
-      "domain": ".gatorade.ca",
-      "path": "/",
-      "expires": 1683199287.735132,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_shopify_s",
-      "value": "48aae019-a028-4a4e-a290-6ba3a0db61ce",
-      "domain": ".gatorade.ca",
-      "path": "/",
-      "expires": 1683199287.735154,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_shopify_sa_t",
-      "value": "2023-05-04T10%3A51%3A27.573Z",
-      "domain": ".gatorade.ca",
-      "path": "/",
-      "expires": 1683199287,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_shopify_sa_p",
-      "value": "",
-      "domain": ".gatorade.ca",
-      "path": "/",
-      "expires": 1683199287,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "incap_ses_1616_1683213",
       "value": "sfi6cLHc3h5DUrAFry9tFi+OU2QAAAAAciXKeW2YCRsxKYfOn0ycng==",
       "domain": ".capncrunch.com",
       "path": "/",
       "expires": -1,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "shopify_pay_redirect",
-      "value": "pending",
-      "domain": "gatorade.ca",
-      "path": "/",
-      "expires": 1683201087,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -17436,66 +16636,6 @@
       "domain": ".id5-sync.com",
       "path": "/",
       "expires": 1690973489.62564,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "cf",
-      "value": "",
-      "domain": ".id5-sync.com",
-      "path": "/",
-      "expires": 1683197789.625704,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "cip",
-      "value": "",
-      "domain": ".id5-sync.com",
-      "path": "/",
-      "expires": 1683197789.625708,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "cnac",
-      "value": "",
-      "domain": ".id5-sync.com",
-      "path": "/",
-      "expires": 1683197789.625712,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "car",
-      "value": "",
-      "domain": ".id5-sync.com",
-      "path": "/",
-      "expires": 1683197789.625716,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "gdpr",
-      "value": "",
-      "domain": ".id5-sync.com",
-      "path": "/",
-      "expires": 1683197789.62572,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "callback",
-      "value": "",
-      "domain": ".id5-sync.com",
-      "path": "/",
-      "expires": 1683197789.625723,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
@@ -17551,16 +16691,6 @@
       "sameSite": "None"
     },
     {
-      "name": "__cf_bm",
-      "value": "KU4d9pvTdm6Gzfo9SNWty9PjTk6utAd8kkFV5jo4IBM-1683197497-0-Ad+nIfaF++EZIINRQPt0hBaMTqTKxKGaUj9znce4R4xF9SVoEFwIHGjy9InV5Q/Dr71nxIqMWP0fTQYjEFEwrDo=",
-      "domain": ".rockstarenergy.com",
-      "path": "/",
-      "expires": 1683199296.856447,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
       "name": "incap_ses_1616_1678366",
       "value": "w8hBSt9e1iWrYbAFry9tFjqOU2QAAAAAvXdhmKmsxqcr3S6bG7wn9Q==",
       "domain": ".propelwater.com",
@@ -17568,16 +16698,6 @@
       "expires": -1,
       "httpOnly": false,
       "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__attentive_ss_referrer",
-      "value": "ORGANIC",
-      "domain": "www.rockstarenergy.com",
-      "path": "/",
-      "expires": 1683199301,
-      "httpOnly": false,
-      "secure": true,
       "sameSite": "Lax"
     },
     {
@@ -17606,16 +16726,6 @@
       "domain": ".pepsicojobs.com",
       "path": "/",
       "expires": 1717757511.258931,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_janalytics_ses.1a47",
-      "value": "*",
-      "domain": "www.pepsicojobs.com",
-      "path": "/",
-      "expires": 1683199311,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -17771,16 +16881,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "__attentive_pv",
-      "value": "7",
-      "domain": "www.rockstarenergy.com",
-      "path": "/",
-      "expires": 1683199320,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "cto_bundle",
       "value": "jlmugV82QkJTODlPQTROdmJoc01BV3RZWUswOFM4ODklMkYlMkJjWGdIOXM2WjlTYU02d2l5N3UzJTJGQnBSczIlMkJsVm5zN2ZUbWxBJTJGeUlzNkVpdDY0NWpHTXRrbnFGcHFxS3pLWDZzZEF1QUlLd3ZaaDV0dVp4aUlTJTJCJTJCVyUyQkkyQiUyRnpOM0l1SWtZa1BHZ08zYVNBeVAwYXZUTFJac2Jmbm1OcDJOQzNWTnNtNFh1UHFxcUlTNkklM0Q",
       "domain": ".rockstarenergy.com",
@@ -17831,16 +16931,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "bstc",
-      "value": "XAdZqAqwlsCc4897axEV90",
-      "domain": ".samsclub.com",
-      "path": "/",
-      "expires": 1683199325.834655,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "TS01bc32b7",
       "value": "01538efd7c0443603c5913364cacf1535ae8f2e1c63b32340698298fd83c63f81c5d93bd66c9913eef832d5e101332b8eb6bc41ed3",
       "domain": "www.samsclub.com",
@@ -17851,61 +16941,11 @@
       "sameSite": "Lax"
     },
     {
-      "name": "bm_mi",
-      "value": "BD8FEFB6A7FDB56F2B0C12502237CC7B~YAAQu4xivqgPjN+HAQAAvvlj5hN6L2t3yg2ZCcOVtrA4gLfig2ZLVhq5sz5bOnUyundt/rOYxPCAneqj3uKag12WeQr4j9yW8mC50THgHc797zZdPmrMNVDoOpi2fmAyYNIjenQAufwqfOkAdAV1Sg+e37DBLCVz6j+01P9FiQmgJ56wFCsJiZcso2alUaVXsYaBmdiIrjNBoUNqRUxPX6rwHyiyU89pviz/t45KE/Q6RiJBfxxgbRXNraxU05V6HLR3ERDg9bADtrmkjcV5QabANhc2zhVaqXVzUWg53AUvTfL6NpGWotx4KW/eHSWew0pj2OLj82gJNxx82gQSbRQ=~1",
-      "domain": ".samsclub.com",
-      "path": "/",
-      "expires": 1683204723.244506,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "bm_sv",
-      "value": "509E995DC36D277D2103858514E0BEBB~YAAQu4xivrsPjN+HAQAAyP5j5hM/aiabpCYqTf6aq5jEIf0JhWVAm1xjWX53Wt/dpZlfc/safoA7Gybc0QySxdgh5THZwRnPOoL9lA/f3WPXt+o43jTuGDUN4xaKd9TYuUW0W0GDR9Lcn9U9omRD1p5QPKXznNx8Is8hWjdcx/SbK7TilpNLEOC9SLUQRR3DdwSxRcZVZFBU8yXxe75Rwr3fZIUT2jVNBhrZ/xVDZ0Bff30nOZXgocWlGEFDFUlpKPQ=~1",
-      "domain": ".samsclub.com",
-      "path": "/",
-      "expires": 1683204724.534786,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "seqnum",
-      "value": "3",
-      "domain": ".samsclub.com",
-      "path": "/",
-      "expires": 1683199325.834684,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "xptwj",
       "value": "js:084f28103adf1201b8d9:z6qJdVO2+xJYe7RPKArBArL5yHPbsxIFxP4oLxlSeoG8XLZ8CvUFL9DXjUj/FGREZ77wQAn9x3xFxxOA0PQ+uEYNMdRBxHh/J818j+tAlgr/Ny7eu6w=",
       "domain": ".samsclub.com",
       "path": "/",
       "expires": 1714733525.834692,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "ak_bmsc",
-      "value": "870706128426CAC03A4003B7C6622D36~000000000000000000000000000000~YAAQu4xivr8PjN+HAQAA9P9j5hNzXdns8uRN7FKTZ3qTINE+fsX8Drdhn2S0vga4Cez+BF9X2jFtlUI8sn/wKOFmWcqpcCmVqxkH0O39deGBdrvumDi1q5YPblVHEouVHN2RqF+di4l6uXV4fXSQK5589vSKmo0oj0TcwZWTv9jUk01WJmnH5SeOu/6Om2ApMdat/q42ZFKvCDzFk+sc0xgHm/mwI8bygeWxky1ISifTquKiChJnSUyFBujr6nRPMAnxPB9o8y4QPELq1jru6a4hfJ6T1c8sALtQC8taSUmUc8MkmWRkegzV6OiIAp34SUv/A9cfrEXcoIKxa++upUwlzoM5V6SmKan44MYZM1oduxFwnNnCPvja9pDhQZloujEytZVXJFqjHomjkoJdoA5d7PB2EBuuqDeqpnSjMPUJNUsiiw7GFc2nZcVI0+uukIoCHYAsmao/L5+ctQGMRltH4CIhR8rpeIkTHWXfuZew",
-      "domain": ".samsclub.com",
-      "path": "/",
-      "expires": 1683204721.834741,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "b30msc",
-      "value": "XAdZqAqwlsCc4897axEV90",
-      "domain": "beacon.samsclub.com",
-      "path": "/",
-      "expires": 1683199326.838053,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -17951,46 +16991,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "QuantumMetricSessionID",
-      "value": "5b4f913c1e748130a1cf94e8c1a5d1ce",
-      "domain": ".samsclub.com",
-      "path": "/",
-      "expires": 1683199331,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "AWSALBAuthNonce",
-      "value": "AtnwuTml2pjEyxEp",
-      "domain": "pepsicochangecompass.com",
-      "path": "/",
-      "expires": 1683198428.778302,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "_px3",
-      "value": "96be1d303cee31c703ddb4b165e2014ecc8fc473d382ded1dbde92e8490a4807:gH0dE7DO7deK1Xx+ZAyND53qmIclffQRvbDlLKGHvKwKrKEwsXAhamha0GUNV/VPRU49Vh7Hv5sZ7o1FHvVzKg==:1000:vXIOReuvPLWBohdsuIWPe21WasgdkZegPTuZRUj2ZyWwvwiafiolYluVvxiCvyjik+0KwZTZdYwQWGre7S1UAOlXfDXR088oGQfsw+n3GiR+0oxg8MYFUTTrxkcb7/ECpVq73Tt2esO3CIX49P9UQJRYlqW8n6xGRxgLCwMWbUYEbbrtYJBvKYBl8S6NJotAosZUO5zp1VXXhItBjirHaQ==",
-      "domain": ".samsclub.com",
-      "path": "/",
-      "expires": 1683197859,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_pxde",
-      "value": "e15dd835644afebc70704dffda348289a34cbd5e06d1ea1eb8de0b98aa77d045:eyJ0aW1lc3RhbXAiOjE2ODMxOTc1MjkzMDN9",
-      "domain": ".samsclub.com",
-      "path": "/",
-      "expires": 1683197859,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "AWSALB",
       "value": "0Ys1wDi761U4Yzr8zi/LSmq33rfqbxwUw411kq8q1+2liA+5ri3U4sRIm+KeKEb4t4unYYALnqfw6LX0wm8C9b72XIt9ZGsaJVI0ycYRY+LgQrUnxBeyLMDuSSyf",
       "domain": "auth.wspprod.com",
@@ -18011,26 +17011,6 @@
       "sameSite": "None"
     },
     {
-      "name": "OpenIdConnect.nonce.zQaL%2BsBfrkzeIohV9IVqDITsb2ZgpnQ1JvO0fTjvBTc%3D",
-      "value": "RGQ2cDVoazgyTENqWUdoUGhaNnVpeTQ5RVdJT1pPRmhjbUdadnp1NXpQTUdzSTZVcTUwVjFGbWpGWWkwVy11QWxKZUZ4VEd3UUI3cnhUY0cxT2Y5MXhwNWdVRjRLTHRXMzdoS1AwUFZSUVNEOE11Vk5SaFBLc092eXR3TTFDeDhvRkNsMEdVMXlDTXNiZHA3UTdkekNmQ2NMc2ZCOVBzOWROcTZ2UWM5RmVYLXkxcFdISVZnYWM4U3dTWDlkSVNhY3VQejhDb08xYlk5Wk43Q3VEenVDalIyd2tMalQ4VUQ5ZlBFZEtSZW5SMA%3D%3D",
-      "domain": "events.pepsico.com",
-      "path": "/",
-      "expires": 1683198430.141414,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "incap_ses_1620_2832534",
-      "value": "EdRhWLmy8TlzGGHnsmV7FlqOU2QAAAAALwXusae/C7gK+h6+hjDwaw==",
-      "domain": ".mypepsico.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "akavpau_P1_Sitewide",
       "value": "1683198131~id=deb1245ef0c885fe550b12dabee3a6e4",
       "domain": "www.samsclub.com",
@@ -18039,66 +17019,6 @@
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
-    },
-    {
-      "name": "csrf-state",
-      "value": "HTyDLG4mwHreWusYhA8Csc0BAq5iW2jJJKXBaaluPcjZ-oVOkUtsoLKagS6weXl8JE_nWevbPPapzWwK3L1yYvn_c9pwlA2SwnMe_3kEmWMBySUzTf7DkkFNQ8Fr-qMu81l-JSHX2u0MgE-NroNg0yEr7Fme2zey-7Eo1-oaqXg",
-      "domain": "accounts.wspprod.com",
-      "path": "/",
-      "expires": 1683197831.602074,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "csrf-state-legacy",
-      "value": "HTyDLG4mwHreWusYhA8Csc0BAq5iW2jJJKXBaaluPcjZ-oVOkUtsoLKagS6weXl8JE_nWevbPPapzWwK3L1yYvn_c9pwlA2SwnMe_3kEmWMBySUzTf7DkkFNQ8Fr-qMu81l-JSHX2u0MgE-NroNg0yEr7Fme2zey-7Eo1-oaqXg",
-      "domain": "accounts.wspprod.com",
-      "path": "/",
-      "expires": 1683197831.602113,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "BIGipServerdfwweb.corp.pep.pvt_dfwsecure",
-      "value": "847386910.33763.0000",
-      "domain": "secure.mypepsico.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "visid_incap_2832534",
-      "value": "A253aZCMTvq/9k/dU8sH0lqOU2QAAAAAQUIPAAAAAAAKiUywJW77kO3MFB5dMBF5",
-      "domain": ".mypepsico.com",
-      "path": "/",
-      "expires": 1714721824.726518,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "nlbi_2832534",
-      "value": "FjO0VvnzK1AptHYgRR+RtgAAAAA2P4pr+RSvgZZbM94Umk/s",
-      "domain": ".mypepsico.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "JSESSIONID",
-      "value": "ED5BE4D8C0A5D3B7DA8CF22784AFD76C",
-      "domain": "secure.pepsico.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
     },
     {
       "name": "JSESSIONID",
@@ -18111,51 +17031,11 @@
       "sameSite": "Lax"
     },
     {
-      "name": "__Secure-csrf_cookie_name",
-      "value": "49508a815a9e59eef61c87894dea97f0",
-      "domain": "cheetos.com.mx",
-      "path": "/",
-      "expires": 1683204734.454789,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__Secure-csrf_cookie_name",
-      "value": "faf4c93adbe2546507a24132b205032d",
-      "domain": "crackets.com.mx",
-      "path": "/",
-      "expires": 1683204734.906746,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "__utma",
       "value": "65236732.878254304.1683172483.1683182371.1683197536.4",
       "domain": ".crackets.com.mx",
       "path": "/",
       "expires": 1717757536.105792,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__utmt",
-      "value": "1",
-      "domain": ".crackets.com.mx",
-      "path": "/",
-      "expires": 1683198136,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__utmb",
-      "value": "65236732.2.10.1683197536",
-      "domain": ".crackets.com.mx",
-      "path": "/",
-      "expires": 1683199336,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
@@ -18199,36 +17079,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6ImVhZnF5M0E5dk9jNmJ3VzJIQk9XNHc9PSIsInZhbHVlIjoic3lkWEVRTjUwQXFCZkhKRDZOUFpaQTJObVREcU8yUmlmT1ZzSFA1MDNlYnk1N1hJaUQxR0laL2VqOFhsTmNxNndjOFI3MGw0ei9xdCtOVkhLM2c4b0lDZ0VoalJWMGZTL3ZOTzd4aWxxOGx4RW1MRTY1Y21oWDVINVo2UldRYUciLCJtYWMiOiIxOThkYmViZjczNWVmOWJjMzgyY2MwNDdhNDNjNjcwNjgyOWM5ZjNlNzA2MWFlNTY0MjhiYzY4MTEwZTQxYjRiIiwidGFnIjoiIn0%3D",
-      "domain": "mariasgamesa.com",
-      "path": "/",
-      "expires": 1683204743.366393,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "marias_gamesa_marca_2022_session",
-      "value": "eyJpdiI6ImEzOGZzZ0VnUmtaWDVLK3JISStuTWc9PSIsInZhbHVlIjoiTTVHNFlwU0h4ZHRvRCtrOUhDc1dwcmlQcjN0QzV6dmZaWDIrbGRQZFArOGJuKzZlN2JXOVZOOGxUK0NCa2pMK3VIdmxmVEZ3dGVVUFJVMkFzMVVYRG9mVVppdGdTVXo5ZzZyYWt2dUd1aitPM2I4RVp3WG9LQnlNcVJzcXA5Z2kiLCJtYWMiOiJlZThjNzM4YmMzODQ5MzY0M2ZhN2Q1MzNjZTQzZTdhZGEzOTlkMGJiMzNhNGJhMTc2MTQxNDA5MDUzNjY5MWY0IiwidGFnIjoiIn0%3D",
-      "domain": "mariasgamesa.com",
-      "path": "/",
-      "expires": 1683204743.366412,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "__cf_bm",
-      "value": "8i7j4ofi4v5lQbSODfB4qK_ihUr7FXZEu6MgNSTNBqE-1683197543-0-AYOFm+VIRF3UR9OobQk32HiFqfiXtCDdUXOuopHZGXnNT4++OfCxb71vRrZRG2W/pPi3uZcZT5AvmszoE9NwMdg=",
-      "domain": ".w3.org",
-      "path": "/",
-      "expires": 1683199343.418077,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "_ga_Q9NGQQ8MV0",
@@ -18301,36 +17151,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6IndHRm1haDMvMDh2UVFPKytHYU40eHc9PSIsInZhbHVlIjoiVFdhOU1BMGpYWW1UQkZHQllBRmp1SHN6WjhBK3gzazgrTlppZ3BSM0dQdkhIdGp1aUZqbnZNRXZuN0htSW1RNUMrUmUyL3Rtek1iQ25ZKzlMWnBmTnhoczFRanVyNDdOM3Bod2JYZDNOSUxadEg2NTBHZmJkYUlMRXUxT2xWajQiLCJtYWMiOiI2ZTVlYjIzNTkyMDcxYjlmZGVjOTU4NTgxNjVmZjQ5MGY2ZDA1MTk0N2FmNGM2ZGYxYmFlZTg4MzhmMDY3MmIwIiwidGFnIjoiIn0%3D",
-      "domain": "sabritas.com.mx",
-      "path": "/",
-      "expires": 1683204750.171833,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "uefa_2023_mx_session",
-      "value": "eyJpdiI6InMrbnBOblFhdklMUEY3aXlaOGlyM0E9PSIsInZhbHVlIjoiSGJ3VWtHMFVueTQvcWdlbkxmTUJlazhHYnFzb1hxcFIrZ0tFMjFqS3NoRVhIdVFmMXN2OHR6SHZzNmZIMDc0ckYxK1U4Wlh3SUx2SzN5TUNIajlnU0JOT3lacFdTU2FlazhCeEtTSXZod2lRa09GT2YwUC9ISXYxZlFIbXNCOTUiLCJtYWMiOiI3MDRmYzcwZWZkYTg1MjRhM2Y0ODc3ODYzNGEzMWQ2NGIxYWFjYjFkZDhiZTI5OWY5ZDBhN2U2OTY5NGMxNmMyIiwidGFnIjoiIn0%3D",
-      "domain": "sabritas.com.mx",
-      "path": "/",
-      "expires": 1683204750.171857,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "csrf_cookie_name",
-      "value": "b0628ff626c0c8001eb907ff78e87ccb",
-      "domain": "emperador.com.mx",
-      "path": "/",
-      "expires": 1683204751.350947,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "_ga",
       "value": "GA1.1.1448664117.1683172504",
       "domain": ".saladitas.com.mx",
@@ -18371,92 +17191,12 @@
       "sameSite": "Lax"
     },
     {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6ImdBV3o2RVp2QVRwT2s1Rlk1V1Y1d3c9PSIsInZhbHVlIjoiQUZJMUExSDBlaFh2cGU2TDlrcXB1U3VyU2lXUHNIZTc2N1Z6aldyZ1BISU45UWE1UzRtUzQvQzhDcG54TFVLS01EVDVWYk1MS2RRd1JjWXUwMXg1dDVWMjlieHJLbXpxMmxxVWVNcnpINGNlanIwdG0xcGl4bEoxT1k3akc3b1YiLCJtYWMiOiI0NGNkMGY4YjEyMWFkZTFkNzdiOGIyMDkwZjAyM2FhOTE2MmVhNjc1YTVkMWEzMjljMzRlYmYwNDM4ZmIxNjA1IiwidGFnIjoiIn0%3D",
-      "domain": "tostitos.com.mx",
-      "path": "/",
-      "expires": 1683204752.086109,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "tostitos_promo_vacaciones_2023_session",
-      "value": "eyJpdiI6Ikl5cmN5cUR1eVBRMVhsWlhnVjdtRWc9PSIsInZhbHVlIjoiR004M1N4U0h4cGdXYmJST0xoSHEzNlFGVVlFeG5vaEJyRitaNWhOd2phUVlGZWdHS3JjSUpxSGZwd3FCYzROUFRnL3ZQbHZXZU1UTlAxUzhGdlAxSzZUdkVsVmcrNjVsc0pUQUxLc3F2YVJZenJnMnFjV2JXQ2wyQjIxelJkQXYiLCJtYWMiOiI0YWZiYzM4NGNhNDAyOWJjMTIyNGIzNGYzZTZkOTAzNTRkMzEwMzkyODA1OTgxOWI1YWI0YTlmNDJlOTg4YTQ4IiwidGFnIjoiIn0%3D",
-      "domain": "tostitos.com.mx",
-      "path": "/",
-      "expires": 1683204752.08613,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6ImdCWUk2aXl2TVVhWGdIc1doZ2k4Vnc9PSIsInZhbHVlIjoiRkJKSlYyUytvWFdSdWQ1WnVCaURDYWNQZVczL20wZU5Pc3JpVC9TbC83SjJsbWxTWWlVeHlBOEtPNjI1cHRHdG9vY0V3WittQjZIeGk4dWZvdk9LOU1FUExWQy9nbkJsOG9Ya0JjN1ZXb3ptc2VVMlA1a0lnbVN2ZEx3eXFUNlkiLCJtYWMiOiJkMzhhYzFiMWI4MDI4OWY1NmFkZTY2ZDU4YTFkZDYzZjY0Y2E2ZGY2MDFiNGY4ODBlODg3YjAxNGE3NjFjNzZkIn0%3D",
-      "domain": "paketaxo.com.mx",
-      "path": "/",
-      "expires": 1683204752.51817,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "paketaxo_site_2021_mexico_session",
-      "value": "eyJpdiI6Ikx3YTViSWhOUDh1OGxQQUZSQmxiNXc9PSIsInZhbHVlIjoiZ3JMRFhSZzcrYWh3U1N5VHdZR1hYNFVxQy9qR1RYa25PZWs4T3RJaDdXZ0xqVDloSjNicEV2MUFaNzNmQkVDQmNtcTYzcFVrczhhci9VLzZLSXgyTXRhb3Bid1Z3UnE5VGpaNE5YZUNJNlEwVWNtM2JXVEk5djlLUms4amdQR1kiLCJtYWMiOiJmM2E1ZGUwYWViYTY4OWJlNzZlMmFiNjE2ZjVhZjE2OGU5Y2Y0YmJmYzM5ZDMyNDdlYjJhZmNiNjg3NjA4YzJmIn0%3D",
-      "domain": "paketaxo.com.mx",
-      "path": "/",
-      "expires": 1683204752.518197,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "_ga",
       "value": "GA1.3.458066920.1683172502",
       "domain": ".paketaxo.com.mx",
       "path": "/",
       "expires": 1717757552.724522,
       "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6InFGK2pZOU44bnBhRzhFQUpnRHZqcHc9PSIsInZhbHVlIjoiNU5KQy84M3NTRDNYVEFpV2VDU1dRQ3hWQ2NrOE01RkE4bE85MWFBMGI5WGZzTldDSlR0UFljd3JuZk1vYzhPdUdHWU9pd0pSNlJPbzFzcmdlTkJmdm8xSExIQUNWKytYM3lwOFczUjdqWWFuTG5HVjFNVWxXWU5uU3U5ek5EQ1MiLCJtYWMiOiJhZWY2ZmNmYTE3ZGUyNmM3MDdlODkzZWNmMDNmYzJmN2UxMTZlMzc3ZjdjMGJjODU1NTg5NTM2ODFmODJkYjYzIn0%3D",
-      "domain": "saladitas.com.mx",
-      "path": "/",
-      "expires": 1683204752.165057,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "saladitas_session",
-      "value": "eyJpdiI6IlRpT2NhRFJJVUpGd0pYRkhGUVdmeXc9PSIsInZhbHVlIjoiaE1tWVFISlJnZ2pGMFVKdUZGMkRpbUNoa01IQXIxYjQ3UjVidk5aL3J3bTBMNkJDQlpVTnJIMkl6TU9Tc3d3bmJ2R3htQVk4b3Fxak5lR0NvL2NiSk95dEFvSElrUFg4WjBYaUo0ZmVGVlRVYjZpVHpKVTJlUjQwNitHTzYzN0ciLCJtYWMiOiJiNGI1YWMzZWUyOWYxZmY5ZjRhYmM3MWQ3Mjc1ZjU5NmE0MjUzMmQ3ZjViNmQ5OTU1ZmRhMzQzOGQ4MWFmNTg3In0%3D",
-      "domain": "saladitas.com.mx",
-      "path": "/",
-      "expires": 1683204752.165084,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6ImpPbGR6d3B5ZWFqd2pHajNJMExxclE9PSIsInZhbHVlIjoib0lUN3JRblIxdFV3elF0V2NlVGdhZTV4Z1pnaTNzMndWZ0RXb1QwV2huZWdoNHVlT3I4empOOW9JcUdiUHI1VENTbWFVWmlaNE4zVHhib1BtNkpva3R1aU14WVkrN3VkanRrcTVUUlpIZzV5TVhsSzNrZXRIUFF3d0JjNUkwYWMiLCJtYWMiOiI2YzdjMjRmYmUwYWU5NjA0YTc4MGUzNzRkM2Y0NDZlMDQ4YjliNmMyNTJkYjVmMjE4NDcyMzliZjA5YmJiYjUzIn0%3D",
-      "domain": "papassabritas.com.mx",
-      "path": "/",
-      "expires": 1683204753.463544,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "papassabritas_naturalidad_session",
-      "value": "eyJpdiI6IjZmSzg5bFJlTDVIL3libmJaZGZuU3c9PSIsInZhbHVlIjoiLzE5L0JBdkdibE5vVUNrWWRvK2d2VEU2d3F5ZndndDJlaVQxSkhxYUJLcUFTMWpXN0FlSHFOYmxxOEtOb3FHTmZoMEZiWEVVMVRtSTJhL3JSRXVTZFdmWFVkanlwMzVxb0FyY0g3T0t0TEFkK2VrR3lVbkFIQzFrdXREUlFUSVIiLCJtYWMiOiJhNjkwNDdkYTk4NmJlNzJjYjRmYmZjMjY2YmU2OTc2ODBjNzIyYjBiNWI2YWM2MDE2MGUwOWY5YWVmMDNlNmM1In0%3D",
-      "domain": "papassabritas.com.mx",
-      "path": "/",
-      "expires": 1683204753.463575,
-      "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
     },
@@ -18497,26 +17237,6 @@
       "path": "/",
       "expires": 1717757554.636088,
       "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6IjNqbXhHckhqVnRRZUp3VGlRVWh6MFE9PSIsInZhbHVlIjoibG1Mai9QNkJCOFFJSGlWRlRVZGh5T1p2YVN6b2JKQWlhaDRBYnh2b1VmMUtRbnZPUjFyTzRhYnM0MnlEYU5vMU1rZC9UN3RuNDV1Y2ZHUVoxaHVQY3RZY0w5Q29JSjh2cGFvdERxSWhoRDZXbkgxNVI3S2VCVDN5UjNSeE8yT2giLCJtYWMiOiIzZWQwODBhNDEwMDUxZTA4YmQwYzUxYzVkNDFmNTVhZGI5M2IxNjU1NGUwZmI1NjQ0MDQyYTY5MWRjNGU1ZjU2In0%3D",
-      "domain": "campoaopacote.lays.com.br",
-      "path": "/",
-      "expires": 1683204754.98683,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "lays_rustica_session",
-      "value": "eyJpdiI6IlQxN0crMEJzODFyaTR1K0xVckhvWEE9PSIsInZhbHVlIjoiWERCZ05rSWVGbUxvNnN1QklJdGJlMFhtdFRUR29oZjUzT0l6Zks1dy8zRjhueWYweG4zanJvem85dkZscXNHTXhCRENjaGpCbU1NTjk5NjNiUE9wY0xoWEM4YlBKUHhmZndEV0NZNFYrOVl1UXljNTByZ1dxb0IxRW1rUHJOdjciLCJtYWMiOiJkNWQ4MjFlMTJhYzdjZTIxNDhmN2NmMWUwNDFkZDA0N2VmMTc5OWM0MDRkNTgyZGNiOTJmYjZjZTdlY2EyYjFkIn0%3D",
-      "domain": "campoaopacote.lays.com.br",
-      "path": "/",
-      "expires": 1683204754.986886,
-      "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
     },
@@ -18581,16 +17301,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "__cf_bm",
-      "value": "RnCuwlDhob4w.ZX2zX3A_FL.wnLvF9cgrAWDnFFi9hg-1683197563-0-AQlN+pQhPCH5KoM7+SI5MlbpZaAJomgQqFCkjSnGJ4sT6SHxEejpVSE7xqNMueiO18TekTdkJzwyzUEEhJQTkXg=",
-      "domain": ".squadhelp.com",
-      "path": "/",
-      "expires": 1683199363.373016,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
       "name": "_ga_7WPFGYWL1F",
       "value": "GS1.1.1683197563.4.0.1683197563.0.0.0",
       "domain": ".gatorade.lat",
@@ -18619,16 +17329,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "__cf_bm",
-      "value": "dcib9qSkFhiOQhRovytDK_lB7zjxnD01w7iLtSIu._o-1683197563-0-ASsVitr6ELrFdNcPWE/mwzLWxrOgBWMeL7ppLpPeET+yq09Ml8XplvyM3j2SgiqL4XmZoUIQNLPfmbYmgf03abE=",
-      "domain": ".calendly.com",
-      "path": "/",
-      "expires": 1683199363.782487,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "_ga",
@@ -18681,16 +17381,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "outbrain_cid_fetch",
-      "value": "true",
-      "domain": "www.squadhelp.com",
-      "path": "/",
-      "expires": 1683197865,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "fr",
       "value": "0QY7fsNTM11mbTBDX..BkUyy9.38.AAA.0.0.BkU459.AWVMmAUzagY",
       "domain": ".facebook.com",
@@ -18701,42 +17391,12 @@
       "sameSite": "None"
     },
     {
-      "name": "_parsely_session",
-      "value": "{%22sid%22:4%2C%22surl%22:%22https://www.tumblr.com/gatorade%22%2C%22sref%22:%22%22%2C%22sts%22:1683197565460%2C%22slts%22:1683182399080}",
-      "domain": ".tumblr.com",
-      "path": "/",
-      "expires": 1683199377,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "_parsely_visitor",
       "value": "{%22id%22:%22pid=5164235d-d9c2-4b82-8b18-2a9e1489d38f%22%2C%22session_count%22:4%2C%22last_session_ts%22:1683197565460}",
       "domain": ".tumblr.com",
       "path": "/",
       "expires": 1717361577,
       "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6IjJKSFVjd2s4K3hjbGlGMmtXZDRoSWc9PSIsInZhbHVlIjoib3lDc0xQeFYyTEJJMGMrL2NyT0VUelpDalRCOXpYOWhlaVRyK2cxZkNuWTdpVEsrZyswRkN1MTZQcTJObTFja1ZpaFcwK0Y1RDlTSlZST0FDclBCZm5GTnpIcHM0d3A5bkNsVTgxdFYzem9NRkpCcHpMWDJpN1NCNHFSNi81VW8iLCJtYWMiOiJlY2M2ZmQxNTU1ZDMzYjRiN2EyYjE2NTkzZDcwMmQ1ZjA5OGVhMDU4NjNlNjMyZGQ3NmU3NGUzZjUwZmM5YjAxIiwidGFnIjoiIn0%3D",
-      "domain": "sumateaplanetlove.com",
-      "path": "/",
-      "expires": 1683204765.488093,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "sumate_a_planet_love_2022_session",
-      "value": "eyJpdiI6IkQ3dEpZd3lXay9GTmswRFJWYVNMdmc9PSIsInZhbHVlIjoibW43dUNjdUxFUDM2WnNHYThMNUNVV0M3KzVwUzUyOWlPamFnclZZVFNqMU1RNU0xenpzL3dFVzh2eEVZUHdOQkwxMldOZm14Z0RUWHpIbHh6NVh2TTdibDZ6ckswVE5BVm4zb1F0K0c0L05Nblk3WUZ2R21Va3EydnRvQjdhMUkiLCJtYWMiOiI3NjhmYTdiOGFkZTcxZTU2ODc2NzM0NTU2OGJjNTA5NmU4N2QyNTRkNDE2NmNhYWI0YjE1ZmEzZGI2NWM4Yzc5IiwidGFnIjoiIn0%3D",
-      "domain": "sumateaplanetlove.com",
-      "path": "/",
-      "expires": 1683204765.488116,
-      "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
     },
@@ -18821,26 +17481,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6Inp0Vi90NWNoUnJvdDJ2OTNwdWI1R2c9PSIsInZhbHVlIjoiWms0S1B2VmVYTndGV2V3Z1JCOG5jcGJ2aVZhbkhkZ1pWcStoSC92MGdZeldMMDFDME1rSHRUcVdvdXNJYi9kSmtUdkhiSG9veHN0dHc0SDRzVmExblpOMWNMd3pxYUVEWXVwVlMvZjRiVnVRZzNHQUpQNFloUFFDeElobStQL2MiLCJtYWMiOiJhMmI5NjNmOWY5MTcxZTdhNzQwNDA4ZTNlOTNmY2IwYjg1MDY5Mjc3ZmU3NzE5MWQwMmI5NzcyMjlkNTgzMTY3IiwidGFnIjoiIn0%3D",
-      "domain": "snacks-pepsico.com",
-      "path": "/",
-      "expires": 1683204768.956828,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "magma_session",
-      "value": "eyJpdiI6Ilg3MHRzb1ZOTVRyeStBRHVWMnF5OGc9PSIsInZhbHVlIjoicnRrV1UrdHBpOHhQQkpONmhpMG5WWEJYc0hJVzhLQ1RreVE1WEYwNUtiZjZwSnZ6M3JYZVZIK0xKNTdIUmt0UWtVbHBXYzY0TUZLMXZsN1o1OTZ5Q2oybTFDa2hLcStWa0dwazlYUFR5dDZzd3p2MmdYR29FNjBlVGhsM01ZdUsiLCJtYWMiOiJjY2U5MTVhMWFkOGNlMmY1MmIxYjMyOGY0OTJmZjFhOTNiMjQ0YjZhZWFiYzNkOWE3Mjc3M2MwNDA4ODIxMWY4IiwidGFnIjoiIn0%3D",
-      "domain": "snacks-pepsico.com",
-      "path": "/",
-      "expires": 1683204768.956856,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "_ga_VJ36JWQDE1",
       "value": "GS1.1.1683197564.4.1.1683197569.55.0.0",
       "domain": ".squadhelp.com",
@@ -18901,16 +17541,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "appsecure-webapp",
-      "value": "!Km1DfX26B1dIat6r11dgkBUbEtK2xyQbNYI2EkJPVa4V/mtN/q5b4CLefgT3wbMQDzyBPKmz1d04I4s=",
-      "domain": "secure.mypepsico.com",
-      "path": "/",
-      "expires": -1,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "AWSALB",
       "value": "yhlHFiruOo68o1yauEUrWhcfP+62fHFffc+kbN+UIw6DOoVQKXs/VwSXUN5j6EOV8hZiGOHAtEavTlKOXdzdRUagx2Y9rMe2J5W+cBVCpnoo9qaix2rZ/20DbLJw",
       "domain": "www.emorrison.com",
@@ -18929,16 +17559,6 @@
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
-    },
-    {
-      "name": "parking_session",
-      "value": "470dc6a2-20b6-f01e-0382-a44d69313c36",
-      "domain": "ww1.onlinescustomersurvey.com",
-      "path": "/",
-      "expires": 1683198475.380657,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
     },
     {
       "name": "JSESSIONID",
@@ -19009,36 +17629,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "traffic",
-      "value": "",
-      "domain": ".flavorsplash.com",
-      "path": "/",
-      "expires": 1683198779,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "pathway",
-      "value": "1364a944-5480-58d6-9577-fe22cecdef5b",
-      "domain": ".flavorsplash.com",
-      "path": "/",
-      "expires": 1683198779,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "fb_sessiontraffic",
-      "value": "C_TOUCH=2023-05-04T10:52:59.132Z&pathway=1364a944-5480-58d6-9577-fe22cecdef5b&V_DATE=2023-05-04T10:52:59.131Z&pc=1",
-      "domain": ".flavorsplash.com",
-      "path": "/",
-      "expires": 1683198779,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "OPTOUTMULTI",
@@ -19131,16 +17721,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "tfpsi",
-      "value": "71c2ed17-76a8-4fef-b5ff-45c3b9d79458",
-      "domain": ".elmachips.com.br",
-      "path": "/",
-      "expires": 1683199380.707746,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Strict"
-    },
-    {
       "name": "_ga",
       "value": "GA1.1.1723553526.1683172563",
       "domain": ".yachak.com",
@@ -19171,66 +17751,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "_s",
-      "value": "0fd7b395-1b79-46cf-910a-3fcdb8cb3f9e",
-      "domain": ".winkler-jewelry.com",
-      "path": "/",
-      "expires": 1683199390.597463,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_shopify_s",
-      "value": "0fd7b395-1b79-46cf-910a-3fcdb8cb3f9e",
-      "domain": ".winkler-jewelry.com",
-      "path": "/",
-      "expires": 1683199390.597485,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "parking_session",
-      "value": "eedce694-3209-1ce2-8c6c-c16113b2837c",
-      "domain": "maizoro.com.mx",
-      "path": "/",
-      "expires": 1683198484.139128,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_shopify_sa_t",
-      "value": "2023-05-04T10%3A53%3A03.680Z",
-      "domain": ".winkler-jewelry.com",
-      "path": "/",
-      "expires": 1683199383,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "_shopify_sa_p",
-      "value": "",
-      "domain": ".winkler-jewelry.com",
-      "path": "/",
-      "expires": 1683199383,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "omnisendSessionID",
-      "value": "bw48iV6wKYvxQ5-20230504105303",
-      "domain": ".winkler-jewelry.com",
-      "path": "/",
-      "expires": 1683199383,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "_ga_7MLF8G52C7",
       "value": "GS1.1.1683197583.4.0.1683197583.0.0.0",
       "domain": ".pastagrande.co.za",
@@ -19249,46 +17769,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "ssw_visitor",
-      "value": "ssw_visitor1683197583811",
-      "domain": "winkler-jewelry.com",
-      "path": "/",
-      "expires": 1683199683,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "_hjIncludedInSessionSample_2891937",
-      "value": "1",
-      "domain": ".winkler-jewelry.com",
-      "path": "/",
-      "expires": 1683197703,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "_hjSession_2891937",
-      "value": "eyJpZCI6ImYwZmM3NmZiLTYyMjQtNGFkYy1iYTk1LTEyOTgzYTIwZjU2OSIsImNyZWF0ZWQiOjE2ODMxOTc1ODM4ODMsImluU2FtcGxlIjp0cnVlfQ==",
-      "domain": ".winkler-jewelry.com",
-      "path": "/",
-      "expires": 1683199383,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
-      "name": "_hjAbsoluteSessionInProgress",
-      "value": "1",
-      "domain": ".winkler-jewelry.com",
-      "path": "/",
-      "expires": 1683199383,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "_ssw_cart_data",
@@ -19328,26 +17808,6 @@
       "expires": -1,
       "httpOnly": false,
       "secure": true,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6IklWUUt0VktXTlpJQXJMMnJocUZZK1E9PSIsInZhbHVlIjoiMVI5V2UrNUVScVZveTZ6WmVTdjZDSCtVblN5T1FXOVp5QzZ5anMyYTJJYXI5MWJobi9JMHRaVnRmNXRTRFpzKzVsM2dwL0FEc0pzTURleXc2K1RtcThEbjN3cFgvRWlqNDJYT3NHUlRHamY4YXFZWFQ2Q0tjMFR3VCtYMHNPUWgiLCJtYWMiOiI3ZWQ5OGQ4MjZkM2MwYjNjMzAyYWM1ZWUxNDNlZjA4NzA3ZWMxYmRkMjk3N2RmZmNiNjBkMzQ4OThlYzc0MDRiIiwidGFnIjoiIn0%3D",
-      "domain": "www.pepsiconcorsi.it",
-      "path": "/",
-      "expires": 1683204786.949216,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "laravel_session",
-      "value": "eyJpdiI6Im5ONFAvL3NIZTdsYVRUNVRyQ1dkWkE9PSIsInZhbHVlIjoibk00T0diS3IrcFBzRU5KUit6am5yU1dKODFBVmErWngwVkh4S0syTDAyZDBKWXJIeGtnQ3pxdGs2NU1mcVE3aWxubjlxRnd5TmxSS0RjRnQzWWVNa3RoOC9jMklmT1dGOWFveHNwaG85MUFvVVdoU1FYV0RrMXFIbFo5OEE2YmwiLCJtYWMiOiI2OTI2YjIxMjc0YmMxZTE5ZDdmYjkzNTRlOTExNmFmZGFkYzAxNjQwZDA0M2JiMTNkNjVkNjI5Nzc5NGMzMTlmIiwidGFnIjoiIn0%3D",
-      "domain": "www.pepsiconcorsi.it",
-      "path": "/",
-      "expires": 1683204786.949241,
-      "httpOnly": true,
-      "secure": false,
       "sameSite": "Lax"
     },
     {
@@ -19781,66 +18241,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "parking_session",
-      "value": "9cddfa58-8a34-c76b-c90e-0b385117ab1e",
-      "domain": "pepsiinteractivevending.com",
-      "path": "/",
-      "expires": 1683198506.986264,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "parking_session",
-      "value": "b9881572-1ac2-b342-ef81-9dd97a25b8eb",
-      "domain": "drinkfinity.co.uk",
-      "path": "/",
-      "expires": 1683198507.852787,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "parking_session",
-      "value": "9aa34c11-ff40-f40f-517c-580e81440e70",
-      "domain": "earnfootballgear.com",
-      "path": "/",
-      "expires": 1683198508.37181,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "parking_session",
-      "value": "b10e5c72-7d15-df97-1244-15039721dd07",
-      "domain": "doritosspiderman.com",
-      "path": "/",
-      "expires": 1683198509.564144,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "parking_session",
-      "value": "730ae540-120a-f929-3e9e-50abf11c2055",
-      "domain": "dummy.com",
-      "path": "/",
-      "expires": 1683198509.931528,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "parking_session",
-      "value": "582c9be0-ff23-53ef-d1e9-a873b74c597d",
-      "domain": "pepsihootersweeps.com",
-      "path": "/",
-      "expires": 1683198510.030082,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "_ga",
       "value": "GA1.2.999729742.1683172618",
       "domain": ".toysfortots.org",
@@ -19871,16 +18271,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "VtexRCSessionIdv7",
-      "value": "7bb1c872-5305-4b56-8010-c855905d956f",
-      "domain": ".www.sodastream.com.br",
-      "path": "/",
-      "expires": 1683199413,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "anj",
       "value": "dTM7k!M4.iSS'cq8X$9c2*Tr6DEr!u9sH8'TmA.YfDz?sm15p`>5!d@iK0PLGxxzo9BgGrh6hdzh(>8@5sccpbg[teO-^OmwxF=:(1FP5mwX6[P`XWB@Ef-'uDjJ?1]>rbq$D3*c/sL`h%y*MgpgC2ZjViLJ-X4GFy.g^vX`qG4V$04]h>CnpnG6RV@gte+(z[h9ajR68-5mNqj[[pE*Tpbub$iun*d5$YlPto%k[?M2Q>p]*uTkGtZ=]d.Bc9RH>Bq)LrIyW:!pC<ljHdbI1B3+]rF`iHoR)I`tL]YK4^c+A1hHK:MbtA3wR]G)GPxvw+YAOF/f$w2^z.zDI$f_39o+S4ULpRQac2Ali'+b+YtP1Qpk<`v!v!o].UZ=dAWat3KvwYf/66S:ub`VJ'Py(2aD]!UqTtMcyoz_8:`9Nw0W6QfvE^ME+/UQFq%uSI.*+K4gnd#KB./OEXERe!bxJJ>cM(P8+!'ILca.Dv2#K9/sDf_63vKt*G^>((c)*z_>++)'b_pW385'X1tFGq0l%/E_R7#W@pQ7V40hCM>taeLQAvN#7/Ths",
       "domain": ".adnxs.com",
@@ -19889,36 +18279,6 @@
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
-    },
-    {
-      "name": "XSRF-TOKEN",
-      "value": "eyJpdiI6ImhTeThTTkZCek9xWWVGT1pOMFRTeGc9PSIsInZhbHVlIjoiZ2NLS1F2T0R1QXh5azNcL045RjdNcVNzb2RRdld3eUMwd0lBT3VzU1NxbTVcL0NnRlArcWVRXC9NWEVJdEM4djVHQkpKNlBHK244TWJxbmZucjMwbVM3OXc9PSIsIm1hYyI6ImU3ZDc0ZjE2NTgxN2NjMzAxMjVhYjI5MmI1ODc4MDgwOTljN2UxY2M1YThhMTljY2Y1ZWZhZjRhYmYzNmMwOTcifQ%3D%3D",
-      "domain": "www.7up.com",
-      "path": "/",
-      "expires": 1683204810.856947,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "laravel_session",
-      "value": "eyJpdiI6ImRydCsrUjlWUWhzUlQ5VkJwUFZpSFE9PSIsInZhbHVlIjoianVwb1BOeUhsUjhYdnFEaG9tbEpRM1BDSFVxbE9hblRtbTc1bkdmcHpFd3lRWlVMS0gxbEpMN2pwaUpzSkI0ME51K3hsM2FINGl1aXptaWVVaXFJV3c9PSIsIm1hYyI6IjMxMTNlMTVmNGIyN2E4NmQ0ZjNkZjE2M2UxMDVlNGEzYTdmZjRhMDUzZGU2MWEwOWNiNTE3ODNjZjM3MDk0ZTUifQ%3D%3D",
-      "domain": "www.7up.com",
-      "path": "/",
-      "expires": 1683204810.856986,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
-      "name": "d31891c76a296b0d832bb85e6b180aee0239c2ad",
-      "value": "eyJpdiI6IjlhY1BHU3ZvZzlBY1ZyUXA3R0N0U3c9PSIsInZhbHVlIjoieGR0UVQya2d0c0ZHcFZRZDVXNzdPYXVQd2ZxWGhMRXcrZUpFYldZNE5lVXFubGdcL3prSElSdmJCakpROVRlaENZODlPMFJUa05tSkxvZEdzanBldVNxQXU4M044c2JSWUkyN2tHQ2FxVjBsQnVuMkQweTlrc05ISHlIdDE3RVNPVGtQYmlDY0gzR3p0aTl4K3kzME90eVZDZncrTjVhcTNkVmE3U2hNY1A1akhyVkNUSHg4cFdtbENPbnFWa0FNM0hKUnBtMkVnclN6QXdiXC9BUUJaOGI2YVFacmMxWXpIK3lBbDkzQzBzSFJmbkRKNWFMb1ZQQkU5WTU2aEljSnh5emMyZXN6YzYxd1hWdlNJaHZFN1RHOE9VUU00Q3BVcFcrNEsyenA5ZUlRZElrRTB1WGExZFFDMFhYcDN4ZVN5NDZDSWtXK1VqaGhyeHdWT29xTHFEZTU3U2FSN05sVlc0VkZVd2lSSkw5eXF4OHZDWkpQXC9FdlNnbjRYYlh1cXFYbVI5UzdPVGdIOG55dmpEc0VuUHpEMFY5RVQyYlErWkYwRkhlck9cL08yaTBMS1N2RGhHS3NLNERrMGVWRlErOHNCb0JFbTYrWXlZUlFQTHNrbGdXWFdTTmd6azFYNjZiN1JleDBBWW4wNkZVPSIsIm1hYyI6ImZhMDFhMzVmODE0MTNhMjM4N2VmODA2MmFkMGZlZjZmYTEyZjQ1ZjRlMTNlOGViNjlmODdjYWNkNzMzMGViMzEifQ%3D%3D",
-      "domain": "www.7up.com",
-      "path": "/",
-      "expires": 1683204810.856997,
-      "httpOnly": true,
-      "secure": false,
-      "sameSite": "Lax"
     },
     {
       "name": "_ga",
@@ -19961,16 +18321,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "BVBRANDSID",
-      "value": "65ca8d2e-2be8-4fd0-bfdf-4145c72d5e97",
-      "domain": ".7up.com",
-      "path": "/",
-      "expires": 1683199411,
-      "httpOnly": false,
-      "secure": true,
-      "sameSite": "Lax"
-    },
-    {
       "name": "_ga_4SS7PGWH6L",
       "value": "GS1.1.1683197610.4.0.1683197611.0.0.0",
       "domain": ".toysfortots.org",
@@ -19991,16 +18341,6 @@
       "sameSite": "Lax"
     },
     {
-      "name": "c_64ei",
-      "value": "ZmFsc2U=",
-      "domain": ".toysfortots.org",
-      "path": "/",
-      "expires": 1683204896,
-      "httpOnly": false,
-      "secure": false,
-      "sameSite": "Lax"
-    },
-    {
       "name": "_gw",
       "value": "2.u%5B%2C%2C%2C%2C%5Dv%5B~gpa25%2C~0%2C~1%5Da()",
       "domain": "www.sodastream.com.br",
@@ -20009,16 +18349,6 @@
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
-    },
-    {
-      "name": "__cf_bm",
-      "value": "eCYtv8ZBwsB7hczBaQjGhN2xNRokkmFhq3n2n2BkVCI-1683197614-0-ATkf5EZVj4ON6Bml39NzpjHByoHpspFYVHiimEwn8MsfZxZTm1Ob7ZV/6F8SYanDL56GZ3mdTf+J9NY0XbVdWUuItD+erx7DaXq+l6lcjaD7gIqlTXRAYJKiNhq2rZPtMU5h90MeBqJPpNFvwdSVaLV01S7xZhM/Up2sd3Izh74Y",
-      "domain": ".7up.com",
-      "path": "/",
-      "expires": 1683199414.228131,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
     },
     {
       "name": "utag_main",
@@ -20069,6 +18399,176 @@
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
+    },
+    {
+      "name": "BIGipServerdfwweb.corp.pep.pvt_dfwsecure",
+      "value": "830609694.33763.0000",
+      "domain": "secure.mypepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_TOKEN",
+      "value": "%24NOT_FOUND",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1683210859,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "okta-oauth-redirect-params",
+      "value": "{%22responseType%22:%22code%22%2C%22state%22:%2241o2KOs8ilFjCpP0dHxXrAb9Gl1vScV4BPPgqDesKNYg9tEdUAb5UpYXvjk4zgGM%22%2C%22nonce%22:%2234lThfjhEEZoX1J113A4Vj9titDKwIfZlxXSRcbUAMjcbdJqfOg74zw79GG37zQU%22%2C%22scopes%22:[%22email%22%2C%22openid%22%2C%22profile%22%2C%22wsp-scope%22%2C%22address%22%2C%22phone%22%2C%22offline_access%22%2C%22pepappwspdashboardroles%22]%2C%22clientId%22:%220oa1n3xpen9l5J2YE0h8%22%2C%22urls%22:{%22issuer%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8%22%2C%22authorizeUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/authorize%22%2C%22userinfoUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/userinfo%22%2C%22tokenUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/token%22%2C%22revokeUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/revoke%22%2C%22logoutUrl%22:%22https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/logout%22}%2C%22ignoreSignature%22:false}",
+      "domain": "websitecontrolcenter.pepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "okta-oauth-nonce",
+      "value": "34lThfjhEEZoX1J113A4Vj9titDKwIfZlxXSRcbUAMjcbdJqfOg74zw79GG37zQU",
+      "domain": "websitecontrolcenter.pepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "okta-oauth-state",
+      "value": "41o2KOs8ilFjCpP0dHxXrAb9Gl1vScV4BPPgqDesKNYg9tEdUAb5UpYXvjk4zgGM",
+      "domain": "websitecontrolcenter.pepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "5DD0258F83A1EB9BA0DF2485143F59AA",
+      "domain": "secure.pepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "appsecure-webapp",
+      "value": "!FHGsYzR4st1ZTz180JqTlkNknYQbZcTrfMdBAFWFg2ZW3Mv+/B63w7lprMXF5qICil0FPmGf0aoKxHQ=",
+      "domain": "secure.mypepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "visid_incap_2832534",
+      "value": "BdW5UkOdSdyKg6WOYBl8lsq1U2QAAAAAQUIPAAAAAAADVHndRA4Qw2h+CUn1mHuK",
+      "domain": ".mypepsico.com",
+      "path": "/",
+      "expires": 1714721541.249766,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "nlbi_2832534",
+      "value": "tk2pMGj+KQkszGAzRR+RtgAAAACMozXHXdgqkxXWGRevJ2hg",
+      "domain": ".mypepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "incap_ses_1620_2832534",
+      "value": "ACPSUfiGtmSpY6XnsmV7Fsy1U2QAAAAAoZL0sPZXuTJGQhDiHmKORg==",
+      "domain": ".mypepsico.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1292577705.1683126364",
+      "domain": ".mueveloconpepsi.com",
+      "path": "/",
+      "expires": 1717767634.51279,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_6N8BJM8118",
+      "value": "GS1.1.1683207634.7.0.1683207640.0.0.0",
+      "domain": ".mueveloconpepsi.com",
+      "path": "/",
+      "expires": 1717767640.602042,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_9JFBQVTB60",
+      "value": "GS1.1.1683207642.7.0.1683207649.0.0.0",
+      "domain": ".promopepsi.com.ar",
+      "path": "/",
+      "expires": 1717767649.103848,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GTM_SessionEngagementTime",
+      "value": "90%7C105992",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1683210757,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_dc_gtm_UA-79192475-2",
+      "value": "1",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1683209389,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.3.1962317769.1683126322",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1717769365.22098,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_LFXQKSQZY1",
+      "value": "GS1.1.1683207259.4.1.1683209366.0.0.0",
+      "domain": ".louren.co.in",
+      "path": "/",
+      "expires": 1717769366.122754,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
     }
   ],
   "origins": [

@@ -1,7 +1,7 @@
 // https://docs.google.com/spreadsheets/d/1KLCGvbwAMn8cl95DmHef1Pj9PUNoqhsCUMbYqqxLF9g/edit#gid=1224947211
 // checa GTM, GA e GAM/GPT
 
-import { chromium, type Request } from 'playwright';
+import { chromium, type Request, type Page } from 'playwright';
 import c from 'ansi-colors';
 import fs from 'fs';
 import { taskQueue } from '@lcrespilho/async-task-queue';
@@ -12,14 +12,20 @@ const TaskQueue = taskQueue(process.env.CONCURRENCY || 20);
 
 let sites: Site[] = [
   {
-    url: 'louren.co.in/redirect302/redirect301/www.example.com',
+    url: 'louren.co.in/redirect302/redirect301/www.example.com', // 30x -> end
     gtms: [],
     ga3Properties: [],
     ga4Properties: [],
+    redirects: [],
     error: '',
     visited: false,
-    redirects: [],
   },
+  { url: 'louren.co.in/redirect302/redirect301/louren.co.in/redirectJS.html' }, // 30x -> JS
+  { url: 'louren.co.in/redirect302/redirect301/louren.co.in/redirectMeta.html' }, // 30x -> Meta
+  { url: 'louren.co.in/redirectJS30x.html' }, // JS -> 30x
+  { url: 'louren.co.in/redirectMeta30x.html' }, // JS -> 30x
+
+  { url: 'websitecontrolcenter.pepsico.com' },
   { url: 'mueveloconpepsi.com' },
   { url: 'promopepsi.com.ar' },
   { url: 'doritos.com.br' },
@@ -547,60 +553,70 @@ let sites: Site[] = [
 ];
 
 // Continua de onde parou.
-if (JSON.stringify(sitesJson) !== '[]') sites = sitesJson as Site[];
+if (process.env.IGNORESITESJSON !== 'true' && JSON.stringify(sitesJson) !== '[]') sites = sitesJson as Site[];
+
+// Se quiser especificar uma lista de sites[n].url (separados por vírgula) para refazer o teste.
+if (process.env.REFAZER) {
+  const refazer = process.env.REFAZER.split(',');
+  refazer.forEach(_url => {
+    const site = sites.find(({ url }) => url === _url);
+    if (site) {
+      site.gtms = [];
+      site.ga3Properties = [];
+      site.ga4Properties = [];
+      site.redirects = [];
+      site.error = '';
+      site.visited = false;
+    }
+  });
+}
 
 (async () => {
   const browser = await chromium.launch({
     headless: process.env.HEADLESS !== 'false',
     devtools: process.env.DEVTOOLS === 'true',
   });
-
   const context = await browser.newContext({
     ignoreHTTPSErrors: true,
     viewport: null,
-    // viewport: {
-    //   width: 1700,
-    //   height: 900,
-    // },
     userAgent:
       'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36',
     storageState: 'state.json',
   });
-
   context.setDefaultTimeout(60000);
 
   await Promise.all(
     sites
       .filter(site => !site.visited)
-      //.slice(0, 100)
+      .slice(0, Number(process.env.SLICE || 100))
       .map(site =>
         TaskQueue.push(async done => {
+          let page: Page | boolean = false;
           try {
             console.log(c.blue(site.url));
-            site.gtms = site.gtms || [];
-            site.ga3Properties = site.ga3Properties || [];
-            site.ga4Properties = site.ga4Properties || [];
+            site.gtms = [];
+            site.ga3Properties = [];
+            site.ga4Properties = [];
+            site.redirects = [];
             site.error = '';
             site.visited = false;
-            site.redirects = site.redirects || [];
-            const page = await context.newPage();
-            await page.waitForTimeout(1000); // tempo para abertura do DevTools
+            page = await context.newPage();
+            if (process.env.DEVTOOLS) await page.waitForTimeout(5000); // tempo para abertura do DevTools
 
             // Captura IDs de GTM e GA.
             page.on('request', async (req: Request) => {
               try {
-                // Só considera requisições feitas pelo top frame.
-                // Precisei criar essa regra porque, em alguns casos, recursos embedados
-                // não relacionadods com a página estavam carregando GA. Preciso excluir
-                // esses casos.
                 const flatUrl = flatRequestUrl(req);
-                const headers = req.headers();
-                const referrerHost = headers.referer ? new URL(headers.referer).host : undefined;
-                const topHost = new URL(page.url()).host;
-                if (referrerHost && topHost !== referrerHost) return; // só considera requisições feitas pelo top frame
+
+                // Só considero requisições feitas pelo top frame.
+                if (req.frame() !== (page as Page).mainFrame()) return;
+
+                if (req.isNavigationRequest() && !new RegExp(`^https?://${site.url}/?$`).test(flatUrl)) {
+                  site.redirects?.push(flatUrl);
+                }
 
                 // Detecção dos GTMs
-                if (/^https?:\/\/(www\.)?googletagmanager\.com\/gtm\.js\?id=GTM-/.test(flatUrl)) {
+                if (/gtm\.js\?id=GTM-/.test(flatUrl) && req.resourceType() === 'script') {
                   const gtm = flatUrl.match(/GTM-\w+/)![0];
                   if (!site.gtms!.includes(gtm)) {
                     site.gtms!.push(gtm);
@@ -608,18 +624,18 @@ if (JSON.stringify(sitesJson) !== '[]') sites = sitesJson as Site[];
                 }
 
                 // Detecção das propriedades de GA3
-                else if (/^https:\/\/(www\.google-analytics|analytics\.google\.com).*collect\?v=1/.test(flatUrl)) {
-                  const tid = new URL(flatUrl).searchParams.get('tid')!;
-                  if (!tid.startsWith('UA-')) return;
+                else if (/google.*collect\?v=1/.test(flatUrl)) {
+                  const tid = new URL(flatUrl).searchParams.get('tid');
+                  if (!tid?.startsWith('UA-')) return;
                   if (!site.ga3Properties!.includes(tid)) {
                     site.ga3Properties!.push(tid);
                   }
                 }
 
                 // Detecção das propriedades de GA4
-                else if (/^https:\/\/(www\.google-analytics|analytics\.google\.com).*collect\?v=2/.test(flatUrl)) {
-                  const tid = new URL(flatUrl).searchParams.get('tid')!;
-                  if (!tid.startsWith('G-')) return;
+                else if (/google.*collect\?v=2/.test(flatUrl)) {
+                  const tid = new URL(flatUrl).searchParams.get('tid');
+                  if (!tid?.startsWith('G-')) return;
                   if (!site.ga4Properties!.includes(tid)) {
                     site.ga4Properties!.push(tid);
                   }
@@ -631,53 +647,48 @@ if (JSON.stringify(sitesJson) !== '[]') sites = sitesJson as Site[];
             });
 
             // NAVEGAÇÃO
-            let request: Request | null;
             try {
               // navegação via https
-              request = (await page.goto(`https://${site.url}`, { waitUntil: 'domcontentloaded' }))?.request()!;
+              await page.goto(`https://${site.url}`, { waitUntil: 'domcontentloaded' });
             } catch (error) {
               // navegação via http
-              request = (await page.goto(`http://${site.url}`, { waitUntil: 'domcontentloaded' }))?.request()!;
+              await page.goto(`http://${site.url}`, { waitUntil: 'domcontentloaded' });
             }
-            // bloco para capturar possíveis redirects
-            {
-              let previousRequest: Request | null = request;
-              site.redirects.push(request.url());
-              while ((previousRequest = previousRequest.redirectedFrom())) {
-                site.redirects.push(previousRequest.url());
-              }
-              site.redirects.pop();
-              site.redirects.reverse();
-            }
-            if (process.env.HEADLESS === 'false') await page.waitForTimeout(30000); // tempo para clicar em banners de cookie, etc
+            await page.waitForTimeout(Number(process.env.WAIT || 0)); // tempo para clicar em banners de cookie, etc
             // Simula interação para forçar o carregamento de GTM/analytics em sites lazy.
             {
               await page.mouse.move(100, 100, { steps: 3 });
               await page.hover('body', { position: { x: 200, y: 150 }, timeout: 4000 }).catch(() => {});
               await page.waitForLoadState('load');
-              await page.evaluate(() => {
-                window.scrollTo({
-                  top: document.body.scrollHeight,
-                  behavior: 'smooth',
-                });
-              });
-              await page.waitForTimeout(5000);
-              await page.evaluate(() => {
-                window.scrollTo({
-                  top: 0,
-                  behavior: 'smooth',
-                });
-              });
+              await page
+                .evaluate(() => {
+                  window.scrollTo({
+                    top: document.body.scrollHeight,
+                    behavior: 'smooth',
+                  });
+                })
+                .catch(() => {});
+              await page.waitForTimeout(5000).catch(() => {});
+              await page
+                .evaluate(() => {
+                  window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth',
+                  });
+                })
+                .catch(() => {});
+              await page.waitForTimeout(1000).catch(() => {});
             }
-            await page.waitForTimeout(1000);
             await page.close();
-            site.visited = true;
           } catch (error) {
             console.log(c.red('Error on navigation:'), (error as Error).message);
+            if (page && !page.isClosed()) await page.close().catch(() => {});
             site.error += 'Erro na navegação: ' + (error as Error).message.replace(/[\n,]/g, '_');
+          } finally {
             site.visited = true;
+            console.log('>> redirects:', site.redirects);
+            done(); // sinaliza que a task terminou
           }
-          done(); // sinaliza que a task terminou
         })
       )
   );

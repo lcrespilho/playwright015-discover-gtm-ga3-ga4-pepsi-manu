@@ -5,17 +5,14 @@ export interface Site {
   gtms?: string[];
   ga3Properties?: string[];
   ga4Properties?: string[];
-  loadTime?: number;
-  lastGaTime?: number;
+  redirects?: string[];
   error?: string;
   visited?: boolean;
-  redirects?: string[];
 }
 
-// Sites que por algum motivo precisam aguardar mais para carregar o GTM
-export interface LazySite {
+type RedirectObj = {
   url: string;
-  wait: number;
+  timestamp: number;
 }
 
 export function flatRequestUrl(req: Request): string {
@@ -27,12 +24,6 @@ export function flatRequestUrl(req: Request): string {
 
 export const flatRequestMatch = (req: Request, regex: RegExp) =>
   !!flatRequestUrl(req).match(regex);
-
-export const lazySites: LazySite[] = [
-  { url: 'agencialume', wait: 10000 },
-  { url: 'correiodoestado', wait: 10000 },
-  { url: 'correionago', wait: 10000 },
-];
 
 export function jsonarray2csv(json: { [key: string]: any }[]) {
   // clona para não alterar o original
