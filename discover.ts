@@ -20,11 +20,6 @@ let sites: Site[] = [
     error: '',
     visited: false,
   },
-  { url: 'louren.co.in/redirect302/redirect301/louren.co.in/redirectJS.html' }, // 30x -> JS
-  { url: 'louren.co.in/redirect302/redirect301/louren.co.in/redirectMeta.html' }, // 30x -> Meta
-  { url: 'louren.co.in/redirectJS30x.html' }, // JS -> 30x
-  { url: 'louren.co.in/redirectMeta30x.html' }, // JS -> 30x
-
   { url: 'websitecontrolcenter.pepsico.com' },
   { url: 'mueveloconpepsi.com' },
   { url: 'promopepsi.com.ar' },
@@ -593,7 +588,7 @@ if (process.env.REFAZER) {
         TaskQueue.push(async done => {
           let page: Page | boolean = false;
           try {
-            console.log(c.blue(site.url));
+            console.log(c.blue(`${site.url} - ${sites.findIndex(({ url }) => url === site.url)}/${sites.length}`));
             site.gtms = [];
             site.ga3Properties = [];
             site.ga4Properties = [];
@@ -611,8 +606,8 @@ if (process.env.REFAZER) {
                 // Só considero requisições feitas pelo top frame.
                 if (req.frame() !== (page as Page).mainFrame()) return;
 
-                if (req.isNavigationRequest() && !new RegExp(`^https?://${site.url}/?$`).test(flatUrl)) {
-                  site.redirects?.push(flatUrl);
+                if (req.isNavigationRequest() && !new RegExp(`^https?://${site.url}/?$`).test(req.url())) {
+                  site.redirects?.push(req.url());
                 }
 
                 // Detecção dos GTMs
@@ -686,7 +681,8 @@ if (process.env.REFAZER) {
             site.error += 'Erro na navegação: ' + (error as Error).message.replace(/[\n,]/g, '_');
           } finally {
             site.visited = true;
-            console.log('>> redirects:', site.redirects);
+            site.redirects = [...new Set(site.redirects)]; // deduplicar
+            console.log(`>> [${site.url}] redirects:`, site.redirects);
             done(); // sinaliza que a task terminou
           }
         })

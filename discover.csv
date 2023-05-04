@@ -1,531 +1,527 @@
-url,gtms,ga3Properties,ga4Properties,error,visited,redirectsJs,redirects30x
-louren.co.in/redirect302/redirect301/www.example.com,,,,,true,,"https://louren.co.in/redirect301/www.example.com,https://www.example.com/"
-louren.co.in/redirect302/redirect301/louren.co.in/redirectJS.html,GTM-WRKNVS,UA-79192475-2,G-LFXQKSQZY1,,true,https://louren.co.in/,"https://louren.co.in/redirect301/louren.co.in/redirectJS.html,https://louren.co.in/redirectJS.html"
-louren.co.in/redirect302/redirect301/louren.co.in/redirectMeta.html,GTM-WRKNVS,UA-79192475-2,G-LFXQKSQZY1,,true,https://louren.co.in/,"https://louren.co.in/redirect301/louren.co.in/redirectMeta.html,https://louren.co.in/redirectMeta.html"
-louren.co.in/redirectJS30x.html,GTM-WRKNVS,UA-79192475-2,G-LFXQKSQZY1,,true,https://louren.co.in/,
-louren.co.in/redirectMeta30x.html,GTM-WRKNVS,UA-79192475-2,G-LFXQKSQZY1,,true,https://louren.co.in/,
-websitecontrolcenter.pepsico.com,,,,,,,
-mueveloconpepsi.com,,,,,,,
-promopepsi.com.ar,,,,,,,
-doritos.com.br,,,,,,,
-gatorade.com.br,,,,,,,
-mabel.com.br,,,,,,,
-campoaopacote.lays.com.br,,,,,,,
-sumalesabor.com,,,,,,,
-tussnacksfavoritos.com,,,,,,,
-fritolaypromotion.com,,,,,,,
-fritolaysnacks.com.pe,,,,,,,
-rankeatedoritos.com,,,,,,,
-clipsy.rs,,,,,,,
-pepsi.at,,,,,,,
-pepsicoicecek.com.tr,,,,,,,
-7up.fr,,,,,,,
-alvalle.fr,,,,,,,
-fruko.com.tr,,,,,,,
-lays.hu,,,,,,,
-lays.it,,,,,,,
-swietujzlaysipepsi.pl,,,,,,,
-pepsi.fr,,,,,,,
-quaker.fr,,,,,,,
-gewinnen-mit-punica.de,,,,,,,
-lipton-probier-mich.de,,,,,,,
-mountaindew.se,,,,,,,
-lays-images.com,,,,,,,
-pepsi.si,,,,,,,
-pepsimax.it,,,,,,,
-simba.co.za,,,,,,,
-cms.dothedewsaudi.com,,,,,,,
-liquifruit.co.za,,,,,,,
-win.redrockdeli.com.au,,,,,,,
-summerpromo.pepsimax.com.au,,,,,,,
-quaker.com.my,,,,,,,
-pepsico.com.pk,,,,,,,
-pepsirecycled.com,,,,,,,
-marmite.co.za,,,,,,,
-moirs.co.za,,,,,,,
-khouseofpepsi.com,,,,,,,
-dothedewsaudi.com,,,,,,,
-pocavietnam.com,,,,,,,
-admin-panel.pocavietnam.com,,,,,,,
-duetdogry.pl,,,,,,,
-ganapremiosconkfcypepsimax.es,,,,,,,
-media.pepsico.com,,,,,,,
-websitecontrolcenter.pepsico.com,,,,,,,
-api.brasil3kmpepsi.com,,,,,,,
-api.3kmpepsi.com,,,,,,,
-rockstarsummer.com,,,,,,,
-smithstasteicons.com.au,,,,,,,
-obela.mx,,,,,,,
-promocionespepsico.com,,,,,,,
-pepsilollacl.com,,,,,,,
-pepsicr.com,,,,,,,
-salvandolochapin.com,,,,,,,
-pepsi.cl,,,,,,,
-gssilatam.org,,,,,,,
-mialmacenero.cl,,,,,,,
-promocionespepsicolatam.com,,,,,,,
-actitudverano.cl,,,,,,,
-eshoradefutbol.com,,,,,,,
-elbotinfritolay.com,,,,,,,
-scratchtogreatness.com,,,,,,,
-theideatory.com,,,,,,,
-pepsicoideatory.com,,,,,,,
-sunbites.mx,,,,,,,
-querovenderpepsico.com.br,,,,,,,
-laysfutbol.com,,,,,,,
-tostitos.com.pe,,,,,,,
-unlockthesmiles.com,,,,,,,
-chesterdrop.com,,,,,,,
-pepsigoldengiveaway.com,,,,,,,
-be.pepsimovietime.gr,,,,,,,
-pepsi.tumblr.com,,,,,,,
-gatoradesportsshop.com,,,,,,,
-freetheessence.com.br,,,,,,,
-doritosticketoffer.com,,,,,,,
-liptonicedteaday.com,,,,,,,
-gatoradefootball.com,,,,,,,
-gatoradeendurance.com,,,,,,,
-fuelyourwaytothechampionship.com,,,,,,,
-gatoradebigten.com,,,,,,,
-sweatearnschampionships.com,,,,,,,
-fueltomorrowcfb.gatorade.com,,,,,,,
-mtndew.live,,,,,,,
-dewventure.com,,,,,,,
-starrywalmart.com,,,,,,,
-pepsi.brandmovers.co,,,,,,,
-gametimewithquaker.com,,,,,,,
-cle.mypepsico.com,,,,,,,
-pepsisportsentry.com,,,,,,,
-innovationhub.mypepsico.com,,,,,,,
-pepsipromos.com,,,,,,,
-pepsipayzero.com,,,,,,,
-drinkbolt24.ca,,,,,,,
-gatoradefuelyourgame.com,,,,,,,
-upgradeyourstrength.com,,,,,,,
-gatorade5v5.com,,,,,,,
-preparatecontodo.com,,,,,,,
-veranomashot.com,,,,,,,
-fritolaypanama.com,,,,,,,
-chokis.com.co,,,,,,,
-passport.pepsidigin.com,,,,,,,
-pepsicojuntoscrecemos.com,,,,,,,
-starrynbasweeps.com,,,,,,,
-tastytoobs.com.au,,,,,,,
-misttwst.com,,,,,,,
-calebskola.com,,,,,,,
-lemonlemonsparkling.com,,,,,,,
-pepsicares.com,,,,,,,
-pepsihalftime.com,,,,,,,
-giesabreak.scottsporage.com,,,,,,,
-kibicujzlays.lays.pl,,,,,,,
-cheetos.be,,,,,,,
-piperscrispsexport.com,,,,,,,
-menu.pepsimax-lays.com,,,,,,,
-pepsimax-lays.com,,,,,,,
-copellafruitjuices.co.uk,,,,,,,
-cruesli.be,,,,,,,
-cruesli.nl,,,,,,,
-konkurscheetos.pl,,,,,,,
-nakedjuice.fr,,,,,,,
-nobbys.co.uk,,,,,,,
-pepsi.se,,,,,,,
-pepsifootball.com.mt,,,,,,,
-tasteusloveus.com,,,,,,,
-tostitos.co.uk,,,,,,,
-tropicanajuice.dk,,,,,,,
-veranopepsimax.com,,,,,,,
-walkers-snacks.co.uk,,,,,,,
-cheetos.nl,,,,,,,
-filmyzlays.lays.pl,,,,,,,
-kibicepepsi.pl,,,,,,,
-konkursurodzinowy.pl,,,,,,,
-navidadpepsimax.com,,,,,,,
-promocjastar.pl,,,,,,,
-punica-images.com,,,,,,,
-scottsporage.com,,,,,,,
-wakacyjnenagrody.pl,,,,,,,
-zabawazcheetos.pl,,,,,,,
-konkurspepsi.pl,,,,,,,
-latozlipton.pl,,,,,,,
-letnialoteria.pepsi.pl,,,,,,,
-letnieduety.pl,,,,,,,
-lipton-images.com,,,,,,,
-pepsi-images.com,,,,,,,
-rockstar-images.com,,,,,,,
-cheerforourhour.com,,,,,,,
-meanwhileinthepepsi-verse.com,,,,,,,
-quaker.com.hk,,,,,,,
-freethebirdnz.com,,,,,,,
-tostitos.co.nz,,,,,,,
-latozlays.pl,,,,,,,
-konkursnawakacje.pl,,,,,,,
-pepsi-max-tastechallenge-app.com,,,,,,,
-pepsifootball.com,,,,,,,
-theblackartrising.com,,,,,,,
-darrnudaraa.mountaindew.in,,,,,,,
-pepsico.lat,,,,,,,
-quaker.cl,,,,,,,
-raices.cl,,,,,,,
-loteriapilkarska.pepsi.pl,,,,,,,
-konkursfilmowy.pepsi.pl,,,,,,,
-layssverige.se,,,,,,,
-cytosport.com,,,,,,,
-monstermilk.com,,,,,,,
-getoutsidewithevolve.com,,,,,,,
-account.pepsico.com,,,,,,,
-greenlabelexclusives.com,,,,,,,
-pepsicomomentstosave.com,,,,,,,
-playultimatematchup.com,,,,,,,
-pepsirocksnow.com,,,,,,,
-dietpepsi.com,,,,,,,
-fbfoodservice.pepsi.com,,,,,,,
-gamedayofficial.com,,,,,,,
-pepsianthems.com,,,,,,,
-hypedforhalftime.com,,,,,,,
-kickstart.mountaindew.com,,,,,,,
-green-label.com,,,,,,,
-pepsichallenge.com,,,,,,,
-sitios.univision.com,,,,,,,
-sobeunderthecap.com,,,,,,,
-projectcobalt.com,,,,,,,
-bemoreteafestival.com,,,,,,,
-doubleshotpromo.com,,,,,,,
-pepsportsrewards.com,,,,,,,
-shop.pepsi.com,,,,,,,
-savorthesunrise.com,,,,,,,
-therecipe.pepsi.com,,,,,,,
-pepsiupforgrabs.com,,,,,,,
-hoistthecup.pepsi.ca,,,,,,,
-oneupyourhydration.com,,,,,,,
-marketingmavenawards.pepsico.com,,,,,,,
-pepsifunsweepstakes.com,,,,,,,
-pepsiandtostitos.com,,,,,,,
-pepsipopupshop.com,,,,,,,
-uncledrew.com,,,,,,,
-dgrewards.com,,,,,,,
-mtndewhoops.com,,,,,,,
-pepsifiresweepstakes.com,,,,,,,
-pepsisummerprizesweeps.com,,,,,,,
-pepsipicksix.com,,,,,,,
-nakedjuice.ca,,,,,,,
-sgquakerchef.com,,,,,,,
-dewanddoritos.ca,,,,,,,
-dalecall.mountaindew.com,,,,,,,
-mtndewapp.com,,,,,,,
-mountaindewtakeitoutside.com,,,,,,,
-mtndewrewards.com,,,,,,,
-dewinstantscore.com,,,,,,,
-dewnationrewards.com,,,,,,,
-closerthancourtside.mountaindew.com,,,,,,,
-dewnited.com,,,,,,,
-mtndewtr.com,,,,,,,
-dewoutdoors.com,,,,,,,
-hyveedewoutdoor.com,,,,,,,
-lifechangingdew.com,,,,,,,
-dewoutdoorguides.com,,,,,,,
-dewoutdoorgrants.com,,,,,,,
-kumandplaymajormelon.com,,,,,,,
-circlekcallofduty.com,,,,,,,
-dewreptheland.com,,,,,,,
-mountaindewflavorslam.com,,,,,,,
-ledodewflavorslam.com,,,,,,,
-treasuresofbajaisland.com,,,,,,,
-greattastezerosugar.ca,,,,,,,
-excellentgoutzerosucre.ca,,,,,,,
-dewxpapajohns.com,,,,,,,
-littlecaesarscallofduty.ca,,,,,,,
-mtndewnba2k23.com,,,,,,,
-readysetsummersweeps.com,,,,,,,
-icipepsi.ca,,,,,,,
-bwwpepsifantasydraft.com,,,,,,,
-pepsiiheartkangaroo.com,,,,,,,
-pepsiiheartquiktrip.com,,,,,,,
-pepsiiheart.com,,,,,,,
-foodliondewshop.com,,,,,,,
-dewsummergrilling.com,,,,,,,
-pepsipatriots.com,,,,,,,
-pepsihalftimetrip.com,,,,,,,
-dewtasteofthemountain.com,,,,,,,
-thedewgeneralstore.com,,,,,,,
-pepsicmafest.com,,,,,,,
-dewmarchsweeps.com,,,,,,,
-pepsimaxhouse.com,,,,,,,
-snacksharesave.com,,,,,,,
-pepsitastechallenge.com,,,,,,,
-pjpizzapepsirocks.com,,,,,,,
-pepsicoafh2015.com,,,,,,,
-drinkaloha.com,,,,,,,
-pepsistrikegold.com,,,,,,,
-squad.mountaindew.com,,,,,,,
-pepsi50tix.com,,,,,,,
-pepsi50ksweeps.com,,,,,,,
-dewchampionships.com,,,,,,,
-pepsidoritoscodes.com,,,,,,,
-pepsisummerfun.com,,,,,,,
-pepsicoculinarystudio.com,,,,,,,
-premierethefun.com,,,,,,,
-mtndewstop.com,,,,,,,
-pepsiwonderlandatdg.com,,,,,,,
-lcpepsisweeps.com,,,,,,,
-pepsiwalmartsweepstakes.com,,,,,,,
-pepsirockthisway.com,,,,,,,
-pepsitunes.com,,,,,,,
-pepsiallstar.com,,,,,,,
-pepsisodexofootballfan.com,,,,,,,
-mtndewski.com,,,,,,,
-pepsitakeittothehouse.com,,,,,,,
-dewthe99.com,,,,,,,
-pureleafsweeps.com,,,,,,,
-sodexobublyss.com,,,,,,,
-pepsiplaylist.com,,,,,,,
-bandsandbiscuits.com,,,,,,,
-mountaindewportal.com,,,,,,,
-halftimeshowsweeps.com,,,,,,,
-bublymatchgame.com,,,,,,,
-pepsifreeze.com,,,,,,,
-madeforfootballwatching.com,,,,,,,
-dolejuice.com,,,,,,,
-flaminhot.com,,,,,,,
-pepsisuperbowl.com,,,,,,,
-pepsirandysdonuts.com,,,,,,,
-izzeguarantee.com,,,,,,,
-stackyourwins.musclemilk.com,,,,,,,
-pepsistuff.ca,,,,,,,
-pepsiroyals50.com,,,,,,,
-summerofpepsi.com,,,,,,,
-gatoradegear.ca,,,,,,,
-pepsisummer.com,,,,,,,
-crunch-bowl.com,,,,,,,
-giftwithpepsi.com,,,,,,,
-dewoutpost.com,,,,,,,
-spotthebuble.com,,,,,,,
-rushintowin.com,,,,,,,
-yearofdew.com,,,,,,,
-pepsisummergram.com,,,,,,,
-unstoppablepride.com,,,,,,,
-doritoslegionofthebold.com,,,,,,,
-pepsiplays.com,,,,,,,
-bublyholidaycheer.com,,,,,,,
-gearupforgameday.com,,,,,,,
-briskzerodrop.com,,,,,,,
-dewstockupsweeps.com,,,,,,,
-bublyholidaysweaters.com,,,,,,,
-pepsihalftimeshow.com,,,,,,,
-fullofdetroitsoul.com,,,,,,,
-rockstarrockon.com,,,,,,,
-drinkfrutly.com,,,,,,,
-neonzebramixers.com,,,,,,,
-moresmileswitheverysip.com,,,,,,,
-rockstarrisegame.com,,,,,,,
-pepsipassport.com,,,,,,,
-pepsiitsanewyorkthing.com,,,,,,,
-propelsweeps.com,,,,,,,
-pepsivista.com,,,,,,,
-madeforbengalswatching.com,,,,,,,
-madeforbillswatching.com,,,,,,,
-madeforcowboyswatching.com,,,,,,,
-madefordolphinswatching.com,,,,,,,
-madeforeagleswatching.com,,,,,,,
-madeforgiantswatching.com,,,,,,,
-madeforjaguarswatching.com,,,,,,,
-madeforjetswatching.com,,,,,,,
-madeforlionswatching.com,,,,,,,
-madeforpatriotswatching.com,,,,,,,
-madeforsteelerswatching.com,,,,,,,
-madeforvikingswatching.com,,,,,,,
-madeforwashingtonfootballwatching.com,,,,,,,
-rockstarenergycountry.com,,,,,,,
-driveforpepsi.com,,,,,,,
-sipnowsavelater.com,,,,,,,
-liveunmuddled.com,,,,,,,
-iam.fullofdetroitsoul.com,,,,,,,
-pepsisodashop.com,,,,,,,
-pepsisipsnacktoss.com,,,,,,,
-challenge.pepsicorecycling.com,,,,,,,
-turnupyourmood.com,,,,,,,
-vamosfootball2022.com,,,,,,,
-liptoninstantwin.com,,,,,,,
-winpepsipopstar.com,,,,,,,
-tropicanacrunch.com,,,,,,,
-bayasweeps.com,,,,,,,
-nitropepsiwalmart.com,,,,,,,
-lifewtr100days.com,,,,,,,
-givebackjamon.com,,,,,,,
-musclemilkliftingproject.com,,,,,,,
-rockstarprizes.ca,,,,,,,
-prixrockstar.ca,,,,,,,
-pepsinyc.com,,,,,,,
-rockstarbelieveit.com,,,,,,,
-biggestpartyinthesouth.com,,,,,,,
-bublywfhawaii.com,,,,,,,
-rockstarenergysportvehicle.com,,,,,,,
-starbucksbayaenergysweeps.com,,,,,,,
-pzsproexperience.com,,,,,,,
-liptonfootballsweeps.com,,,,,,,
-thedewzonesweeps.com,,,,,,,
-samsclubcafe.chipsnsips.com,,,,,,,
-pepsisummergiveaway.com,,,,,,,
-winsummer.ca,,,,,,,
-pepsigamedaypromo.com,,,,,,,
-bayaelectricbikesweeps.com,,,,,,,
-pepsitailgate.com,,,,,,,
-rockstarenergyxbox.ca,,,,,,,
-rockstarenergisantexbox.ca,,,,,,,
-wawaeaglessweeps.com,,,,,,,
-stackyoursleigh.ca,,,,,,,
-remplissezvotretraineau.ca,,,,,,,
-pepsigamedaycookoff.com,,,,,,,
-lucky.com.br,,,,,,,
-toddy.com.br,,,,,,,
-snacks.cl,,,,,,,
-pepsicochangecompass.com,,,,,,,
-pepbridge.pepsicodigital.com,,,,,,,
-events.pepsico.com,,,,,,,
-pepsicouxcoe.com,,,,,,,
-consumer2030pepsislider.com,,,,,,,
-climatesimulator.pepsico.com,,,,,,,
-toddy.cl,,,,,,,
-cheetos.mx,,,,,,,
-chestercheetos.com.mx,,,,,,,
-chestercheetos.mx,,,,,,,
-chewy.mx,,,,,,,
-churrumais.com.mx,,,,,,,
-churrumais.mx,,,,,,,
-crackets.com,,,,,,,
-crackets.mx,,,,,,,
-crujitos.mx,,,,,,,
-fritos.mx,,,,,,,
-habaneras.mx,,,,,,,
-hummus.mx,,,,,,,
-kacang.mx,,,,,,,
-mamutmamut.com,,,,,,,
-mancha-t.mx,,,,,,,
-manchat.com.mx,,,,,,,
-manchat.mx,,,,,,,
-marias.com.mx,,,,,,,
-mariasgamesa.com.mx,,,,,,,
-mariasgamesa.mx,,,,,,,
-milch.com.mx,,,,,,,
-milch.mx,,,,,,,
-obelamex.com.mx,,,,,,,
-obelamexico.com.mx,,,,,,,
-paketaxo.mx,,,,,,,
-papassabritas.mx,,,,,,,
-poffets.mx,,,,,,,
-ruffles.mx,,,,,,,
-sabritas.mx,,,,,,,
-saladitas.mx,,,,,,,
-tostitos.mx,,,,,,,
-churrumais.com,,,,,,,
-crujitos.com,,,,,,,
-emperador.mx,,,,,,,
-emperadorgamesa.com,,,,,,,
-gamesaclasicas.com,,,,,,,
-kkwates.com,,,,,,,
-paketaxo.com,,,,,,,
-papassabritas.com,,,,,,,
-rancheritos.com,,,,,,,
-chestercheetos.com,,,,,,,
-hazloconquaker.com,,,,,,,
-cheetos.cl,,,,,,,
-lays.com.br,,,,,,,
-ruffles.com.br,,,,,,,
-rancheritos.mx,,,,,,,
-doritos.cl,,,,,,,
-retrosnacks.cl,,,,,,,
-lays.cl,,,,,,,
-gatorade.cl,,,,,,,
-chester.cl,,,,,,,
-chispop.cl,,,,,,,
-fritolay.cl,,,,,,,
-nachos.cl,,,,,,,
-ramitas.cl,,,,,,,
-snack.cl,,,,,,,
-gatoraderunning.lat,,,,,,,
-campanhatoptime.com.br,,,,,,,
-stax.cl,,,,,,,
-participedoplanetlove.com,,,,,,,
-briskmode.com,,,,,,,
-poppables.com,,,,,,,
-drinkfinity.co.de,,,,,,,
-gatorade.tumblr.com,,,,,,,
-gatoradehat.com,,,,,,,
-apps.facebook.com,,,,,,,
-culversyellowstone.com,,,,,,,
-culverspuzzleadventure.com,,,,,,,
-culversadventure.com,,,,,,,
-culversholidaysweeps.com,,,,,,,
-dewnitedwalmart.com,,,,,,,
-pepsibaseball.com,,,,,,,
-chooseyourheat.com,,,,,,,
-pepfeed.mypepsico.com,,,,,,,
-cookwithquaker.com,,,,,,,
-rockstarextramilesweeps.com,,,,,,,
-pepsibaseballsweeps.com,,,,,,,
-oatauthority.tumblr.com,,,,,,,
-lays.fr,,,,,,,
-pepsico-pro.fr,,,,,,,
-recettes.quaker.fr,,,,,,,
-pepsico-foodservice.fr,,,,,,,
-quakerarabia.com,,,,,,,
-spekkorice.co.za,,,,,,,
-sasko.co.za,,,,,,,
-flavorsplash.com,,,,,,,
-weareblood.com,,,,,,,
-yachak.com,,,,,,,
-elmachips.com.br,,,,,,,
-pastagrande.co.za,,,,,,,
-winkler-jewelry.com,,,,,,,
-maizoro.com.mx,,,,,,,
-pepsicoschoolsource.com,,,,,,,
-musclemilk.com,,,,,,,
-piperscrisps.com,,,,,,,
-fritolay.com.tr,,,,,,,
-conquista-bares.com,,,,,,,
-gatorade.at,,,,,,,
-pepsiconcorsi.it,,,,,,,
-pidepepsimax.es,,,,,,,
-meconsumerfeedback.com,,,,,,,
-smiths-chips.com.au,,,,,,,
-pepsi.in,,,,,,,
-pioneerfoods.co.za,,,,,,,
-pepsicotaiwan.com,,,,,,,
-brasil3kmpepsi.com,,,,,,,
-waterdispenserstandard.com,,,,,,,
-funyuns.com,,,,,,,
-moresmileswitheverybite.com,,,,,,,
-fritolayemployment.com,,,,,,,
-quaker.co.id,,,,,,,
-popcorners.com.au,,,,,,,
-pepsico.cl,,,,,,,
-fritolayhoops.com,,,,,,,
-wheeloflevy.com,,,,,,,
-drinkfinity.com.br,,,,,,,
-pepsicoteamofchampions.com,,,,,,,
-foundedbyher.org,,,,,,,
-dolelemonade.com,,,,,,,
-popcorners.com,,,,,,,
-pepsico.co.uk,,,,,,,
-chewy.com.mx,,,,,,,
-kkwates.com.mx,,,,,,,
-mamutmamut.com.mx,,,,,,,
-mancha-t.com.mx,,,,,,,
-quaker.mx,,,,,,,
-rockaleta.mx,,,,,,,
-ceresfruitjuice.com,,,,,,,
-gatorade.com.co,,,,,,,
-fundacionsabritas.org.mx,,,,,,,
-portalproveedorespepsico.com,,,,,,,
-participaconpepsico.com,,,,,,,
-pepsiinteractivevending.com,,,,,,,
-drinkfinity.co.uk,,,,,,,
-earnfootballgear.com,,,,,,,
-doritosspiderman.com,,,,,,,
-dummy.com,,,,,,,
-pepsihootersweeps.com,,,,,,,
-toysfortots.org,,,,,,,
-sodastream.com.br,,,,,,,
-drinkstation.com,,,,,,,
-secretsantapromo.com.au,,,,,,,
-packsnackwin.com.au,,,,,,,
-7up.com,,,,,,,
+url,gtms,ga3Properties,ga4Properties,redirects,error,visited
+louren.co.in/redirect302/redirect301/www.example.com,,,,"https://louren.co.in/redirect301/www.example.com, https://www.example.com/",,true
+websitecontrolcenter.pepsico.com,,,,"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/authorize?client_id=0oa1n3xpen9l5J2YE0h8&code_challenge=cUaFp772Tffjqf0nmCInXHOkTAz8aGuMDLgI0ux7850&code_challenge_method=S256&nonce=ctuuyrH87xv1w2CDt7Yyh3YG3XqcJuzEDigxG9sqMRJpTfPLPaFD4dWnn9noGpuh&redirect_uri=https%3A%2F%2Fwebsitecontrolcenter.pepsico.com%2Flogin%2Fcallback&response_type=code&state=WpLTK9Y3PqiLoQSc1LwplJ38KKeEuOW5ItIcQvGB9RjW3uUQonHsARajeH6XvVwn&scope=email%20openid%20profile%20wsp-scope%20address%20phone%20offline_access%20pepappwspdashboardroles, https://secure.pepsico.com/sso/idps/0oa1j91d0vcZaVGvd0h8?stateTokenExternalId=RVFFYUxKWVVYY3E2M0l0bUhlY1BMcEpHWElBTmlrdmQrcE8rUE1kMHFmMnpvaEFGVk9kWmVCZVNzWmNQMGsyeQ, https://secure.mypepsico.com/associatesso/login",,true
+mueveloconpepsi.com,GTM-N68FXMB,UA-113093403-120,G-6N8BJM8118,,,true
+promopepsi.com.ar,,,G-9JFBQVTB60,,,true
+doritos.com.br,GTM-5Q6XT35,UA-157267572-16,G-HPFHKFTD8H,,,true
+gatorade.com.br,,,,,,true
+mabel.com.br,,,,,,true
+campoaopacote.lays.com.br,GTM-WG6Q9CK,UA-157267572-21,G-6LEJVNGDRP,,,true
+sumalesabor.com,,,,,,true
+tussnacksfavoritos.com,GTM-5VHT8DX,,,,,true
+fritolaypromotion.com,,,,,,true
+fritolaysnacks.com.pe,GTM-5VHT8DX,,,,,true
+rankeatedoritos.com,,,,,,true
+clipsy.rs,,,,,,true
+pepsi.at,GTM-MMWBRNN,,,,,true
+pepsicoicecek.com.tr,GTM-MBPD37X,,,,,true
+7up.fr,GTM-WR7X6DH,,,,,true
+alvalle.fr,GTM-THJTD9K,,,,,true
+fruko.com.tr,,,,,Erro na navegação: page.goto: net::ERR_NAME_NOT_RESOLVED at http://fruko.com.tr/_=========================== logs ===========================_navigating to "http://fruko.com.tr/"_ waiting until "domcontentloaded"_============================================================,true
+lays.hu,GTM-5LG3WR7,,,,,true
+lays.it,GTM-NLJ44GX,,,,,true
+swietujzlaysipepsi.pl,,,,,,true
+pepsi.fr,GTM-PDPTVBX,,,,,true
+quaker.fr,GTM-PV7JWGK,,,,,true
+gewinnen-mit-punica.de,,,,,,true
+lipton-probier-mich.de,GTM-NXPHZPM,UA-9613428-53,G-BGKTNL9S3B,,,true
+mountaindew.se,,,,,,true
+lays-images.com,,,,,,true
+pepsi.si,GTM-NLP4TKX,UA-115179195-1,,,,true
+pepsimax.it,GTM-K8K3B7C,,,,,true
+simba.co.za,,UA-156584197-1,,,,true
+cms.dothedewsaudi.com,,,,,,true
+liquifruit.co.za,,UA-12425318-1,G-PC99412GHW,,,true
+win.redrockdeli.com.au,,,,,,true
+summerpromo.pepsimax.com.au,,UA-151511302-4,G-EBL39WGCVG,,,true
+quaker.com.my,,,,,,true
+pepsico.com.pk,,UA-127890596-1,G-D8V186Q20P,,,true
+pepsirecycled.com,,,,,,true
+marmite.co.za,,,,,,true
+moirs.co.za,,UA-28206710-1,G-MHHN0DV1LY,,,true
+khouseofpepsi.com,,,,,,true
+dothedewsaudi.com,GTM-K48VG63,,G-KCV6N35R2C,,,true
+pocavietnam.com,GTM-PVMPQ39,,G-X57G4FH9T2,,,true
+admin-panel.pocavietnam.com,,,,,,true
+duetdogry.pl,,,,,,true
+ganapremiosconkfcypepsimax.es,,,,,,true
+media.pepsico.com,,,,,,true
+websitecontrolcenter.pepsico.com,,,,"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/authorize?client_id=0oa1n3xpen9l5J2YE0h8&code_challenge=Xc5MadDiMcC677T_3MU-hLGnsVx8o7cwGbs5D5NCDSI&code_challenge_method=S256&nonce=1d8DYtS4L1JgUVoNjMn0FPYTWiEcnwZZWTcbEEeSeFA1yOK2h48nBl4OJDsN0Znl&redirect_uri=https%3A%2F%2Fwebsitecontrolcenter.pepsico.com%2Flogin%2Fcallback&response_type=code&state=9flQ74NpV4ogywrLYzCil8OnSCgCKABULXpRQ6EjNRZ4BGAyyI2pHkzPubV27oeQ&scope=email%20openid%20profile%20wsp-scope%20address%20phone%20offline_access%20pepappwspdashboardroles, https://secure.pepsico.com/sso/idps/0oa1j91d0vcZaVGvd0h8?stateTokenExternalId=cVdibXpMOVNZZnJwWjQxYndPazFER1NwNnNMNmdrWVVjUVdDNHZGRFlhd3JMZ2tDRWRRVjkyRlRySmJYa3Zybg, https://secure.mypepsico.com/associatesso/login",,true
+api.brasil3kmpepsi.com,,,,,,true
+api.3kmpepsi.com,,,,,,true
+rockstarsummer.com,,,,,,true
+smithstasteicons.com.au,,UA-209052686-9,G-V353KBL50G,,,true
+obela.mx,,,,,,true
+promocionespepsico.com,,,,,,true
+pepsilollacl.com,,,,,,true
+pepsicr.com,GTM-P9FCVVS,,G-JMK7F3S9DH,,,true
+salvandolochapin.com,,,,,,true
+pepsi.cl,,,,https://pepsi.cl/concurso/,,true
+gssilatam.org,"GTM-5WD7PPL, GTM-M6DPSCF","UA-64637422-7, UA-145358542-3","G-Z1P6ENCMSK, G-F5C933V37B",,,true
+mialmacenero.cl,GTM-TN5Q7TQ,UA-167974108-1,,,,true
+promocionespepsicolatam.com,,,,,,true
+actitudverano.cl,,,,,,true
+eshoradefutbol.com,,,,,,true
+elbotinfritolay.com,,,,,,true
+scratchtogreatness.com,,,,,,true
+theideatory.com,,,,,,true
+pepsicoideatory.com,,,G-LM7NP97NE2,,,true
+sunbites.mx,,,,,,true
+querovenderpepsico.com.br,GTM-WCCS66Q,UA-157267572-24,G-0BXKXL5S8Z,,,true
+laysfutbol.com,,,,,,true
+tostitos.com.pe,GTM-5VHT8DX,,,,,true
+unlockthesmiles.com,,,G-K103YGH4H6,,,true
+chesterdrop.com,,,,,,true
+pepsigoldengiveaway.com,,,G-XECH83H1M0,,,true
+be.pepsimovietime.gr,,,,,,true
+pepsi.tumblr.com,,,,,,true
+gatoradesportsshop.com,GTM-5KZK6S6,"UA-11401921-90, UA-113093403-120",G-PYCL5J64TJ,https://www.gatorade.com/,,true
+freetheessence.com.br,,,,,,true
+doritosticketoffer.com,,,,,,true
+liptonicedteaday.com,,,,,,true
+gatoradefootball.com,GTM-5KZK6S6,"UA-11401921-90, UA-113093403-120",G-PYCL5J64TJ,https://www.gatorade.com/,,true
+gatoradeendurance.com,GTM-5KZK6S6,"UA-11401921-90, UA-113093403-120",G-PYCL5J64TJ,https://www.gatorade.com/,,true
+fuelyourwaytothechampionship.com,GTM-5KZK6S6,"UA-11401921-90, UA-113093403-120",G-PYCL5J64TJ,https://www.gatorade.com/,,true
+gatoradebigten.com,GTM-5KZK6S6,"UA-11401921-90, UA-113093403-120",G-PYCL5J64TJ,https://www.gatorade.com/,,true
+sweatearnschampionships.com,GTM-5KZK6S6,"UA-11401921-90, UA-113093403-120",G-PYCL5J64TJ,https://www.gatorade.com/,,true
+fueltomorrowcfb.gatorade.com,GTM-5KZK6S6,"UA-11401921-90, UA-113093403-120",G-PYCL5J64TJ,https://www.gatorade.com/,,true
+mtndew.live,,,,,,true
+dewventure.com,GTM-KVNTN8D,,G-QYN6N2KNW0,https://www.dewventure.com/,,true
+starrywalmart.com,,,,,,true
+pepsi.brandmovers.co,,,,,,true
+gametimewithquaker.com,,,,"http://gametimewithquaker.com/?t=16a13d8cbeec55ba3c7be6656ecc54c5, http://ww9.gametimewithquaker.com/",,true
+cle.mypepsico.com,,,,"https://secure.pepsico.com/oauth2/aus1ljxpv3z9G8NGl0h8/v1/authorize?client_id=0oa1r0naiyx2Vn3Ot0h8&code_challenge=mk6xU85FH496ODoemch46n-7QGTXXleH5JHi9ZmzzQU&code_challenge_method=S256&nonce=EkofRc2nwGALichjxRspn4zL0B123S2GH3kg11hQebn7iWytdQNRCvHTsvGZPKwR&redirect_uri=https%3A%2F%2Fcle.mypepsico.com%2Fcallback&response_type=code&state=MhCTGFZS6ni3HuKLyrll5qX1D21fkBVg4TQbEECUXrXBqI6wr0qfFyfKrAh6QfZs&scope=openid%20profile%20email, https://secure.pepsico.com/sso/idps/0oa1j91d0vcZaVGvd0h8?stateTokenExternalId=dFlVbXFGTU00SkNRakF1MUtGZUsrNVNqak1aK0NFakxXNHNxeTNlVFo3TC9RWDNoWEFiWlRyVXV1Q3Y5ajRyWA, https://secure.mypepsico.com/associatesso/login",,true
+pepsisportsentry.com,GTM-P6D8QFZ,UA-113093403-120,,"https://pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+innovationhub.mypepsico.com,,,,,,true
+pepsipromos.com,GTM-TT9KWH3,"UA-8429874-45, UA-205502479-1",G-Q96NK6RW68,,,true
+pepsipayzero.com,,,,,,true
+drinkbolt24.ca,,,,https://www.gatorade.com/,,true
+gatoradefuelyourgame.com,,,,https://www.gatorade.com/,,true
+upgradeyourstrength.com,,,,,,true
+gatorade5v5.com,GTM-TWMWWJ8,,G-W0RTKHPYXR,,,true
+preparatecontodo.com,,,,,,true
+veranomashot.com,,,,,,true
+fritolaypanama.com,,,,,,true
+chokis.com.co,,,,,,true
+passport.pepsidigin.com,,,G-5CGQ2CCB96,,,true
+pepsicojuntoscrecemos.com,,,,,,true
+starrynbasweeps.com,GTM-WM8HC6N,,,,,true
+tastytoobs.com.au,GTM-P8MCPFQ,UA-198726561-2,,https://www.tastytoobs.com.au/,,true
+misttwst.com,GTM-WM8HC6N,,G-KT0G89RGNS,https://www.starrylemonlime.com/,,true
+calebskola.com,GTM-535Z82V,UA-21916759-1,,"https://www.pepsico.com/brands/product-information, https://www.pepsico.com/our-brands/creating-smiles/our-products",,true
+lemonlemonsparkling.com,GTM-5JPRMJK,UA-193025036-65,G-B3PEYSW96Y,"https://www.pepsicobeveragefacts.com/, https://www.pepsicoproductfacts.com/",,true
+pepsicares.com,GTM-5VMFMHK,"UA-113093403-58, UA-113093403-120",G-13BK587HRT,"http://www.pepsiborninthecarolinas.com/, https://www.pepsiborninthecarolinas.com/",,true
+pepsihalftime.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+giesabreak.scottsporage.com,,,,https://www.giesabreak.scottsporage.com/,,true
+kibicujzlays.lays.pl,GTM-WQ7JDZV,,,https://www.kibicujzlays.lays.pl/,,true
+cheetos.be,GTM-PCDPDFD,,,"https://lays.be/Cheetos, https://www.lays.be/Cheetos, https://www.lays.be/nl/cheetos",,true
+piperscrispsexport.com,GTM-W4C8CQ7,,,"https://www.piperscrisps.com/, https://www.piperscrisps.com/en",,true
+menu.pepsimax-lays.com,GTM-NLJ44GX,,,https://lays.it/,,true
+pepsimax-lays.com,GTM-NLJ44GX,,,https://lays.it/,,true
+copellafruitjuices.co.uk,GTM-WHRT48N,UA-9613428-14,,https://copellafruitjuice.co.uk/,,true
+cruesli.be,GTM-N2CQ7LG,,,"https://www.quakeroats.be/producten/cruesli/quaker-cruesli-frambalicious?language=be-nl&admin_domain_redirect=1, https://www.quakeroats.be/producten/cruesli/quaker-cruesli-frambalicious?language=be-nl, https://www.quakeroats.be/producten/cruesli/quaker-cruesli-frambalicious",,true
+cruesli.nl,GTM-WM2NDDN,,,https://www.quaker.nl/,,true
+konkurscheetos.pl,GTM-M63GLSC,,,"https://konkurs.cheetos.pl/, https://www.cheetos.pl/",,true
+nakedjuice.fr,GTM-5J47F65,,,"https://nakedjuice.co.uk/, https://nakedjuice.co.uk/home",,true
+nobbys.co.uk,GTM-P74F4C,"UA-131300483-1, UA-113093403-120",G-NNHNDERDX5,https://contact.pepsico.com/walkers,,true
+pepsi.se,GTM-KNSCN3S,,,https://www.pepsimax.se/,,true
+pepsifootball.com.mt,,,,"https://facebook.com/PepsiMalta, https://www.facebook.com/PepsiMalta",,true
+tasteusloveus.com,GTM-TLMXWDN,,,"https://walkers.co.uk/, https://www.walkers.co.uk/",,true
+tostitos.co.uk,,UA-113093403-120,,"https://tostitos.com/, https://www.tostitos.com/",,true
+tropicanajuice.dk,,,,"https://tropicana.com/, https://www.tropicana.com/",,true
+veranopepsimax.com,GTM-W3GKF2F,,,"https://pepsimax.es/, https://www.pepsi.es/",,true
+walkers-snacks.co.uk,GTM-TLMXWDN,,,https://www.walkers.co.uk/,,true
+cheetos.nl,GTM-KVSQ3JX,,,"https://lays.nl/Cheetos, https://www.lays.nl/Cheetos, https://www.lays.nl/nl/cheetos",,true
+filmyzlays.lays.pl,GTM-PTXSD6P,,,https://www.filmyzlays.lays.pl/,,true
+kibicepepsi.pl,GTM-WTB382F,,,"https://pepsi.pl/, https://www.pepsi.pl/",,true
+konkursurodzinowy.pl,GTM-5TFPQQQ,,,https://www.konkursurodzinowy.pl/,,true
+navidadpepsimax.com,GTM-W3GKF2F,,,"https://pepsimax.es/, https://www.pepsi.es/",,true
+promocjastar.pl,GTM-PJPGZ5S,,,https://www.promocjastar.pl/,,true
+punica-images.com,,,,https://punica.de/,,true
+scottsporage.com,,,,https://contact.pepsico.com/scottsporageuk,,true
+wakacyjnenagrody.pl,GTM-5W79ZMM,,,https://www.lays.pl/,,true
+zabawazcheetos.pl,GTM-M63GLSC,,,"https://cheetos.pl/, https://www.cheetos.pl/",,true
+konkurspepsi.pl,GTM-WTB382F,,,https://www.pepsi.pl/,,true
+latozlipton.pl,GTM-WTB382F,,,https://www.pepsi.pl/pozostale-smaki/lipton-ice-tea/,,true
+letnialoteria.pepsi.pl,GTM-NJG9RKL,,,https://www.letnialoteria.pepsi.pl/,,true
+letnieduety.pl,GTM-WTB382F,,,https://www.pepsi.pl/pozostale-smaki/lipton-ice-tea/,,true
+lipton-images.com,,,,https://www.lipton-images.com/,,true
+pepsi-images.com,,,,https://www.pepsi-images.com/,,true
+rockstar-images.com,,,,https://www.rockstar-images.com/,,true
+cheerforourhour.com,,,,https://www.cheerforourhour.com/,,true
+meanwhileinthepepsi-verse.com,GTM-5HVG8WF,UA-151511302-3,"G-0Y8ZHG2KQY, G-2FYSEC8MP9",https://www.meanwhileinthepepsi-verse.pepsimax.com.au/,,true
+quaker.com.hk,,UA-126502955-1,G-WJNLBJKJSG,https://www.quaker.com.hk/,,true
+freethebirdnz.com,,,,https://www.freethebirdnz.com/,,true
+tostitos.co.nz,,,,https://www.tostitos.co.nz/,,true
+latozlays.pl,GTM-5W79ZMM,,,https://www.lays.pl/,,true
+konkursnawakacje.pl,GTM-WTB382F,,,https://www.pepsi.pl/pozostale-smaki/lipton-ice-tea/,,true
+pepsi-max-tastechallenge-app.com,,,,"https://www.pepsi-max-tastechallenge-app.com/, https://www.pepsi-max-tastechallenge-app.com/app, http://www.pepsi-max-tastechallenge-app.com/app/, https://www.pepsi-max-tastechallenge-app.com/app/",,true
+pepsifootball.com,,,,https://www.pepsifootball.com/,,true
+theblackartrising.com,GTM-NZZNCQ,,,"https://lifewtr.com/, https://lifewtr.com/en-us/home",,true
+darrnudaraa.mountaindew.in,,,,https://www.youtube.com/watch?v=xwoSWJ52FHc,,true
+pepsico.lat,,,,"https://pepsico.com/, https://www.pepsico.com/",,true
+quaker.cl,GTM-WVD7HQC,"UA-130574213-3, UA-54378716-50",,https://quaker.lat/cl/,,true
+raices.cl,,UA-227509156-1,,https://www.gruporaices.cl/,,true
+loteriapilkarska.pepsi.pl,GTM-NJG9RKL,,,https://www.loteriapilkarska.pepsi.pl/,,true
+konkursfilmowy.pepsi.pl,,,,https://www.konkursfilmowy.pepsi.pl/,,true
+layssverige.se,GTM-W4M66HZ,,,https://www.layssverige.se/,,true
+cytosport.com,,,,https://www.musclemilk.com/,,true
+monstermilk.com,,,,https://www.musclemilk.com/,,true
+getoutsidewithevolve.com,,,,https://www.drinkevolve.com/,,true
+account.pepsico.com,,,,"https://p.pepsico.com/profile, https://p.pepsico.com/error",,true
+greenlabelexclusives.com,GTM-M85GXQ,UA-30251-5,,"http://greenlabel.com/, https://www.complex.com/",Erro na navegação: page.waitForLoadState: Timeout 60000ms exceeded.,true
+pepsicomomentstosave.com,,,,"https://www.pepsico.com/Brands/BrandExplorer, https://www.pepsico.com/brands/product-information",,true
+playultimatematchup.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+pepsirocksnow.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+dietpepsi.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+fbfoodservice.pepsi.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+gamedayofficial.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+pepsianthems.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+hypedforhalftime.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+kickstart.mountaindew.com,,,,"https://www.mountaindew.com/kickstart, https://www.mountaindew.com/mtn-dew-kickstart/",,true
+green-label.com,GTM-M85GXQ,UA-30251-5,,"http://greenlabel.com/, https://www.complex.com/",,true
+pepsichallenge.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+sitios.univision.com,GTM-TDVV9BR,UA-81851967-1,G-36LKB3355L,https://www.univision.com/,Erro na navegação: page.waitForLoadState: Timeout 60000ms exceeded.,true
+sobeunderthecap.com,GTM-TTHZNN,"UA-11401921-73, UA-113093403-120",,https://www.sobe.com/,,true
+projectcobalt.com,GTM-SXRF,"UA-76325549-1, UA-115508484-1",G-3K6H374GJN,https://dan.com/buy-domain/projectcobalt.com?redirected=true,,true
+bemoreteafestival.com,GTM-WCBFC6T,,"G-5K6RSKWVS3, G-ZM033BT7WB","https://www.lipton.com/, http://www.lipton.com/us/en/home.html, https://www.lipton.com/us/en/home.html, https://www.lipton.com/us/en/",,true
+doubleshotpromo.com,GTM-NXP5CQ,UA-82424379-1,G-VMTHZW7WSM,"http://doubleshot.com/, https://www.starbucks.com/menu/catalog/product?drink=bottled-drinks, https://www.starbucks.com/menu",,true
+pepsportsrewards.com,,,,"http://www.pepsination.com/, https://www.pepsination.com/",,true
+shop.pepsi.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+savorthesunrise.com,GTM-P8LK38,"UA-28148907-2, UA-113093403-120",,https://www.quakeroats.com/,,true
+therecipe.pepsi.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+pepsiupforgrabs.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+hoistthecup.pepsi.ca,GTM-5H6VXG,"UA-71914446-22, UA-11401921-167, UA-113093403-120",,"https://pepsi.ca/, https://www.pepsi.ca/",,true
+oneupyourhydration.com,,,,"http://www.onecoconutwater.com/, https://contact.pepsico.com/pepsico",,true
+marketingmavenawards.pepsico.com,,,,https://www.pepsico.com/,,true
+pepsifunsweepstakes.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+pepsiandtostitos.com,,,,"https://www.fritolay.com/snacks/product-page/tostitos/, https://www.tostitos.com/products/",,true
+pepsipopupshop.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+uncledrew.com,,,,https://www.youtube.com/watch?v=RxpwKdAv1m4&list=PLXEP0qousrR0GkuQ3zl-X7n5DGMPzSti_,,true
+dgrewards.com,,,,https://www.dollargeneral.com/,Erro na navegação: page.waitForLoadState: Timeout 60000ms exceeded.,true
+mtndewhoops.com,,,,https://www.mountaindew.com/,,true
+pepsifiresweepstakes.com,,UA-83026288-1,G-EGLXEMCY8H,https://4dno.co/en/keputusan-lotto,,true
+pepsisummerprizesweeps.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+pepsipicksix.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+nakedjuice.ca,GTM-KNC3DF3,UA-71914446-24,,"https://nakedsmoothie.ca/, https://www.nakedsmoothie.ca/",,true
+sgquakerchef.com,GTM-PQS25N5,,"G-R6RYQRM052, G-QBC5M2P788","https://quaker.sg/, https://www.quaker.sg/",,true
+dewanddoritos.ca,GTM-TW8ZBJH,"UA-113093403-103, UA-83095704-2, UA-83095704-1","G-ZZZTFSTTP8, G-4Q86RHSJVF",https://www.tastyrewards.com/en-ca/brands/doritos,,true
+dalecall.mountaindew.com,,,,https://www.mountaindew.com/,,true
+mtndewapp.com,,,,https://www.mountaindew.com/,,true
+mountaindewtakeitoutside.com,,,,https://www.mountaindew.com/,,true
+mtndewrewards.com,,,,https://www.mountaindew.com/,,true
+dewinstantscore.com,,,,https://www.mountaindew.com/,,true
+dewnationrewards.com,,,,https://www.mountaindew.com/,,true
+closerthancourtside.mountaindew.com,,,,https://www.mountaindew.com/,,true
+dewnited.com,,,,https://www.mountaindew.com/,,true
+mtndewtr.com,,,,https://www.mountaindew.com/,,true
+dewoutdoors.com,,,,https://www.mountaindew.com/,,true
+hyveedewoutdoor.com,,,,https://www.mountaindew.com/,,true
+lifechangingdew.com,,,,https://www.mountaindew.com/,,true
+dewoutdoorguides.com,,,,https://www.mountaindew.com/,,true
+dewoutdoorgrants.com,,,,https://www.mountaindew.com/,,true
+kumandplaymajormelon.com,,,,https://www.mountaindew.com/,,true
+circlekcallofduty.com,,,,https://www.mountaindew.com/,,true
+dewreptheland.com,,,,https://www.mountaindew.com/,,true
+mountaindewflavorslam.com,,,,https://www.mountaindew.com/,,true
+ledodewflavorslam.com,,,,https://www.mountaindew.com/,,true
+treasuresofbajaisland.com,,,,https://www.mountaindew.com/,,true
+greattastezerosugar.ca,,,,"https://mountaindew.ca/, https://www.facebook.com/MountainDewCanada/",,true
+excellentgoutzerosucre.ca,,,,"https://mountaindew.ca/, https://www.facebook.com/MountainDewCanada/",,true
+dewxpapajohns.com,,,,https://www.mountaindew.com/,,true
+littlecaesarscallofduty.ca,,,,https://www.facebook.com/MountainDewCanada/,,true
+mtndewnba2k23.com,,,,https://www.mountaindew.com/,,true
+readysetsummersweeps.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+icipepsi.ca,,,,"https://www.facebook.com/pepsicanada, https://www.facebook.com/PepsiCanada/",,true
+bwwpepsifantasydraft.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+pepsiiheartkangaroo.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+pepsiiheartquiktrip.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+pepsiiheart.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+foodliondewshop.com,,,,"http://dewnationrewards.com/foodlion, https://www.mountaindew.com/",,true
+dewsummergrilling.com,,,,https://www.mountaindew.com/,,true
+pepsipatriots.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+pepsihalftimetrip.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+dewtasteofthemountain.com,,,,https://www.mountaindew.com/,,true
+thedewgeneralstore.com,,,,https://www.mountaindew.com/,,true
+pepsicmafest.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+dewmarchsweeps.com,,,,https://www.mountaindew.com/,,true
+pepsimaxhouse.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+snacksharesave.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+pepsitastechallenge.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil",,true
+pjpizzapepsirocks.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsicoafh2015.com,,,,"http://www.pepsicoafh2016.com/, https://www.pepsico.com/",,true
+drinkaloha.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsistrikegold.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+squad.mountaindew.com,,,,https://www.mountaindew.com/,,true
+pepsi50tix.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsi50ksweeps.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+dewchampionships.com,,,,https://www.mountaindew.com/,,true
+pepsidoritoscodes.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsisummerfun.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsicoculinarystudio.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+premierethefun.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+mtndewstop.com,,,,https://www.mountaindew.com/,,true
+pepsiwonderlandatdg.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+lcpepsisweeps.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsiwalmartsweepstakes.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsirockthisway.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsitunes.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsiallstar.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsisodexofootballfan.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+mtndewski.com,,,,https://www.mountaindew.com/,,true
+pepsitakeittothehouse.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+dewthe99.com,,,,https://www.mountaindew.com/,,true
+pureleafsweeps.com,,,,"http://www.pureleaf.com/, https://www.pureleaf.com/",,true
+sodexobublyss.com,GTM-NFLTGTC,"UA-113093403-5, UA-113093403-120",,https://www.bubly.com/,,true
+pepsiplaylist.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+bandsandbiscuits.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+mountaindewportal.com,,,,https://www.mountaindew.com/,,true
+halftimeshowsweeps.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+bublymatchgame.com,GTM-NFLTGTC,"UA-113093403-5, UA-113093403-120",,https://www.bubly.com/,,true
+pepsifreeze.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforfootballwatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+dolejuice.com,,,,https://www.dolejuice.com/,,true
+flaminhot.com,GTM-NC9CKMR,"UA-11401921-207, UA-113093403-120",G-CWK2N4HDVC,"https://www.flaminhot.com/, https://www.cheetos.com/",,true
+pepsisuperbowl.com,GTM-5H6VXG,"UA-71914446-22, UA-11401921-167, UA-113093403-120",,https://www.pepsi.ca/,,true
+pepsirandysdonuts.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+izzeguarantee.com,GTM-TTSHXD,"UA-11401921-146, UA-113093403-120",,https://www.izze.com/,,true
+stackyourwins.musclemilk.com,,,,https://www.musclemilk.com/,,true
+pepsistuff.ca,GTM-5H6VXG,"UA-71914446-22, UA-11401921-167, UA-113093403-120",,https://www.pepsi.ca/,,true
+pepsiroyals50.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+summerofpepsi.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+gatoradegear.ca,,,,"https://www.gatorade.ca/, https://gatorade.ca/",,true
+pepsisummer.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+crunch-bowl.com,,UA-11401921-190,,https://www.capncrunch.com/,,true
+giftwithpepsi.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+dewoutpost.com,,,,https://www.mountaindew.com/,,true
+spotthebuble.com,,,,https://www.bubly.com/,,true
+rushintowin.com,,,,"http://rules.gselive.com/pepsi-rushtowin.html, https://rules.gselive.com/pepsi-rushtowin.html",,true
+yearofdew.com,,,,https://www.mountaindew.com/,,true
+pepsisummergram.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+unstoppablepride.com,,,,https://www.bubly.com/,,true
+doritoslegionofthebold.com,GTM-MLK26HH,,G-JN7RH9BQVK,https://legionofcreators.com/,,true
+pepsiplays.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+bublyholidaycheer.com,,,,https://www.bubly.com/,,true
+gearupforgameday.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+briskzerodrop.com,GTM-PP39C9,"UA-11401921-41, UA-113093403-120",,https://www.drinkbrisk.com/,,true
+dewstockupsweeps.com,,,,https://www.mountaindew.com/,,true
+bublyholidaysweaters.com,,,,https://www.bubly.com/,,true
+pepsihalftimeshow.com,,,,"http://www.pepsihalftime.com/, https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+fullofdetroitsoul.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+rockstarrockon.com,GTM-WFFQNGH,"UA-4417490-1, UA-130300754-36",G-G161R0BY65,"https://rockstarenergy.com/, https://www.rockstarenergy.com/",,true
+drinkfrutly.com,,,,https://www.pepsico.com/brands/product-information,,true
+neonzebramixers.com,,,,https://www.pepsico.com/our-brands/creating-smiles/our-products,,true
+moresmileswitheverysip.com,,,,"https://www.moresmileswitheverysip.com/, https://www.pepsico.com/",,true
+rockstarrisegame.com,GTM-WFFQNGH,"UA-4417490-1, UA-130300754-36",G-G161R0BY65,"https://rockstarenergy.com/, https://www.rockstarenergy.com/",,true
+pepsipassport.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsiitsanewyorkthing.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+propelsweeps.com,,,,https://www.propelwater.com/,,true
+pepsivista.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforbengalswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforbillswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforcowboyswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madefordolphinswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforeagleswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforgiantswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforjaguarswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforjetswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforlionswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforpatriotswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforsteelerswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforvikingswatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+madeforwashingtonfootballwatching.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+rockstarenergycountry.com,GTM-WFFQNGH,"UA-4417490-1, UA-130300754-36",G-G161R0BY65,"https://rockstarenergy.com/, https://www.rockstarenergy.com/",,true
+driveforpepsi.com,GTM-P25J24S,"UA-234359018-1, UA-46451933-1",G-JKW53LH13Z,"https://www.pepsicojobs.com/, https://www.pepsicojobs.com/main/",,true
+sipnowsavelater.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+liveunmuddled.com,,,,https://www.pepsico.com/brands/product-information,,true
+iam.fullofdetroitsoul.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsisodashop.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsisipsnacktoss.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+challenge.pepsicorecycling.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+turnupyourmood.com,GTM-WFFQNGH,"UA-4417490-1, UA-130300754-36",G-G161R0BY65,"https://rockstarenergy.com/, https://www.rockstarenergy.com/",,true
+vamosfootball2022.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+liptoninstantwin.com,GTM-WCBFC6T,,"G-5K6RSKWVS3, G-ZM033BT7WB","https://www.lipton.com/, http://www.lipton.com/us/en/home.html, https://www.lipton.com/us/en/home.html, https://www.lipton.com/us/en/",,true
+winpepsipopstar.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+tropicanacrunch.com,,,,https://www.tropicana.com/,,true
+bayasweeps.com,GTM-P37KWTP,UA-82424379-1,G-VMTHZW7WSM,https://www.starbucks.com/,,true
+nitropepsiwalmart.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+lifewtr100days.com,GTM-NZZNCQ,,,"https://lifewtr.com/, https://lifewtr.com/en-us/home",,true
+givebackjamon.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+musclemilkliftingproject.com,,,,https://www.musclemilk.com/,,true
+rockstarprizes.ca,GTM-WFFQNGH,"UA-4417490-1, UA-130300754-36",G-G161R0BY65,"https://rockstarenergy.com/, https://www.rockstarenergy.com/",,true
+prixrockstar.ca,GTM-WFFQNGH,"UA-4417490-1, UA-130300754-36",G-G161R0BY65,"https://rockstarenergy.com/, https://www.rockstarenergy.com/",,true
+pepsinyc.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+rockstarbelieveit.com,GTM-WFFQNGH,"UA-4417490-1, UA-130300754-36",G-G161R0BY65,"https://rockstarenergy.com/, https://www.rockstarenergy.com/",,true
+biggestpartyinthesouth.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+bublywfhawaii.com,,,,https://www.bubly.com/,,true
+rockstarenergysportvehicle.com,GTM-WFFQNGH,"UA-4417490-1, UA-130300754-36",G-G161R0BY65,"https://rockstarenergy.com/, https://www.rockstarenergy.com/",,true
+starbucksbayaenergysweeps.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pzsproexperience.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+liptonfootballsweeps.com,GTM-WCBFC6T,,"G-ZM033BT7WB, G-5K6RSKWVS3","https://www.lipton.com/, http://www.lipton.com/us/en/home.html, https://www.lipton.com/us/en/home.html, https://www.lipton.com/us/en/",,true
+thedewzonesweeps.com,,,,https://www.mountaindew.com/,,true
+samsclubcafe.chipsnsips.com,"GTM-MT43RWC, GTM-K8XFM6B",,,"https://www.samsclub.com/cafe, https://www.samsclub.com/content/cafe-menu?xid=vanity:cafe",,true
+pepsisummergiveaway.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+winsummer.ca,GTM-5H6VXG,"UA-71914446-22, UA-11401921-167, UA-113093403-120",,https://www.pepsi.ca/,,true
+pepsigamedaypromo.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+bayaelectricbikesweeps.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+pepsitailgate.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+rockstarenergyxbox.ca,GTM-5H6VXG,"UA-71914446-22, UA-11401921-167, UA-113093403-120",,https://www.pepsi.ca/,,true
+rockstarenergisantexbox.ca,GTM-5H6VXG,"UA-71914446-22, UA-11401921-167, UA-113093403-120",,https://www.pepsi.ca/fr,,true
+wawaeaglessweeps.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+stackyoursleigh.ca,GTM-5H6VXG,"UA-71914446-22, UA-11401921-167, UA-113093403-120",,https://www.pepsi.ca/,,true
+remplissezvotretraineau.ca,GTM-5H6VXG,"UA-71914446-22, UA-11401921-167, UA-113093403-120",,https://www.pepsi.ca/fr,,true
+pepsigamedaycookoff.com,,,,"https://www.pepsi.com/, https://www.facebook.com/PepsiBrasil, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FPepsiBrasil",,true
+lucky.com.br,,,,https://www.pepsico.com.br/pt-br/nossas-marcas/nossas-marcas,,true
+toddy.com.br,,,,https://www.youtube.com/user/youtoddytube/,,true
+snacks.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+pepsicochangecompass.com,,,,"https://auth.wspprod.com/auth/realms/PepsiCo/protocol/openid-connect/auth?client_id=pepsico-internal&redirect_uri=https%3A%2F%2Fpepsicochangecompass.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid&state=BnRCZ19XNuTAvnx57%2BVmOd0EYDHnERMvidziSbYJFQg6970DX6xZ%2F9M%2Fz7ExL2xxIHVGbTr%2F08UZN8o7J0XPxHAmgh0YQidG7hlGIJMIZLYRPSLXyy5b7gHQpSkxMj%2Bh3ce7tlevrbVjG1%2Fa6JlAaWSJygXRhIznyRBppoQcQZExBdYk6gTh9UMuOadhmmPmHSUxmf5F4epJqE7B8X4zvRqRIgbr3HFBlizfcX%2FuOc%2BwVTQyjLo%3D, https://auth.wspprod.com/auth/realms/PepsiCo/broker/pepsico-okta-ite/login?session_code=PPsjJ-2ST2G1ghv3-BqlTqbqS8Iad_N6PihGvAIel-Q&client_id=pepsico-internal&tab_id=-QsrdJ3aCjU, https://secure.pepsico.com/app/mypepsico_websolutionsplatformprodi_1/exk1nmjr86aQgD8By0h8/sso/saml?SAMLRequest=lVJNj9MwEP0rke%2BpnfSDrNVU6jZCVFpQ6RYOXConmWxN4w88Dt3%2Be5ykiOVSwW08fjPvzZtZolCt5evOn%2FQefnSAPnpVrUY%2BfOSkc5obgRK5FgqQ%2B4o%2Frz8%2B8XTCuHXGm8q0ZCy5DxaI4Lw0mkTr3%2BHGaOwUuGdwP2UFX%2FZPOTl5b5FTKoKkyQVtIKknlVFDgjoQrUK6A4tyY2jpzBkctf2zMrE5exFLDxR0bY3UnkRFmEhq0bP96Y1QdQ4mt7Kxu7VUXW%2BZ4wVKNG3XV6FthW%2BMU70QeUwovJ4Trb67bCE%2BvxTZ45WdMopoaO8Yid4bV8HgZ04a0SKQaFvkZFscyzp9qBc1ix%2FSNItn8zJE2XQel0k2q8sGmoRlAYzYwVajF9rnJGXpNGbzmM0OyZyzBZ%2BySfqOfSPR7mb%2Bo9S11C%2F3zS9HEPIPh8Mu3kMtHVTBna%2FgcHAmgMhq2U%2FABwHuzRX8615X%2F7O6JX1DNjJb%2Fil03xY708rqGq3b1lw2ocpDTrzrYPBWCX9fT5%2BRddwMUG77AdFDOAW6Gjn%2FvvbVLw%3D%3D&RelayState=aaiCWPQGs8wW7KyBTZdeevJ5n_K3o0LyTPBd_gi1fLY.-QsrdJ3aCjU.pepsico-internal, https://secure.mypepsico.com/associatesso/login?RelayState=%252Fapp%252Fmypepsico_websolutionsplatformprodi_1%252Fexk1nmjr86aQgD8By0h8%252Fsso%252Fsaml%253FSAMLRequest%253DlVJNj9MwEP0rke%25252BpnfSDrNVU6jZCVFpQ6RYOXConmWxN4w88Dt3%25252Be5ykiOVSwW08fjPvzZtZolCt5evOn%25252FQefnSAPnpVrUY%25252BfOSkc5obgRK5FgqQ%25252B4o%25252Frz8%25252B8XTCuHXGm8q0ZCy5DxaI4Lw0mkTr3%25252BHGaOwUuGdwP2UFX%25252FZPOTl5b5FTKoKkyQVtIKknlVFDgjoQrUK6A4tyY2jpzBkctf2zMrE5exFLDxR0bY3UnkRFmEhq0bP96Y1QdQ4mt7Kxu7VUXW%25252BZ4wVKNG3XV6FthW%25252BMU70QeUwovJ4Trb67bCE%25252BvxTZ45WdMopoaO8Yid4bV8HgZ04a0SKQaFvkZFscyzp9qBc1ix%25252FSNItn8zJE2XQel0k2q8sGmoRlAYzYwVajF9rnJGXpNGbzmM0OyZyzBZ%25252BySfqOfSPR7mb%25252Bo9S11C%25252F3zS9HEPIPh8Mu3kMtHVTBna%25252FgcHAmgMhq2U%25252FABwHuzRX8615X%25252F7O6JX1DNjJb%25252Fil03xY708rqGq3b1lw2ocpDTrzrYPBWCX9fT5%25252BRddwMUG77AdFDOAW6Gjn%25252FvvbVLw%25253D%25253D%2526RelayState%253DaaiCWPQGs8wW7KyBTZdeevJ5n_K3o0LyTPBd_gi1fLY.-QsrdJ3aCjU.pepsico-internal",,true
+pepbridge.pepsicodigital.com,,,,https://pepbridge.pepsicodigital.com/login.aspx,,true
+events.pepsico.com,,,,"https://mypepsico.okta.com/oauth2/default/v1/authorize?client_id=0oa1or8fedss1uO640h8&redirect_uri=https%3A%2F%2Fevents.pepsico.com&response_type=code&scope=openid%20profile%20email&state=OpenIdConnect.AuthenticationProperties%3DK3LDnUKVCIQMIIovzPcYN2_HRMcGtApH9RInR6McA0x6wHPMpF_gR38xjvQ9puQXOimiOxn6mSPS-FXcdCzGiYYCWCIpU-6k4bVcRUjYQz43t9zuRUB30r7BtfnSNL4-r25Aqyz0X4LSyTQG-_ph_a0GyH5N_w9w3E0FBM5nkS5SOKugiNOuvDZWrNdpaOR4YOSRJJfVQ5XS9PxgGoWW7w&response_mode=form_post&nonce=638188095905829013.OGJhMzkyNzctMjIyYy00NjY1LWIxZmMtNzM3MGNjYjliMjVhNGFhNGEyMDktNjNjZi00MGY2LThkN2EtNWIyMDFjYzI2OTBl&x-client-SKU=ID_NET461&x-client-ver=5.3.0.0, https://mypepsico.okta.com/sso/idps/0oa1j91d0vcZaVGvd0h8?stateTokenExternalId=c21zOVM5Z3dTNTlSdjB3QnFFVFNoOW9UQXhxd1dNL0E2bldVNUxBSS92c1daOEJmbG1JVkxwR0RZaGU4UkJoYw, https://secure.mypepsico.com/associatesso/login",,true
+pepsicouxcoe.com,,,,"https://secure.pepsico.com/oauth2/default/v1/authorize?client_id=0oa1knxfbxvhC76D90h8&response_type=code&scope=openid%20email&redirect_uri=https%3A//pepsicouxcoe.com/openid-connect/okta&state=EaDNBL1-iMv7UD-djj09TNbt2l4_ln7rpLpSSJzQZkM, https://secure.pepsico.com/sso/idps/0oa1j91d0vcZaVGvd0h8?stateTokenExternalId=cTNoc0RBMi92aU9VRXBZRndUa1RtdHp3bmNpS0ZWbUNYOGJlUkVUSDZuY09ibjZVRkdXQVV1U0lBNHZHeDZodA, https://secure.mypepsico.com/associatesso/login",,true
+consumer2030pepsislider.com,,,,"https://accounts.wspprod.com/oauth2/authorize?client_id=3n17enmpn1qamag83go6lv6d33&redirect_uri=https%3A%2F%2Fconsumer2030pepsislider.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid&state=w2cElfKrFaMehRrV9ZkJ0CHTtH90uR1yI1235ocSUdAGSJpybl5MaYWLsS7iHwOzXh1w5M2o8t1J%2BsQG%2FVG6uS9VX1uIZpu%2BsGacBjDvwmOpxrFP5DadwECLbdl69QdRhf8hEQZW%2FeDWjh2i804rvm5x5CKcd45S%2Fo5iLyM6R8BzdeOQdvl1w%2BRBFcKvEl0SSZcWY31zyJWy, https://secure.pepsico.com/app/mypepsico_websolutionplatformi_1/exk1n6sbdx53yQ2wU0h8/sso/saml?SAMLRequest=fZLBTuMwEIbvPEXku5PYSdqu1QR1QUhIVCug3cNeKtcZqLWJbTw2bffpSQOVtheOHv3fzPiz59eHvkvewaO2piYszUkCRtlWm9earFd3dEaum6s5yr7jTixi2JkneIuAIVkggg8Dd2MNxh78M%2Fh3rWD99FCTXQgORZZJpWw0AdM9OudtmyrbZ2O3TLfOA7oBBpLcDh21kWFc4wwjqOghdeBQKzui0rmsP35VNnvYou3iiXKdDC%2FW93rDMjj8ZWaC2%2FZQFcdHvl%2Fnu1mGaMfBJLm%2FrcmmVCWfVLMtlXwiaVmWBZXTH4xuKzarpq3kLWuHKGKEe4NBmlATnvOC5hXNyxWrRD4RBU%2FZtPhDkt9ng%2FxkcHBqUHw6q0n0RliJGoWRPaAISjwvlg9iiIpBSbDKdqT5VCzGgT65G24iw%2FfsqaJb%2BjJGBZigw%2FFi9ve4PD8faU4x2ct%2F1ghlX40OVqATESlIDJRtqqXeVetfP5fz7P8tm6%2Fj5b9oPgA%3D&RelayState=H4sIAAAAAAAAABVS25KiMBD9F17HrARIAN_U8a6DwijqzpYVkiiMaBgSBNnaf9_4dupcuvpU91-DGD2jkoATqQA8oVWWom0wWBkdI9HKmhcyGwoQXBUB61IwzVPN23fo8vutuMMfciMXz74InD8ws21tYNqQKlXIXrdLxV1WN15apm0Wr2Eyzxgvf1Fx6wpSqdTqZqwouSy0kesw12Eq2AueNYz6q6WGF6P32xAFv2fM-NMxUq3UFh3l50U5JiuehuXOP17n5nD6qaa-WYXwOYOWjQSNtqw_iebFM8nRihzipYzcbFoH7T6FNVpZwlNw_iY3k6-v7m6Cq8jf7WE1OxbVm5wQOvh-f9S3oGjK8Rq9E1aPhsuE5djfsDA9e-loc4x1kr_H36mVeaZTPm6oQcMFZQ6KtCJQtnyucOgNWsaDDXvksH4LB2O6eIxyM4qOND7YsH3O46fuedXFPo6HsBaNWLX1RzCard2yWPTpPInXgVvierF1pmVN-_jMFYt1nzYLtw0Jm9zLvGe7DrLjBzDHUi0eUzvdzg6PhXTTPDn0r9kgiWbLkJxOYqguyyuc1x5oP8GPUtvNqan2y0aq6NMNbFbagO0ydfBm0beKSqvYDtKLOWxGtbue45OI9y09vb4k1xsTSkV1V_JXLYtCP8nrulq6GT2IPduClutbHaMwemeSS94xSp1B2PN9xH1gYciAAxMMPHI-A5cmGLkc256L9AylrSeHOhZGXgKIhQlwHMcGxPUhSBD0kMuIxSAz_v0HJe62lMwCAAA.H4sIAAAAAAAAANO5vunwtwCt5-eaN5ry3vmQnbYjP686adLJyOzt5rPKNU0AHxpenyAAAAA.4, https://secure.mypepsico.com/associatesso/login?RelayState=%252Fapp%252Fmypepsico_websolutionplatformi_1%252Fexk1n6sbdx53yQ2wU0h8%252Fsso%252Fsaml%253FSAMLRequest%253DfZLBTuMwEIbvPEXku5PYSdqu1QR1QUhIVCug3cNeKtcZqLWJbTw2bffpSQOVtheOHv3fzPiz59eHvkvewaO2piYszUkCRtlWm9earFd3dEaum6s5yr7jTixi2JkneIuAIVkggg8Dd2MNxh78M%25252Fh3rWD99FCTXQgORZZJpWw0AdM9OudtmyrbZ2O3TLfOA7oBBpLcDh21kWFc4wwjqOghdeBQKzui0rmsP35VNnvYou3iiXKdDC%25252FW93rDMjj8ZWaC2%25252FZQFcdHvl%25252Fnu1mGaMfBJLm%25252FrcmmVCWfVLMtlXwiaVmWBZXTH4xuKzarpq3kLWuHKGKEe4NBmlATnvOC5hXNyxWrRD4RBU%25252FZtPhDkt9ng%25252FxkcHBqUHw6q0n0RliJGoWRPaAISjwvlg9iiIpBSbDKdqT5VCzGgT65G24iw%25252FfsqaJb%25252BjJGBZigw%25252FFi9ve4PD8faU4x2ct%25252F1ghlX40OVqATESlIDJRtqqXeVetfP5fz7P8tm6%25252Fj5b9oPgA%25253D%2526RelayState%253DH4sIAAAAAAAAABVS25KiMBD9F17HrARIAN_U8a6DwijqzpYVkiiMaBgSBNnaf9_4dupcuvpU91-DGD2jkoATqQA8oVWWom0wWBkdI9HKmhcyGwoQXBUB61IwzVPN23fo8vutuMMfciMXz74InD8ws21tYNqQKlXIXrdLxV1WN15apm0Wr2Eyzxgvf1Fx6wpSqdTqZqwouSy0kesw12Eq2AueNYz6q6WGF6P32xAFv2fM-NMxUq3UFh3l50U5JiuehuXOP17n5nD6qaa-WYXwOYOWjQSNtqw_iebFM8nRihzipYzcbFoH7T6FNVpZwlNw_iY3k6-v7m6Cq8jf7WE1OxbVm5wQOvh-f9S3oGjK8Rq9E1aPhsuE5djfsDA9e-loc4x1kr_H36mVeaZTPm6oQcMFZQ6KtCJQtnyucOgNWsaDDXvksH4LB2O6eIxyM4qOND7YsH3O46fuedXFPo6HsBaNWLX1RzCard2yWPTpPInXgVvierF1pmVN-_jMFYt1nzYLtw0Jm9zLvGe7DrLjBzDHUi0eUzvdzg6PhXTTPDn0r9kgiWbLkJxOYqguyyuc1x5oP8GPUtvNqan2y0aq6NMNbFbagO0ydfBm0beKSqvYDtKLOWxGtbue45OI9y09vb4k1xsTSkV1V_JXLYtCP8nrulq6GT2IPduClutbHaMwemeSS94xSp1B2PN9xH1gYciAAxMMPHI-A5cmGLkc256L9AylrSeHOhZGXgKIhQlwHMcGxPUhSBD0kMuIxSAz_v0HJe62lMwCAAA.H4sIAAAAAAAAANO5vunwtwCt5-eaN5ry3vmQnbYjP686adLJyOzt5rPKNU0AHxpenyAAAAA.4",,true
+climatesimulator.pepsico.com,,,,"https://mypepsico.okta.com/oauth2/default/v1/authorize?client_id=0oa1knxfbxvhC76D90h8&redirect_uri=https%3A%2F%2Fclimatesimulator.pepsico.com%2Foauth2%2Fidpresponse&response_type=code&scope=openid&state=DY4AbmropobMFX8DTeka7Z2yat3BxgOCz6Wk3IQS%2BpmruXJWuqRhzaXUDxP3NTSaWs37Sz4znvYi0Fkr9iYkb8HZ8VhOfVcpvgSMu7SZNjoIko1Ltj4yiaryW60YllMWJobxq6mA1Dyrc%2BUCvLurG2LaOxNEH%2Fu63RnXwODzDWb%2B4Iwzan%2FgpkLWEOkfnScq14Nd1mFx, https://mypepsico.okta.com/sso/idps/0oa1j91d0vcZaVGvd0h8?stateTokenExternalId=VmxxellCcWd3d1lMTXBkWmVzc05IUytOdUZBSGZ0TVpYYUpCZFF5VlV4c2QrdHNhWlNKb21qU2NuOTlzRlB4cQ, https://secure.mypepsico.com/associatesso/login",,true
+toddy.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+cheetos.mx,GTM-P499LP6,UA-54378716-23,G-04C6679HNJ,https://cheetos.com.mx/,,true
+chestercheetos.com.mx,GTM-P499LP6,UA-54378716-23,G-04C6679HNJ,https://cheetos.com.mx/,,true
+chestercheetos.mx,GTM-P499LP6,UA-54378716-23,G-04C6679HNJ,https://cheetos.com.mx/,,true
+chewy.mx,GTM-WVD7HQC,"UA-130574213-3, UA-54378716-50","G-KVVF0B7RR4, G-9LES6LMQKQ",https://quaker.lat/mx/,,true
+churrumais.com.mx,GTM-T47N4V2,,G-4MCL48KL7C,"https://sabritas.com.mx/, https://sabritas.com.mx/promocion/",,true
+churrumais.mx,GTM-T47N4V2,,G-4MCL48KL7C,"https://sabritas.com.mx/, https://sabritas.com.mx/promocion/",,true
+crackets.com,GTM-TFMNHF7,,G-J6N66ZBQ8J,https://crackets.com.mx/,,true
+crackets.mx,GTM-TFMNHF7,,G-J6N66ZBQ8J,https://crackets.com.mx/,,true
+crujitos.mx,,UA-54378716-53,,https://crujitos.com.mx/,,true
+fritos.mx,,UA-54378716-53,,https://fritos.com.mx/,,true
+habaneras.mx,GTM-N48X3HS,UA-54378716-39,G-H8RX1RR1E7,https://habaneras.com.mx/,,true
+hummus.mx,GTM-MZTXH8C,UA-54378716-46,,https://obela.com.mx/,,true
+kacang.mx,,UA-54378716-11,,https://kacang.com.mx/,,true
+mamutmamut.com,GTM-NBWRF6F,UA-54378716-53,"G-3DJ9NM8BG6, G-BWWY3Y1T9M","https://mamutmamut.com.mx/, https://gamesa.com.mx/, https://joyapp.mx/inicio",,true
+mancha-t.mx,,UA-54378716-12,G-LKHFPL4KRN,https://rockaleta.com.mx/,,true
+manchat.com.mx,,UA-54378716-12,G-LKHFPL4KRN,https://rockaleta.com.mx/,,true
+manchat.mx,,UA-54378716-12,G-LKHFPL4KRN,https://rockaleta.com.mx/,,true
+marias.com.mx,GTM-TBNNLHL,,"G-Q9NGQQ8MV0, G-W95LNKBDMQ",https://mariasgamesa.com/,,true
+mariasgamesa.com.mx,GTM-TBNNLHL,,"G-Q9NGQQ8MV0, G-W95LNKBDMQ",https://mariasgamesa.com/,,true
+mariasgamesa.mx,GTM-TBNNLHL,,"G-Q9NGQQ8MV0, G-W95LNKBDMQ",https://mariasgamesa.com/,,true
+milch.com.mx,,UA-54378716-12,G-LKHFPL4KRN,https://rockaleta.com.mx/,,true
+milch.mx,,UA-54378716-12,G-LKHFPL4KRN,https://rockaleta.com.mx/,,true
+obelamex.com.mx,GTM-MZTXH8C,UA-54378716-46,,https://obela.com.mx/,,true
+obelamexico.com.mx,GTM-MZTXH8C,UA-54378716-46,,https://obela.com.mx/,,true
+paketaxo.mx,GTM-T56DLWZ,UA-54378716-26,G-PST98LKHX3,https://paketaxo.com.mx/,,true
+papassabritas.mx,GTM-5S436GF,UA-54378716-34,G-BP6F4LHR84,"https://papassabritas.com.mx/, https://papassabritas.com.mx/naturalidad/",,true
+poffets.mx,GTM-TVHC5HV,UA-54378716-9,G-629JDRJJV8,https://poffets.com.mx/,,true
+ruffles.mx,GTM-T468N8M,,G-BSEMSLWBVP,"https://ruffles.com.mx/, https://ruffles.com.mx/promocion/",,true
+sabritas.mx,GTM-T47N4V2,,G-4MCL48KL7C,"https://sabritas.com.mx/, https://sabritas.com.mx/promocion/",,true
+saladitas.mx,GTM-KGD5NTX,UA-54378716-6,G-ZH5844P58T,https://saladitas.com.mx/,,true
+tostitos.mx,GTM-P5PTLX7,,G-BBL600G6FG,"https://tostitos.com.mx/, https://tostitos.com.mx/promocion/",,true
+churrumais.com,GTM-T47N4V2,,G-4MCL48KL7C,"https://sabritas.com.mx/, https://sabritas.com.mx/promocion/",,true
+crujitos.com,,UA-54378716-53,,https://crujitos.com.mx/,,true
+emperador.mx,GTM-KRX2N7F,UA-54378716-27,G-4969K8SEJK,"https://emperador.com.mx/, https://emperador.com.mx/empoderador/",,true
+emperadorgamesa.com,GTM-KRX2N7F,UA-54378716-27,G-4969K8SEJK,"https://emperador.com.mx/, https://emperador.com.mx/empoderador/",,true
+gamesaclasicas.com,GTM-NBWRF6F,UA-54378716-53,"G-BWWY3Y1T9M, G-3DJ9NM8BG6","https://gamesa.com.mx/, https://joyapp.mx/inicio",,true
+kkwates.com,,UA-54378716-11,,https://kacang.com.mx/,,true
+paketaxo.com,GTM-T56DLWZ,UA-54378716-26,G-PST98LKHX3,https://paketaxo.com.mx/,,true
+papassabritas.com,GTM-5S436GF,UA-54378716-34,G-BP6F4LHR84,"https://papassabritas.com.mx/, https://papassabritas.com.mx/naturalidad/",,true
+rancheritos.com,,UA-54378716-53,,https://rancheritos.com.mx/,,true
+chestercheetos.com,GTM-P499LP6,UA-54378716-23,G-04C6679HNJ,https://cheetos.com.mx/,,true
+hazloconquaker.com,,,,https://hazloconquaker.com/cgi-sys/suspendedpage.cgi,,true
+cheetos.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+lays.com.br,GTM-WG6Q9CK,UA-157267572-21,G-6LEJVNGDRP,https://campoaopacote.lays.com.br/,,true
+ruffles.com.br,,,,"https://www.facebook.com/RufflesOficial/, https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FRufflesOficial%2F",,true
+rancheritos.mx,,UA-54378716-53,,https://rancheritos.com.mx/,,true
+doritos.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/cl/marcas/doritos/, http://snacks-pepsico.com/cl/marcas/doritos, https://snacks-pepsico.com/cl/marcas/doritos",,true
+retrosnacks.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+lays.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+gatorade.cl,"GTM-KN9CBNX, GTM-P74F2KZ",UA-130574213-48,,https://gatorade.lat/cl/,,true
+chester.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+chispop.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+fritolay.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+nachos.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+ramitas.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+snack.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+gatoraderunning.lat,"GTM-M8XJ427, GTM-WKC2WMX",,G-7WPFGYWL1F,https://gatorade.lat/,,true
+campanhatoptime.com.br,,,,https://campanhatoptime.com.br/login.php,,true
+stax.cl,GTM-WL9ZVDP,,G-9L3PDEDSBY,"https://snacks-pepsico.com/, https://snacks-pepsico.com/cl, http://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/, https://snacks-pepsico.com/cl/inicio",,true
+participedoplanetlove.com,,,,https://sumateaplanetlove.com/pt,,true
+briskmode.com,GTM-M6CM29,"UA-11585500-4, UA-11585500-1",G-VJ36JWQDE1,"https://domains.squadhelp.com/lpd/name/briskmode.com, https://www.squadhelp.com/name/BriskMode",,true
+poppables.com,,UA-11401921-115,G-324255056,https://www.lays.com/product-category/lays-poppables,,true
+drinkfinity.co.de,,,,,,true
+gatorade.tumblr.com,,,,https://www.tumblr.com/gatorade,,true
+gatoradehat.com,,,,,Erro na navegação: page.goto: net::ERR_NAME_NOT_RESOLVED at http://gatoradehat.com/_=========================== logs ===========================_navigating to "http://gatoradehat.com/"_ waiting until "domcontentloaded"_============================================================,true
+apps.facebook.com,,,,https://www.facebook.com/,,true
+culversyellowstone.com,,UA-2110993-1,,"http://www.culvers.com/, https://www.culvers.com/",,true
+culverspuzzleadventure.com,,UA-2110993-1,,https://www.culvers.com/,,true
+culversadventure.com,,UA-2110993-1,,https://www.culvers.com/,,true
+culversholidaysweeps.com,,UA-2110993-1,,https://www.culvers.com/,,true
+dewnitedwalmart.com,,,,"http://fulbe-whs.com/zcvisitor/618fb652-ea8d-11ed-ab53-1271d7fab0a5/72092e88-2c53-401c-b988-51ef43ce1034?campaignid=2213df10-c9b3-11ed-b0c5-12beee04f19b, http://fulbe-whs.com/zcredirect?visitid=618fb652-ea8d-11ed-ab53-1271d7fab0a5&type=js&browserWidth=800&browserHeight=600&iframeDetected=false&webdriverDetected=true, https://onlinescustomersurvey.com/?clickid=618fb652-ea8d-11ed-ab53-1271d7fab0a5, http://ww1.onlinescustomersurvey.com/",,true
+pepsibaseball.com,,,,https://www.pepsibaseball.com/,,true
+chooseyourheat.com,,,,"https://chooseyourheat.com/?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTY4MzIyMDA0OSwiaWF0IjoxNjgzMjEyODQ5LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIydGR2aWFwNWNxMzdjNm9lMDQwbGZyMmIiLCJuYmYiOjE2ODMyMTI4NDksInRzIjoxNjgzMjEyODQ5NDU5MzUxfQ.oxq5UPfNJ63ZEBycQHdIzdS45MwwK0AwWitvLPzNJgs&sid=8c81ab4c-ea2f-11ed-9ed7-cffd68d1d81d, http://ww1.chooseyourheat.com/?backfill=0&term=B2B+Travel+Booking+System&term=Best+Mortgage+Refinancing+Rates&term=Elite+Dating+Service&term=Elite+Dating+Services&term=Get+an+Online+Degree&term=Make+Money+From+Home&term=Online+Career+Counseling+Programs",,true
+pepfeed.mypepsico.com,,,,"https://secure.mypepsico.com/associatesso/ssologin?TYPE=33554433&REALMOID=06-000d3f28-7682-1424-99cd-da1d9c514017&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=portal2prod-apache-peplxw00043-agent&TARGET=$SM$https%3a%2f%2fpepfeed%2emypepsico%2ecom%2f, https://secure.mypepsico.com/associatesso/login?TYPE=33554433&REALMOID=06-000d3f28-7682-1424-99cd-da1d9c514017&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=portal2prod-apache-peplxw00043-agent&TARGET=$SM$https%3a%2f%2fpepfeed%2emypepsico%2ecom%2f",,true
+cookwithquaker.com,,,G-XNFKZTZX02,"https://www.emorrison.com/, https://www.emorrison.com/NGen/login.aspx, https://sso.compassmanager.com/login?service=https%3a%2f%2fwww.emorrison.com%2fNGen%2flogin.aspx",,true
+rockstarextramilesweeps.com,,,,"https://rockstarextramilesweeps.com/?ch=1&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTY4MzIyMDA1MCwiaWF0IjoxNjgzMjEyODUwLCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIydGR2aWFyOGtpbmszaGswdHMwNG9lczQiLCJuYmYiOjE2ODMyMTI4NTAsInRzIjoxNjgzMjEyODUwNTg3MzkwfQ.uHqlQMtVnhPEhsuHxpCJIXrX6TmpwZ4jeGZu_oFA8yY&sid=8d21c8de-ea2f-11ed-818f-f0e8d5636bc8, http://ww1.rockstarextramilesweeps.com/",,true
+pepsibaseballsweeps.com,,,,https://pepsibaseballsweeps.com/ABQIsotopes/,,true
+oatauthority.tumblr.com,,,,https://www.tumblr.com/explore?referer=404,,true
+lays.fr,GTM-NDF7BCB,,,,,true
+pepsico-pro.fr,GTM-54347FT,,,,,true
+recettes.quaker.fr,GTM-PV7JWGK,UA-79743383-7,G-JTR0KW2ERL,,,true
+pepsico-foodservice.fr,GTM-54347FT,,,,,true
+quakerarabia.com,GTM-TB72NWZ,,G-RDQC05070M,,,true
+spekkorice.co.za,,UA-49061347-1,G-Q4Z8SEJ7ME,,,true
+sasko.co.za,,UA-74112373-1,,,,true
+flavorsplash.com,GTM-SXRF,"UA-48868221-2, UA-115508484-1",G-3K6H374GJN,,,true
+weareblood.com,,,,https://www.weareblood.com/,,true
+yachak.com,GTM-TKQBQ87,UA-62703767-20,G-NMGHSQY3Q3,https://www.yachak.com/,,true
+elmachips.com.br,GTM-WSM7Z6P,UA-157267572-27,G-DSJSHS19RY,,,true
+pastagrande.co.za,,UA-110554851-1,G-7MLF8G52C7,,,true
+winkler-jewelry.com,GTM-K4HB7JM,UA-178554037-1,,,,true
+maizoro.com.mx,,UA-49942547-24,,,,true
+pepsicoschoolsource.com,GTM-PJBNRSP,UA-198726561-1,,https://www.pepsicoschoolsource.com/,,true
+musclemilk.com,,,,https://www.musclemilk.com/,,true
+piperscrisps.com,GTM-W4C8CQ7,,,"https://www.piperscrisps.com/, https://www.piperscrisps.com/en",,true
+fritolay.com.tr,,UA-75849113-1,,,,true
+conquista-bares.com,,,,https://www.conquista-bares.com/,,true
+gatorade.at,GTM-TJNDC4Z,,,"https://www.gatorade.at/, https://www.gatorade.at/de",,true
+pepsiconcorsi.it,GTM-W4XTQL6,,,https://www.pepsiconcorsi.it/,,true
+pidepepsimax.es,,,,https://www.pidepepsimax.es/,,true
+meconsumerfeedback.com,,,,https://www.meconsumerfeedback.com/,,true
+smiths-chips.com.au,GTM-WSWQLXH,UA-189371829-1,,https://www.smiths-chips.com.au/,,true
+pepsi.in,,,,https://www.pepsi.in/,,true
+pioneerfoods.co.za,,UA-70504217-1,G-C9H16J2YMM,,Erro na navegação: page.waitForLoadState: Timeout 60000ms exceeded.,true
+pepsicotaiwan.com,,,,https://www.pepsicotaiwan.com/,,true
+brasil3kmpepsi.com,,,,https://www.brasil3kmpepsi.com/,,true
+waterdispenserstandard.com,GTM-KHHNN5V,,,https://www.waterdispenserstandard.com/,,true
+funyuns.com,GTM-NM9243S,UA-62703767-10,G-1WJN42T3TW,https://www.funyuns.com/,,true
+moresmileswitheverybite.com,,UA-62703767-5,,https://www.moresmileswitheverybite.com/,,true
+fritolayemployment.com,GTM-M5GLRL6,UA-62703767-3,,https://www.fritolayemployment.com/,,true
+quaker.co.id,,,,https://www.quaker.co.id/,,true
+popcorners.com.au,GTM-MRL89HH,,G-X8GM1P769K,https://www.popcorners.com.au/,,true
+pepsico.cl,,"UA-73769382-4, UA-33920628-1","G-0CHEZQ61SD, G-DV7R6SKYE6",https://www.pepsico.cl/,,true
+fritolayhoops.com,,UA-24623105-33,,,,true
+wheeloflevy.com,,,,https://www.wheeloflevy.com/,,true
+drinkfinity.com.br,,,,https://www.drinkfinity.com.br/,,true
+pepsicoteamofchampions.com,GTM-T6XQJCX,UA-62703767-11,G-DQSRV33D01,https://www.pepsicoteamofchampions.com/,,true
+foundedbyher.org,GTM-M4QNC8M,UA-62703767-16,G-FMQSMLCLTZ,https://www.foundedbyher.org/,,true
+dolelemonade.com,,,,https://www.dolelemonade.com/,,true
+popcorners.com,GTM-KV68297,UA-62703767-30,G-GQ0M06TQHC,https://www.popcorners.com/,,true
+pepsico.co.uk,GTM-5SKM947,UA-109062865-1,G-R2G4DTTMRP,https://www.pepsico.co.uk/,,true
+chewy.com.mx,GTM-WVD7HQC,"UA-130574213-3, UA-54378716-50","G-KVVF0B7RR4, G-9LES6LMQKQ",https://quaker.lat/mx/,,true
+kkwates.com.mx,,UA-54378716-11,,https://kacang.com.mx/,,true
+mamutmamut.com.mx,GTM-NBWRF6F,UA-54378716-53,"G-3DJ9NM8BG6, G-BWWY3Y1T9M","https://gamesa.com.mx/, https://joyapp.mx/inicio",,true
+mancha-t.com.mx,,UA-54378716-12,G-LKHFPL4KRN,https://rockaleta.com.mx/,,true
+quaker.mx,GTM-WVD7HQC,"UA-130574213-3, UA-54378716-50","G-KVVF0B7RR4, G-9LES6LMQKQ",https://quaker.lat/mx/,,true
+rockaleta.mx,,UA-54378716-12,G-LKHFPL4KRN,https://rockaleta.com.mx/,,true
+ceresfruitjuice.com,,UA-124373303-1,G-Q5HPQZSED5,https://ceresfruitjuice.com/home/,,true
+gatorade.com.co,,UA-48521366-1,,https://gatorade.com.co/app/website/,,true
+fundacionsabritas.org.mx,,,,https://fundacionsabritas.org.mx/404.html,,true
+portalproveedorespepsico.com,,,,"https://portalproveedorespepsico.com/CFDPortal, https://portalproveedorespepsico.com/CFDPortal/",,true
+participaconpepsico.com,,,,https://participaconpepsico.com/promotions/not_active/expired/945676,,true
+pepsiinteractivevending.com,,,,,,true
+drinkfinity.co.uk,,UA-12836346-2,,,,true
+earnfootballgear.com,,,,,,true
+doritosspiderman.com,,,,,,true
+dummy.com,,,,,,true
+pepsihootersweeps.com,,,,,,true
+toysfortots.org,"GTM-MTRHTV4, GTM-PNP7JWH",UA-69147524-1,G-4SS7PGWH6L,,,true
+sodastream.com.br,GTM-5KZMP4W,UA-165887682-1,G-4T3SLZNNVX,https://www.sodastream.com.br/,,true
+drinkstation.com,,,,https://www.drinkstation.com/,,true
+secretsantapromo.com.au,,,G-HXR60VPREW,https://www.secretsantapromo.com.au/,,true
+packsnackwin.com.au,,,G-PMSG2P9SJ9,"https://www.packsnackwin.com.au/, https://www.packsnackwin.com.au/Enter/Closed/",,true
+7up.com,,UA-15121949-1,,"http://www.7up.com/, https://www.7up.com/, https://www.7up.com/en",,true

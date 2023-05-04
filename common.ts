@@ -37,9 +37,9 @@ export function jsonarray2csv(json: { [key: string]: any }[]) {
   );
   json.forEach(rowObj => {
     headerKeys.forEach((headerKey, idx, self) => {
-      // caso o valor seja array, transforma-o numa string separada por ","
+      // caso o valor seja array, transforma-o numa string separada por ", "
       if (Array.isArray(rowObj[headerKey]))
-        rowObj[headerKey] = rowObj[headerKey].join(',');
+        rowObj[headerKey] = rowObj[headerKey].join(', ');
       // caso o valor possua vírgula, envolvê-lo em aspas duplas
       if (
         typeof rowObj[headerKey] === 'string' &&
