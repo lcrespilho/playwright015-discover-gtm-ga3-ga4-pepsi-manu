@@ -20,7 +20,6 @@ let sites: Site[] = [
     error: '',
     visited: false,
   },
-  { url: 'websitecontrolcenter.pepsico.com' },
   { url: 'mueveloconpepsi.com' },
   { url: 'promopepsi.com.ar' },
   { url: 'doritos.com.br' },
@@ -583,12 +582,12 @@ if (process.env.REFAZER) {
   await Promise.all(
     sites
       .filter(site => !site.visited)
-      .slice(0, Number(process.env.SLICE || 100))
+      .slice(0, Number(process.env.SLICE || Infinity))
       .map(site =>
         TaskQueue.push(async done => {
           let page: Page | boolean = false;
           try {
-            console.log(c.blue(`${site.url} - ${sites.findIndex(({ url }) => url === site.url)}/${sites.length}`));
+            console.log(c.blue(`${site.url} - ${sites.findIndex(({ url }) => url === site.url) + 1}/${sites.length}`));
             site.gtms = [];
             site.ga3Properties = [];
             site.ga4Properties = [];
@@ -596,7 +595,7 @@ if (process.env.REFAZER) {
             site.error = '';
             site.visited = false;
             page = await context.newPage();
-            if (process.env.DEVTOOLS) await page.waitForTimeout(5000); // tempo para abertura do DevTools
+            if (process.env.HEADLESS === 'false' && process.env.DEVTOOLS === 'true') await page.waitForTimeout(5000); // tempo para abertura do DevTools
 
             // Captura IDs de GTM e GA.
             page.on('request', async (req: Request) => {
@@ -649,7 +648,9 @@ if (process.env.REFAZER) {
               // navegação via http
               await page.goto(`http://${site.url}`, { waitUntil: 'domcontentloaded' });
             }
-            await page.waitForTimeout(Number(process.env.WAIT || 0)); // tempo para clicar em banners de cookie, etc
+            if (process.env.HEADLESS === 'false') {
+              await page.waitForTimeout(Number(process.env.WAIT || 0)); // tempo para clicar em banners de cookie
+            }
             // Simula interação para forçar o carregamento de GTM/analytics em sites lazy.
             {
               await page.mouse.move(100, 100, { steps: 3 });
